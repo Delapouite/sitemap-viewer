@@ -2,34 +2,84 @@
 <html>
 <head>
 	<title>Sitemap Viewer</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			display: flex;
+		}
+		body > ol {
+			flex: 1;
+			justify-content: center
+		}
+	</style>
 	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
 	<script src="/js/vendor/uri.js"></script>
 </head>
 <body>
-	<h1>In console</h1>
 	<script>
+	var junks = [
+		'https://developer.mozilla.org/fr/docs/C404',
+		'https://developer.mozilla.org/fr/docs/davidwalshtestdoc',
+		'https://developer.mozilla.org/fr/docs/My_Chrome_Oven',
+		'https://developer.mozilla.org/fr/docs/Vulgarisation_XUL/Godvicien',
+		'https://developer.mozilla.org/fr/docs/lisandru',
+		'https://developer.mozilla.org/fr/docs/Pr%C3%A9cis_CSS_2',
+		'https://developer.mozilla.org/fr/docs/Test'
+	];
 	function display(country) {
-		var i = 0,
-			paths = {};
 		$.ajax({
 			url: '/sitemaps/' + country + '.xml',
 		}).done(function(xml) {
+			// order paths and locs by alpha
+			var locs = {};
 			$(xml).find('url').each(function() {
-				if (i++ > 2500) return;
-				var uri = new URI($(this).find('loc').text()),
-					directory = uri.directory(true);
-				if (!paths[directory]) {
-					paths[directory] = [];
+				var loc = $(this).find('loc').text();
+				var uri = new URI(loc);
+				var path = uri.directory(true);
+				if (!locs[path]) {
+					locs[path] = [];
 				}
-				paths[directory].push(uri.filename(true));
+				locs[path].push(loc);
 			});
-			// Output
-			console.debug($(xml).find('url').length + ' urls');
-			console.dir(paths);
+
+			var paths = _.sortBy(Object.keys(locs));
+
+			// country header
+			var countryHeader = document.createElement('h2');
+			countryHeader.textContent = country + ' : ' + $(xml).find('url').length + ' urls';
+			document.body.appendChild(countryHeader);
+
+			var pathsList = document.createElement('ol');
+
+			paths.forEach(function(path) {
+
+				// path header
+				var pathHeader = document.createElement('li');
+				pathHeader.textContent = path;
+				pathsList.appendChild(pathHeader);
+
+				locsList = document.createElement('ol');
+
+				var orderedLocs = _.sortBy(locs[path]);
+				orderedLocs.forEach(function(loc) {
+					var li = document.createElement('li');
+					var a = document.createElement('a');
+					a.textContent = (new URI(loc)).filename(true);
+					a.href = loc;
+					if (~junks.indexOf(loc)) {
+						a.style.color = 'red';
+					}
+					li.appendChild(a);
+					locsList.appendChild(li);
+				});
+				pathsList.appendChild(locsList);
+			});
+			document.body.appendChild(pathsList);
 		});
 	}
 	display('fr');
-	display('en-US');
+	// display('en-US');
 	</script>
 </body>
 </html>
