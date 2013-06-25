@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sitemap Viewer</title>
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="/js/vendor/uri.js"></script>
+</head>
+<body>
+	<h1>In console</h1>
+	<script>
+	function display(country) {
+		var i = 0,
+			paths = {};
+		$.ajax({
+			url: '/sitemaps/' + country + '.xml',
+		}).done(function(xml) {
+			$(xml).find('url').each(function() {
+				if (i++ > 2500) return;
+				var uri = new URI($(this).find('loc').text()),
+					directory = uri.directory(true);
+				if (!paths[directory]) {
+					paths[directory] = [];
+				}
+				paths[directory].push(uri.filename(true));
+			});
+			// Output
+			console.debug($(xml).find('url').length + ' urls');
+			console.dir(paths);
+		});
+	}
+	display('fr');
+	display('en-US');
+	</script>
+</body>
+</html>
