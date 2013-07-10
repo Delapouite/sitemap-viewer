@@ -46,36 +46,19 @@
 			var paths = _.sortBy(Object.keys(locs));
 
 			// country header
-			var countryHeader = document.createElement('h2');
-			countryHeader.textContent = country + ' : ' + $(xml).find('url').length + ' urls';
-			document.body.appendChild(countryHeader);
-
-			var pathsList = document.createElement('ol');
+			var table = $('<table></table>');
+			table.append($('<tr><th><h2>' + country + ' : ' + $(xml).find('url').length + ' urls' + '</h2></th></tr>'));
 
 			paths.forEach(function(path) {
-
 				// path header
-				var pathHeader = document.createElement('li');
-				pathHeader.textContent = path;
-				pathsList.appendChild(pathHeader);
-
-				locsList = document.createElement('ol');
+				table.append($('<tr><td><h3>' + path + '</h3></td></tr>'));
 
 				var orderedLocs = _.sortBy(locs[path]);
 				orderedLocs.forEach(function(loc) {
-					var li = document.createElement('li');
-					var a = document.createElement('a');
-					a.textContent = (new URI(loc)).filename(true);
-					a.href = loc;
-					if (~junks.indexOf(loc)) {
-						a.style.color = 'red';
-					}
-					li.appendChild(a);
-					locsList.appendChild(li);
+					table.append('<tr><td><a href="' + loc + '">' + (new URI(loc)).filename(true) + '</a></td></tr>');
 				});
-				pathsList.appendChild(locsList);
 			});
-			document.body.appendChild(pathsList);
+			$('body').append(table);
 		});
 	}
 	display('fr');
