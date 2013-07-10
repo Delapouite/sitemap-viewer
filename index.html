@@ -32,7 +32,8 @@
 			url: '/sitemaps/' + country + '.xml',
 		}).done(function(xml) {
 			// order paths and locs by alpha
-			var locs = {};
+			var locs = {},
+				lastMods = {};
 			$(xml).find('url').each(function() {
 				var loc = $(this).find('loc').text();
 				var uri = new URI(loc);
@@ -41,21 +42,23 @@
 					locs[path] = [];
 				}
 				locs[path].push(loc);
+				lastMods[loc] = $(this).find('lastmod').text();
 			});
 
 			var paths = _.sortBy(Object.keys(locs));
 
 			// country header
 			var table = $('<table></table>');
-			table.append($('<tr><th><h2>' + country + ' : ' + $(xml).find('url').length + ' urls' + '</h2></th></tr>'));
+			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls' + '</h2></th></tr>'));
+			table.append($('<tr><th>lastmod</th><th>URI</th><th>Tags</th><th>Last updated</th><th>Last editor</th><th>Last dump</th><th>Junk?</th></tr>'));
 
 			paths.forEach(function(path) {
 				// path header
-				table.append($('<tr><td><h3>' + path + '</h3></td></tr>'));
+				table.append($('<tr><td colspan="7"><h3>' + path + '</h3></td></tr>'));
 
 				var orderedLocs = _.sortBy(locs[path]);
 				orderedLocs.forEach(function(loc) {
-					table.append('<tr><td><a href="' + loc + '">' + (new URI(loc)).filename(true) + '</a></td></tr>');
+					table.append('<tr><td>' + lastMods[loc] + '</td><td><a href="' + loc + '">' + (new URI(loc)).filename(true) + '</a></td><td></td><td></td><td></td><td></td><td></td></tr>');
 				});
 			});
 			$('body').append(table);
