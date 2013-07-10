@@ -1,0 +1,25 @@
+{
+  "name": "sitemap-viewer",
+  "version": "0.0.0",
+  "description": "sitemap-viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Delapouite/sitemap-viewer.git"
+  },
+  "author": "Delapouite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Delapouite/sitemap-viewer/issues"
+  },
+  "dependencies": {
+    "request": "~2.22.0",
+    "cheerio": "~0.12.0",
+    "express": "~3.3.4",
+    "jsonfile": "~1.0.0"
+  }
+}
