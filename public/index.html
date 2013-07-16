@@ -111,7 +111,7 @@
 					}
 					tr.append(
 						'<td class="lastMod ' + (lastMods[loc] < displayDate(savedLoc.lastUpdated) ? 'd05'
-											   : lastMods[loc] > displayDate(savedLoc.lastUpdated) ? 'd13' : '') + '">' + lastMods[loc] + '</td>',
+											   : lastMods[loc] > displayDate(savedLoc.lastUpdated) ? 'd11' : '') + '">' + lastMods[loc] + '</td>',
 						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
 						'<td class="locales">' + (savedLoc.locales && savedLoc.locales['en-US'] || '') + '</td>',
 						'<td>' + (savedLoc.tags && savedLoc.tags.join(' ') || '') +'</td>',

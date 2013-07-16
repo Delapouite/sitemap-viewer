@@ -977,38 +977,50 @@
   "https://developer.mozilla.org/fr/docs/Applications/Jeux/Considerations_particulieres": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-02-27T09:00:30-08:00",
-    "lastDump": "2013-07-16T11:51:01.795Z",
+    "lastDump": "2013-07-16T21:14:35.883Z",
     "tags": [
       "Mobile",
       "Jeux",
       "Apps",
       "Firefox OS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/Apps/Games/Special_considerations"
+    },
+    "contentLength": 3402
   },
   "https://developer.mozilla.org/fr/docs/Apps/FAQs": {
     "lastEditor": "Yoshino",
     "lastUpdated": "2012-12-09T20:59:58-08:00",
-    "lastDump": "2013-07-16T11:51:06.262Z",
+    "lastDump": "2013-07-16T21:14:34.747Z",
     "tags": [
       "NeedsTranslation",
       "TopicStub",
       "Apps",
       "Web Development"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/Apps/FAQs"
+    },
+    "contentLength": 180
   },
   "https://developer.mozilla.org/fr/docs/Apps/Game_engines_and_libraries": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-02-27T14:04:24-08:00",
-    "lastDump": "2013-07-16T11:51:07.334Z",
+    "lastDump": "2013-07-16T21:14:33.810Z",
     "tags": [
       "Apps",
       "Jeux"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/Apps/Games/Engines_and_tools"
+    },
+    "contentLength": 5098
   },
   "https://developer.mozilla.org/fr/docs/Apps/Publishing": {
     "lastEditor": "Yoshino",
     "lastUpdated": "2013-02-23T10:16:34-08:00",
-    "lastDump": "2013-07-16T11:51:08.374Z",
+    "lastDump": "2013-07-16T21:14:32.189Z",
     "tags": [
       "TopicStub",
       "Apps",
@@ -1017,23 +1029,35 @@
       "marketplace",
       "Mobile",
       "NeedsTranslation"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/Apps/Publishing"
+    },
+    "contentLength": 3312
   },
   "https://developer.mozilla.org/fr/docs/Apps/FAQs/About_app_manifests": {
     "lastEditor": "blonchkMan",
     "lastUpdated": "2013-02-05T02:55:49-08:00",
-    "lastDump": "2013-07-16T11:51:09.318Z",
-    "tags": []
+    "lastDump": "2013-07-16T21:14:31.575Z",
+    "tags": [],
+    "locales": {
+      "en-US": "Web/Apps/FAQs/About_app_manifests"
+    },
+    "contentLength": 6143
   },
   "https://developer.mozilla.org/fr/docs/Apps/Publishing/Proposer_une_application": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T04:19:48-07:00",
-    "lastDump": "2013-07-16T11:51:10.503Z",
+    "lastDump": "2013-07-16T21:14:29.297Z",
     "tags": [
       "Mobile",
       "Apps",
       "Firefox OS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/Apps/Publishing/Submitting_an_app"
+    },
+    "contentLength": 5166
   },
   "https://developer.mozilla.org/fr/docs/Astuces_CSS/Couleurs_et_fonds": {
     "lastEditor": "Fredchat",
