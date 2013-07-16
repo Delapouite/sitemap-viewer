@@ -15,6 +15,9 @@
 		tr:nth-child(odd) {
 			background: #eee;
 		}
+		.lastMod, .lastUpdated, .lastDump {
+			white-space: nowrap;
+		}
 	</style>
 	<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
@@ -23,6 +26,7 @@
 </head>
 <body>
 	<script>
+	var currentURL = new URI(location);
 	var junks = [
 		'https://developer.mozilla.org/fr/docs/C404',
 		'https://developer.mozilla.org/fr/docs/davidwalshtestdoc',
@@ -70,21 +74,20 @@
 			table.append($('<tr><th>lastmod</th><th>URI</th><th>Tags</th><th>Last updated</th><th>Last editor</th><th>Last dump</th><th>Junk?</th></tr>'));
 
 			paths.forEach(function(path) {
-				// path header
-				table.append($('<tr><td colspan="7"><h3>' + path + '</h3></td></tr>'));
-
 				var orderedLocs = _.sortBy(locs[path]);
+				// path header
+				table.append($('<tr><td colspan="7"><h3>' + path + ' (' + orderedLocs.length + ')</h3></td></tr>'));
 				orderedLocs.forEach(function(loc) {
 					var uri = new URI(loc);
 					var savedLoc = db[URI.decode(uri.href())] || {};
 					var tr = $('<tr></tr>');
 					tr.append(
-						'<td>' + lastMods[loc] + '</td>',
+						'<td class="lastMod">' + lastMods[loc] + '</td>',
 						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
 						'<td>' + (savedLoc.tags && savedLoc.tags.join(' ') || '') +'</td>',
-						'<td>' + (savedLoc.lastUpdated && moment(savedLoc.lastUpdated).format('YYYY-MM-DD') || '') + '</td>',
+						'<td class="lastUpdated">' + (savedLoc.lastUpdated && moment(savedLoc.lastUpdated).format('YYYY-MM-DD') || '') + '</td>',
 						'<td>' + (savedLoc.lastEditor || '') + '</td>',
-						'<td><a href="/dump?url=' + uri.path() + '">' + (savedLoc.lastDump && moment(savedLoc.lastDump).format('YYYY-MM-DD')|| 'Never') + '</a></td>',
+						'<td class="lastDump"><a href="/dump?url=' + uri.path() + '">' + (savedLoc.lastDump && moment(savedLoc.lastDump).format('YYYY-MM-DD')|| 'Never') + '</a></td>',
 						'<td><input type="checkbox"></td>'
 					);
 					table.append(tr);
