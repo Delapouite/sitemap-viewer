@@ -47,6 +47,7 @@
 	];
 
 	var db;
+	var tags = {};
 	$.ajax({
 		url: '/db/fr.json',
 		async: false,
@@ -54,6 +55,11 @@
 			db = result;
 		}
 	});
+
+	function sortByValue(object) {
+	    var tuples = _.map(object, function (value, key) { return [key, value]; });
+	    return _.sortBy(tuples, function (tuple) { return tuple[1]; });
+	}
 
 	function displayDate(date, format) {
 		return (date && moment(date).format(format || 'YYYY-MM-DD')) || 'none';
@@ -93,6 +99,14 @@
 					var uri = new URI(loc);
 					var savedLoc = db[URI.decode(uri.href())] || {};
 					var tr = $('<tr></tr>');
+					if (savedLoc.tags) {
+						savedLoc.tags.forEach(function(tag) {
+							if (!tags[tag]) {
+								tags[tag] = 0;
+							}
+							tags[tag]++;
+						});
+					}
 					tr.append(
 						'<td class="lastMod">' + lastMods[loc] + '</td>',
 						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
@@ -106,6 +120,15 @@
 				});
 			});
 			$('body').append(table);
+
+			var sortedTags = sortByValue(tags);
+
+			var tagsList = $('<ul></ul>');
+			tagsList.append('<li><h2>' + sortedTags.length + ' Tags</h2></li>');
+			sortedTags.forEach(function(tag) {
+				tagsList.append('<li>' + tag[0] + ' - ' + tag[1] + '</li>');
+			});
+			$('body').append(tagsList);
 		});
 	}
 	display('fr');
