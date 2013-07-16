@@ -20,12 +20,18 @@ app.get('/dump', function(req, res) {
 		$('.tagit-label').each(function() {
 			tags.push($(this).text());
 		});
+		//locales
+		var locales = {};
+		if ($('#translations a:contains("English")')) {
+			locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
+		}
 		// dates
 		db[uri] = {
 			lastEditor: $('#doc-contributors a').last().text(),
 			lastUpdated: $('#doc-contributors time').first().attr('datetime'),
 			lastDump: new Date(),
-			tags: tags
+			tags: tags,
+			locales: locales
 		};
 		// save
 		jsonfile.writeFile(dbFileName, db, function(err) {

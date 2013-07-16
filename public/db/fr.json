@@ -1579,8 +1579,11 @@
   "https://developer.mozilla.org/fr/docs/Web/CSS/Specificité": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-28T08:54:31-07:00",
-    "lastDump": "2013-07-16T11:59:04.294Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:35:56.626Z",
+    "tags": [],
+    "locales": {
+      "en-US": "Web/CSS/Specificity"
+    }
   },
   "https://developer.mozilla.org/fr/docs/Vulgarisation_XUL/Premiers_pas_avec_les_extensions_Firefox": {
     "lastEditor": "Chbok",
@@ -8137,12 +8140,15 @@
     "tags": []
   },
   "https://developer.mozilla.org/fr/docs/Persona/Pourquoi_Persona": {
-    "lastEditor": "Goofy",
-    "lastUpdated": "2013-04-20T23:39:08-07:00",
-    "lastDump": "2013-07-16T14:04:12.796Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-16T12:25:36-07:00",
+    "lastDump": "2013-07-16T20:40:16.800Z",
     "tags": [
-      "Persona pourquoi présentation explication"
-    ]
+      "Persona"
+    ],
+    "locales": {
+      "en-US": "Mozilla/Persona/Why_Persona"
+    }
   },
   "https://developer.mozilla.org/fr/docs/Persona/vue_densemble_du_protocole": {
     "lastEditor": "Flaburgan",
