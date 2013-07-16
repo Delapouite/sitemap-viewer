@@ -22,7 +22,7 @@ app.get('/dump', function(req, res) {
 		});
 		//locales
 		var locales = {};
-		if ($('#translations a:contains("English")')) {
+		if ($('#translations a:contains("English")').length) {
 			locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
 		}
 		// dates
@@ -31,7 +31,8 @@ app.get('/dump', function(req, res) {
 			lastUpdated: $('#doc-contributors time').first().attr('datetime'),
 			lastDump: new Date(),
 			tags: tags,
-			locales: locales
+			locales: locales,
+			contentLength: $('#wikiArticle').text().trim().length
 		};
 		// save
 		jsonfile.writeFile(dbFileName, db, function(err) {

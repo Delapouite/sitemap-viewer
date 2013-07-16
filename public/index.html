@@ -91,7 +91,7 @@
 			table.append('<tr><th colspan="7"><a href="https://developer.mozilla.org/en-US/dashboards/revisions?locale=fr&user=&topic=">Revisions dashboard</a><th></tr>');
 			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls in sitemap, ' + Object.keys(db).length + ' dumped</h2></th></tr>'));
 			// fields
-			table.append($('<tr><th>lastmod</th><th>URI</th><th>en-US</th><th>Tags</th><th>Last updated</th><th>Last editor</th><th>Last dump</th></tr>'));
+			table.append($('<tr><th>lastmod</th><th>URI</th><th>en-US</th><th>Tags</th><th>Length</th><th>Last updated</th><th>Last editor</th><th>Last dump</th></tr>'));
 
 			paths.forEach(function(path) {
 				var orderedLocs = _.sortBy(locs[path]);
@@ -110,10 +110,11 @@
 						});
 					}
 					tr.append(
-						'<td class="lastMod">' + lastMods[loc] + '</td>',
+						'<td class="lastMod ' + (lastMods[loc] < displayDate(savedLoc.lastUpdated) ? 'd05' : '') + '">' + lastMods[loc] + '</td>',
 						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
 						'<td class="locales">' + (savedLoc.locales && savedLoc.locales['en-US'] || '') + '</td>',
 						'<td>' + (savedLoc.tags && savedLoc.tags.join(' ') || '') +'</td>',
+						'<td>' + (savedLoc.contentLength || '') + '</td>',
 						'<td class="lastUpdated d' + displayDate(savedLoc.lastUpdated, 'YY') + '">' + displayDate(savedLoc.lastUpdated) + '</td>',
 						'<td>' + (savedLoc.lastEditor || '') + '</td>',
 						'<td class="lastDump"><a href="/dump?url=' + uri.path() + '">' + displayDate(savedLoc.lastDump) + '</a></td>'

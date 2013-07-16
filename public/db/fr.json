@@ -139,10 +139,14 @@
   "https://developer.mozilla.org/fr/docs/CSS/Média/Visuel": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:24:22-07:00",
-    "lastDump": "2013-07-16T11:33:52.773Z",
+    "lastDump": "2013-07-16T21:06:00.146Z",
     "tags": [
       "Référence_CSS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/CSS/media/visual"
+    },
+    "contentLength": 98
   },
   "https://developer.mozilla.org/fr/docs/À_propos_du_Document_Object_Model": {
     "lastEditor": "Mgjbot",
@@ -222,24 +226,32 @@
   },
   "https://developer.mozilla.org/fr/docs//CSS/CSS_Reference/Sélecteurs_d'enfants_adjacents": {
     "lastEditor": "",
-    "lastDump": "2013-07-16T13:11:04.825Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:59:07.834Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 0
   },
   "https://developer.mozilla.org/fr/docs//HTML": {
     "lastEditor": "",
-    "lastDump": "2013-07-16T13:11:03.707Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:59:08.473Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 0
   },
   "https://developer.mozilla.org/fr/docs//HTML/Element": {
     "lastEditor": "",
-    "lastDump": "2013-07-16T13:11:05.659Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:59:06.571Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 0
   },
   "https://developer.mozilla.org/fr/docs/Build_Documentation/TOC": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-20T09:55:23-08:00",
-    "lastDump": "2013-07-16T11:38:03.694Z",
-    "tags": []
+    "lastDump": "2013-07-16T21:05:11.848Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 123
   },
   "https://developer.mozilla.org/fr/docs/JSON": {
     "lastEditor": "shitsod",
@@ -852,46 +864,66 @@
   "https://developer.mozilla.org/fr/docs/AJAX/Premiers_pas": {
     "lastEditor": "P_MO",
     "lastUpdated": "2012-05-10T14:33:37-07:00",
-    "lastDump": "2013-07-16T11:49:01.489Z",
+    "lastDump": "2013-07-16T20:58:02.073Z",
     "tags": [
       "AJAX"
-    ]
+    ],
+    "locales": {
+      "en-US": "AJAX/Getting_Started"
+    },
+    "contentLength": 13629
   },
   "https://developer.mozilla.org/fr/docs/AJAX/Autres_ressources": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T21:12:43-08:00",
-    "lastDump": "2013-07-16T11:49:03.009Z",
+    "lastDump": "2013-07-16T20:57:58.709Z",
     "tags": [
       "AJAX"
-    ]
+    ],
+    "locales": {
+      "en-US": "AJAX/Other_Resources"
+    },
+    "contentLength": 522
   },
   "https://developer.mozilla.org/fr/docs/API_du_toolkit/Références_officielles": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-05-21T18:02:09-07:00",
-    "lastDump": "2013-07-16T11:49:04.368Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:58:14.887Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 799
   },
   "https://developer.mozilla.org/fr/docs/AJAX/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T18:20:03-08:00",
-    "lastDump": "2013-07-16T11:49:04.596Z",
+    "lastDump": "2013-07-16T20:58:00.324Z",
     "tags": [
       "AJAX"
-    ]
+    ],
+    "locales": {
+      "en-US": "AJAX/Community"
+    },
+    "contentLength": 412
   },
   "https://developer.mozilla.org/fr/docs/Accessibilité/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T20:56:30-08:00",
-    "lastDump": "2013-07-16T11:49:06.959Z",
+    "lastDump": "2013-07-16T21:00:21.388Z",
     "tags": [
       "Accessibilité"
-    ]
+    ],
+    "locales": {},
+    "contentLength": 329
   },
   "https://developer.mozilla.org/fr/docs/Accessibilité/ARIA": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-02T10:07:14-07:00",
-    "lastDump": "2013-07-16T11:49:07.680Z",
-    "tags": []
+    "lastDump": "2013-07-16T21:00:22.768Z",
+    "tags": [],
+    "locales": {
+      "en-US": "Accessibility/ARIA"
+    },
+    "contentLength": 7608
   },
   "https://developer.mozilla.org/fr/docs/Évènements_online_et_offline": {
     "lastEditor": "BenoitL",
@@ -1006,26 +1038,38 @@
   "https://developer.mozilla.org/fr/docs/Astuces_CSS/Couleurs_et_fonds": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-10-27T07:24:25-07:00",
-    "lastDump": "2013-07-16T11:51:20.173Z",
+    "lastDump": "2013-07-16T21:05:14.923Z",
     "tags": [
       "css"
-    ]
+    ],
+    "locales": {
+      "en-US": "Useful_CSS_tips/Color_and_Background"
+    },
+    "contentLength": 6656
   },
   "https://developer.mozilla.org/fr/docs/Astuces_CSS/Liens": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-10-27T07:26:12-07:00",
-    "lastDump": "2013-07-16T11:51:21.303Z",
+    "lastDump": "2013-07-16T21:05:09.680Z",
     "tags": [
       "css"
-    ]
+    ],
+    "locales": {
+      "en-US": "Useful_CSS_tips/Links"
+    },
+    "contentLength": 1660
   },
   "https://developer.mozilla.org/fr/docs/Astuces_CSS/Tableaux": {
     "lastEditor": "ethertank",
     "lastUpdated": "2012-12-26T03:07:51-08:00",
-    "lastDump": "2013-07-16T11:51:22.465Z",
+    "lastDump": "2013-07-16T21:05:07.855Z",
     "tags": [
       "css"
-    ]
+    ],
+    "locales": {
+      "en-US": "Useful_CSS_tips/Tables"
+    },
+    "contentLength": 6599
   },
   "https://developer.mozilla.org/fr/docs/Créer_un_thème_pour_Firefox/UUID": {
     "lastEditor": "Mgjbot",
@@ -1346,15 +1390,17 @@
   "https://developer.mozilla.org/fr/docs/Accessibilité/ARIA/Accessible_Rich_Internet_Applications": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-02T10:29:53-07:00",
-    "lastDump": "2013-07-16T11:54:59.829Z",
+    "lastDump": "2013-07-16T21:00:25.738Z",
     "tags": [
       "junk"
-    ]
+    ],
+    "locales": {},
+    "contentLength": 36
   },
   "https://developer.mozilla.org/fr/docs/Accessibilité/ARIA/Applications_riches_Internet_accessibles": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-02T10:03:35-07:00",
-    "lastDump": "2013-07-16T11:55:01.969Z",
+    "lastDump": "2013-07-16T21:00:28.828Z",
     "tags": [
       "Accessibilité",
       "Aide_pour_les_éditeurs_de_MDC",
@@ -1362,23 +1408,31 @@
       "DHTML",
       "Traduction_en_cours",
       "DOM"
-    ]
+    ],
+    "locales": {},
+    "contentLength": 32094
   },
   "https://developer.mozilla.org/fr/docs/Assurance_qualité/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T18:22:22-08:00",
-    "lastDump": "2013-07-16T11:55:03.899Z",
+    "lastDump": "2013-07-16T21:05:15.432Z",
     "tags": [
       "Assurance_qualité"
-    ]
+    ],
+    "locales": {},
+    "contentLength": 340
   },
   "https://developer.mozilla.org/fr/docs/Assurance_qualité/Tests_en_charge": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2006-11-22T07:09:00-08:00",
-    "lastDump": "2013-07-16T11:55:04.657Z",
+    "lastDump": "2013-07-16T21:05:14.796Z",
     "tags": [
       "Assurance_qualité:Outils"
-    ]
+    ],
+    "locales": {
+      "en-US": "Mozilla/QA/Stress_Testing"
+    },
+    "contentLength": 929
   },
   "https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Ajout_de_z-index": {
     "lastEditor": "tregagnon",
@@ -3967,8 +4021,10 @@
   "https://developer.mozilla.org/fr/docs/DragDrop": {
     "lastEditor": "Nfroidure",
     "lastUpdated": "2009-05-01T15:46:05-07:00",
-    "lastDump": "2013-07-16T12:25:31.058Z",
-    "tags": []
+    "lastDump": "2013-07-16T20:57:01.905Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 76
   },
   "https://developer.mozilla.org/fr/docs/FAQ_sur_le_préchargement_des_liens": {
     "lastEditor": "BenoitL",
@@ -8142,13 +8198,14 @@
   "https://developer.mozilla.org/fr/docs/Persona/Pourquoi_Persona": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-16T12:25:36-07:00",
-    "lastDump": "2013-07-16T20:40:16.800Z",
+    "lastDump": "2013-07-16T21:07:20.965Z",
     "tags": [
       "Persona"
     ],
     "locales": {
       "en-US": "Mozilla/Persona/Why_Persona"
-    }
+    },
+    "contentLength": 5815
   },
   "https://developer.mozilla.org/fr/docs/Persona/vue_densemble_du_protocole": {
     "lastEditor": "Flaburgan",
@@ -17360,10 +17417,12 @@
   "https://developer.mozilla.org/fr/docs/CSS/plein_écran": {
     "lastEditor": "Joshua-S",
     "lastUpdated": "2013-01-10T07:45:21-08:00",
-    "lastDump": "2013-07-16T16:46:06.146Z",
+    "lastDump": "2013-07-16T21:03:26.572Z",
     "tags": [
       "junk"
-    ]
+    ],
+    "locales": {},
+    "contentLength": 0
   },
   "https://developer.mozilla.org/fr/docs/CSS/perspective-origin": {
     "lastEditor": "FredB",
