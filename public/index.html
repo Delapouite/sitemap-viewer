@@ -4,6 +4,7 @@
 	<title>Sitemap Viewer</title>
 	<style>
 		body {
+			font-size: 13px;
 			font-family: sans-serif;
 			display: flex;
 		}
@@ -11,9 +12,13 @@
 			flex: 1;
 			justify-content: center
 		}
+		tr:nth-child(odd) {
+			background: #eee;
+		}
 	</style>
-	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js"></script>
 	<script src="/js/vendor/uri.js"></script>
 </head>
 <body>
@@ -27,6 +32,17 @@
 		'https://developer.mozilla.org/fr/docs/Pr%C3%A9cis_CSS_2',
 		'https://developer.mozilla.org/fr/docs/Test'
 	];
+
+	var db;
+	$.ajax({
+		url: '/db/fr.json',
+		async: false,
+		success: function(result) {
+			db = result;
+		}
+	});
+
+
 	function display(country) {
 		$.ajax({
 			url: '/sitemaps/' + country + '.xml',
@@ -49,7 +65,8 @@
 
 			// country header
 			var table = $('<table></table>');
-			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls' + '</h2></th></tr>'));
+			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls in sitemap, ' + Object.keys(db).length + ' dumped</h2></th></tr>'));
+			// fields
 			table.append($('<tr><th>lastmod</th><th>URI</th><th>Tags</th><th>Last updated</th><th>Last editor</th><th>Last dump</th><th>Junk?</th></tr>'));
 
 			paths.forEach(function(path) {
@@ -58,7 +75,19 @@
 
 				var orderedLocs = _.sortBy(locs[path]);
 				orderedLocs.forEach(function(loc) {
-					table.append('<tr><td>' + lastMods[loc] + '</td><td><a href="' + loc + '">' + (new URI(loc)).filename(true) + '</a></td><td></td><td></td><td></td><td></td><td></td></tr>');
+					var uri = new URI(loc);
+					var savedLoc = db[URI.decode(uri.href())] || {};
+					var tr = $('<tr></tr>');
+					tr.append(
+						'<td>' + lastMods[loc] + '</td>',
+						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
+						'<td>' + (savedLoc.tags && savedLoc.tags.join(' ') || '') +'</td>',
+						'<td>' + (savedLoc.lastUpdated && moment(savedLoc.lastUpdated).format('YYYY-MM-DD') || '') + '</td>',
+						'<td>' + (savedLoc.lastEditor || '') + '</td>',
+						'<td><a href="/dump?url=' + uri.path() + '">' + (savedLoc.lastDump && moment(savedLoc.lastDump).format('YYYY-MM-DD')|| 'Never') + '</a></td>',
+						'<td><input type="checkbox"></td>'
+					);
+					table.append(tr);
 				});
 			});
 			$('body').append(table);

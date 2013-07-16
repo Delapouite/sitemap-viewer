@@ -1,0 +1,119 @@
+{
+  "https://developer.mozilla.org[object Object]": {
+    "lastDump": "2013-07-16T10:46:59.409Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/À_propos_de_JavaScript": {
+    "lastUpdated": "2010-02-25T14:16:12-08:00",
+    "lastDump": "2013-07-16T11:10:45.852Z",
+    "tags": [
+      "JavaScript"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/BrowserID": {
+    "lastUpdated": "2012-07-21T15:34:24-07:00",
+    "lastDump": "2013-07-16T11:11:16.959Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/Écriture_de_code_localisable": {
+    "lastUpdated": "2011-05-13T17:19:13-07:00",
+    "lastDump": "2013-07-16T11:10:47.010Z",
+    "tags": [
+      "Localisation"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Console_JavaScript": {
+    "lastUpdated": "2006-11-19T18:12:39-08:00",
+    "lastDump": "2013-07-16T11:11:47.056Z",
+    "tags": [
+      "Développement_Web:Outils",
+      "Outils",
+      "Extensions",
+      "Extensions:Outils",
+      "JavaScript",
+      "JavaScript:Outils"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Bidouiller_Firefox": {
+    "lastUpdated": "2012-01-16T13:27:07-08:00",
+    "lastDump": "2013-07-16T11:14:01.708Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/callee": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2008-03-27T13:00:58-07:00",
+    "lastDump": "2013-07-16T11:27:17.709Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/caller": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2008-04-02T17:00:54-07:00",
+    "lastDump": "2013-07-16T11:17:29.970Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/length": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2008-04-02T17:01:34-07:00",
+    "lastDump": "2013-07-16T11:17:30.917Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments": {
+    "lastEditor": "cjean",
+    "lastUpdated": "2013-04-25T11:12:09-07:00",
+    "lastDump": "2013-07-16T11:30:15.459Z",
+    "tags": [
+      "Array",
+      "Fonctions",
+      "arguments",
+      "JavaScript"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Objets_globaux/Boolean/prototype": {
+    "lastEditor": "BenoitL",
+    "lastUpdated": "2008-07-20T11:23:58-07:00",
+    "lastDump": "2013-07-16T11:30:23.649Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Objets_globaux/RegExp/Exec": {
+    "lastEditor": "time132",
+    "lastUpdated": "2009-05-18T15:07:42-07:00",
+    "lastDump": "2013-07-16T11:30:28.185Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/Infinity": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2007-07-01T09:07:54-07:00",
+    "lastDump": "2013-07-16T11:30:33.120Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/NaN": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2007-07-01T09:06:43-07:00",
+    "lastDump": "2013-07-16T11:30:34.336Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/undefined": {
+    "lastEditor": "Mgjbot",
+    "lastUpdated": "2007-05-28T12:37:16-07:00",
+    "lastDump": "2013-07-16T11:30:34.801Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/À_propos/Conventions_d'écriture": {
+    "lastEditor": "Elchi3",
+    "lastUpdated": "2010-03-21T12:54:35-07:00",
+    "lastDump": "2013-07-16T11:30:37.229Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/persona/Browser_compatibility": {
+    "lastEditor": "sylvie",
+    "lastUpdated": "2012-10-01T14:07:20-07:00",
+    "lastDump": "2013-07-16T11:31:08.500Z",
+    "tags": []
+  },
+  "https://developer.mozilla.org/fr/docs/persona/branding": {
+    "lastEditor": "poum",
+    "lastUpdated": "2012-09-29T02:44:36-07:00",
+    "lastDump": "2013-07-16T11:31:09.658Z",
+    "tags": []
+  }
+}

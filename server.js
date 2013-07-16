@@ -2,23 +2,32 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var jsonfile = require('jsonfile');
-var dbFileName = './db/fr.json';
-var db = jsonfile.readFileSync(dbFileName);
 var express = require('express');
+
+var dbFileName = './public/db/fr.json';
+var db = jsonfile.readFileSync(dbFileName);
+
 var app = express();
 
 app.use(express.static('public'));
 
 app.get('/dump', function(req, res) {
-	request({uri: 'http://delapouite.com'}, function(error, response, body) {
+	var uri = 'https://developer.mozilla.org' + req.query.url;
+	request({uri: uri}, function(error, response, body) {
 		var $ = cheerio.load(body);
-		$('a').each(function() {
-			var link = $(this);
-			db[link] = {
-				text: link.text(),
-				href: link.attr('href')
-			};
+		// tags
+		var tags = [];
+		$('.tagit-label').each(function() {
+			tags.push($(this).text());
 		});
+		// dates
+		db[uri] = {
+			lastEditor: $('#doc-contributors a').last().text(),
+			lastUpdated: $('#doc-contributors time').first().attr('datetime'),
+			lastDump: new Date(),
+			tags: tags
+		};
+		// save
 		jsonfile.writeFile(dbFileName, db, function(err) {
 			if (err) console.log(err);
 		});
