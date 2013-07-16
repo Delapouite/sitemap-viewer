@@ -18,6 +18,15 @@
 		.lastMod, .lastUpdated, .lastDump {
 			white-space: nowrap;
 		}
+		.d13, .d12 {
+			color: green;
+		}
+		.d11, .d10 {
+			color: orange;
+		}
+		.d09, .d08, .d07, .d06, .d05 {
+			color: red;
+		}
 	</style>
 	<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
@@ -46,6 +55,9 @@
 		}
 	});
 
+	function displayDate(date, format) {
+		return (date && moment(date).format(format || 'YYYY-MM-DD')) || 'none';
+	}
 
 	function display(country) {
 		$.ajax({
@@ -85,9 +97,9 @@
 						'<td class="lastMod">' + lastMods[loc] + '</td>',
 						'<td><a href="' + loc + '">' + uri.filename(true) + '</a></td>',
 						'<td>' + (savedLoc.tags && savedLoc.tags.join(' ') || '') +'</td>',
-						'<td class="lastUpdated">' + (savedLoc.lastUpdated && moment(savedLoc.lastUpdated).format('YYYY-MM-DD') || '') + '</td>',
+						'<td class="lastUpdated d' + displayDate(savedLoc.lastUpdated, 'YY') + '">' + displayDate(savedLoc.lastUpdated) + '</td>',
 						'<td>' + (savedLoc.lastEditor || '') + '</td>',
-						'<td class="lastDump"><a href="/dump?url=' + uri.path() + '">' + (savedLoc.lastDump && moment(savedLoc.lastDump).format('YYYY-MM-DD')|| 'Never') + '</a></td>',
+						'<td class="lastDump"><a href="/dump?url=' + uri.path() + '">' + displayDate(savedLoc.lastDump) + '</a></td>',
 						'<td><input type="checkbox"></td>'
 					);
 					table.append(tr);
