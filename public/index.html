@@ -87,6 +87,7 @@
 
 			// country header
 			var table = $('<table></table>');
+			table.append('<tr><th colspan="7"><a href="https://developer.mozilla.org/en-US/dashboards/revisions?locale=fr&user=&topic=">Revisions dashboard</a><th></tr>');
 			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls in sitemap, ' + Object.keys(db).length + ' dumped</h2></th></tr>'));
 			// fields
 			table.append($('<tr><th>lastmod</th><th>URI</th><th>Tags</th><th>Last updated</th><th>Last editor</th><th>Last dump</th><th>Junk?</th></tr>'));
