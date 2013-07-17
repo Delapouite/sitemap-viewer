@@ -6,11 +6,6 @@
 		body {
 			font-size: 13px;
 			font-family: sans-serif;
-			display: flex;
-		}
-		body > ol {
-			flex: 1;
-			justify-content: center
 		}
 		tr:nth-child(odd) {
 			background: #eee;
@@ -88,15 +83,15 @@
 
 			// country header
 			var table = $('<table></table>');
-			table.append('<tr><th colspan="7"><a href="https://developer.mozilla.org/en-US/dashboards/revisions?locale=fr&user=&topic=">Revisions dashboard</a><th></tr>');
-			table.append($('<tr><th colspan="7"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls in sitemap, ' + Object.keys(db).length + ' dumped</h2></th></tr>'));
+			table.append('<tr><th colspan="8"><a href="https://developer.mozilla.org/en-US/dashboards/revisions?locale=fr&user=&topic=">Revisions dashboard</a> | <a href="#tags">Tags</a><th></tr>');
+			table.append($('<tr><th colspan="8"><h2>' + country + ' : ' + $(xml).find('url').length + ' urls in sitemap, ' + Object.keys(db).length + ' dumped</h2></th></tr>'));
 			// fields
 			table.append($('<tr><th>lastmod</th><th>URI</th><th>en-US</th><th>Tags</th><th>Length</th><th>Last updated</th><th>Last editor</th><th>Last dump</th></tr>'));
 
 			paths.forEach(function(path) {
 				var orderedLocs = _.sortBy(locs[path]);
 				// path header
-				table.append($('<tr><td colspan="7"><h3>' + path + ' (' + orderedLocs.length + ')</h3></td></tr>'));
+				table.append($('<tr><td colspan="8"><h3>' + path + ' (' + orderedLocs.length + ')</h3></td></tr>'));
 				orderedLocs.forEach(function(loc) {
 					var uri = new URI(loc);
 					var savedLoc = db[URI.decode(uri.href())] || {};
@@ -127,7 +122,7 @@
 
 			var sortedTags = sortByValue(tags);
 
-			var tagsList = $('<ul></ul>');
+			var tagsList = $('<ul id="tags"></ul>');
 			tagsList.append('<li><h2>' + sortedTags.length + ' Tags</h2></li>');
 			sortedTags.forEach(function(tag) {
 				tagsList.append('<li>' + tag[0] + ' - ' + tag[1] + '</li>');
