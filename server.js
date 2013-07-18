@@ -11,6 +11,7 @@ var _ = require('lodash');
 
 var dbFileName = './db/fr.json';
 var db = jsonfile.readFileSync(dbFileName);
+const MDN = 'https://developer.mozilla.org';
 
 var app = express();
 
@@ -35,7 +36,7 @@ function getTags(db) {
 }
 
 function dump(uriPath) {
-	var uri = 'https://developer.mozilla.org' + uriPath;
+	var uri = MDN + uriPath;
 	request({uri: uri}, function(error, response, body) {
 		// local save
 		mkdirp(__dirname + '/db' + path.dirname(uriPath), function (err) {
@@ -70,13 +71,42 @@ function parseBody(body, uri) {
 	if ($('#translations a:contains("English")').length) {
 		locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
 	}
+	// links
+	var links = {
+		external: 0,
+		fr: 0,
+		'en-US': 0,
+		'404': 0
+	};
+
+	if ($('#wikiArticle a').length) {
+		$('#wikiArticle a').each(function() {
+			var href = $(this).attr('href');
+			// compatibily table for example
+			if (!href) {
+				return;
+			}
+			// internal
+			if (href.substring(0, 7) === 'http://' || href.substring(0, 7) === 'https://') {
+				links.external++;
+			} else if(href.substring(0, 3) === '/fr') {
+				links.fr++
+			} else if(href.substring(0, 6) === '/en-US') {
+				links['en-US']++;
+			}
+		});
+	}
+
 	// dates
 	db[uri].lastEditor = $('#doc-contributors a').last().text();
 	db[uri].lastUpdated = $('#doc-contributors time').first().attr('datetime');
 	db[uri].lastParsed = new Date();
+
+	db[uri].contentLength = $('#wikiArticle').text().trim().length;
+
 	db[uri].tags = tags;
 	db[uri].locales = locales;
-	db[uri].contentLength = $('#wikiArticle').text().trim().length;
+	db[uri].links = links;
 
 	// save
 	jsonfile.writeFile(dbFileName, db, function(err) {
@@ -119,7 +149,7 @@ app.get('/parse', function(req, res) {
 				dump(uriPath);
 			}
 		} else {
-			parseBody(data, 'https://developer.mozilla.org' + uriPath);
+			parseBody(data, MDN + uriPath);
 		}
 	});
 	res.send(200);

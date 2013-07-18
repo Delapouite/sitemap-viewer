@@ -9,7 +9,7 @@ tr:nth-child(odd) {
 	max-width: 400px;
 	overflow: hidden;
 }
-.lastMod, .lastUpdated, .lastDump, .lastParsed, .locales {
+.lastMod, .lastUpdated, .lastDump, .lastParsed, .locales, .links {
 	padding: 0 0.5em;
 	white-space: nowrap;
 }
