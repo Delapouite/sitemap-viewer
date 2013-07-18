@@ -8,4 +8,8 @@ html
 		script(src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js")
 		script(src="/js/vendor/uri.js")
 	body
+		script.
+			var db = !{JSON.stringify(db)};
+			var sitemap = !{sitemap};
+			var tags = !{JSON.stringify(tags)};
 		script(src="/js/script.js")

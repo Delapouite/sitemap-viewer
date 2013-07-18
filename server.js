@@ -1,20 +1,49 @@
-/* global require */
+var fs = require('fs');
+
 var request = require('request');
 var cheerio = require('cheerio');
 var jsonfile = require('jsonfile');
+var xml2json = require('xml2json');
 var express = require('express');
+var _ = require('lodash');
 
-var dbFileName = './public/db/fr.json';
+var dbFileName = './db/fr.json';
 var db = jsonfile.readFileSync(dbFileName);
 
 var app = express();
+
+function sortByValue(object) {
+	var tuples = _.map(object, function (value, key) { return [key, value]; });
+	return _.sortBy(tuples, function (tuple) { return tuple[1]; });
+}
+
+function getTags(db) {
+	var tags = {};
+	_.forEach(db, function(url) {
+		if (url.tags) {
+			url.tags.forEach(function(tag) {
+				if (!tags[tag]) {
+					tags[tag] = 0;
+				}
+				tags[tag]++;
+			});
+		}
+	});
+	return sortByValue(tags);
+}
 
 app.use(express.static('public'));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
-	res.render('index');
+	fs.readFile('./public/sitemaps/fr.xml', 'utf-8', function(err, sitemap) {
+		res.render('index', {
+			db: db,
+			sitemap: xml2json.toJson(sitemap),
+			tags: getTags(db)
+		});
+	});
 });
 
 app.get('/dump', function(req, res) {

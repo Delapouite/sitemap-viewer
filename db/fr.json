@@ -2315,16 +2315,19 @@
     ]
   },
   "https://developer.mozilla.org/fr/docs/NPAPI/Constantes": {
-    "lastEditor": "Demos",
-    "lastUpdated": "2010-04-03T17:03:26-07:00",
-    "lastDump": "2013-07-16T12:05:40.220Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-16T11:53:48-07:00",
+    "lastDump": "2013-07-18T10:51:28.052Z",
     "tags": [
       "Code",
-      "Error",
       "Plugin",
       "Erreur",
-      "Français"
-    ]
+      "Error"
+    ],
+    "locales": {
+      "en-US": "NPAPI/Constants"
+    },
+    "contentLength": 1791
   },
   "https://developer.mozilla.org/fr/docs/Outils/Ardoise": {
     "lastEditor": "julienw",
@@ -11089,14 +11092,18 @@
     ]
   },
   "https://developer.mozilla.org/fr/docs/CSS/overflow-y": {
-    "lastEditor": "FredB",
-    "lastUpdated": "2013-02-15T12:48:51-08:00",
-    "lastDump": "2013-07-16T15:54:38.029Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-18T03:57:51-07:00",
+    "lastDump": "2013-07-18T10:58:51.030Z",
     "tags": [
       "css",
-      "non-w3c",
+      "Non Standard",
       "Référence_CSS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/CSS/overflow-y"
+    },
+    "contentLength": 2648
   },
   "https://developer.mozilla.org/fr/docs/CSS/padding-top": {
     "lastEditor": "FredB",
@@ -16463,14 +16470,18 @@
     ]
   },
   "https://developer.mozilla.org/fr/docs/CSS/overflow-x": {
-    "lastEditor": "FredB",
-    "lastUpdated": "2013-02-15T12:50:08-08:00",
-    "lastDump": "2013-07-16T16:41:12.206Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-18T03:58:31-07:00",
+    "lastDump": "2013-07-18T10:58:49.947Z",
     "tags": [
       "css",
-      "non-w3c",
+      "Non Standard",
       "Référence_CSS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/CSS/overflow-x"
+    },
+    "contentLength": 3172
   },
   "https://developer.mozilla.org/fr/docs/CSS/max-width": {
     "lastEditor": "FredB",
@@ -19570,16 +19581,19 @@
     "tags": []
   },
   "https://developer.mozilla.org/fr/docs/NPP_SetWindow": {
-    "lastEditor": "tregagnon",
-    "lastUpdated": "2013-06-23T08:16:53-07:00",
-    "lastDump": "2013-07-16T16:56:17.638Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-16T11:51:52-07:00",
+    "lastDump": "2013-07-18T10:50:36.402Z",
     "tags": [
       "Plugin",
       "Fenêtre",
       "Plugins",
-      "Window",
-      "Français"
-    ]
+      "Window"
+    ],
+    "locales": {
+      "en-US": "NPP_SetWindow"
+    },
+    "contentLength": 3474
   },
   "https://developer.mozilla.org/fr/docs/Places": {
     "lastEditor": "Elchi3",
@@ -19796,13 +19810,13 @@
     "contentLength": 4169
   },
   "https://developer.mozilla.org/fr/docs/Web/API/PowerManager": {
-    "lastEditor": "FredB",
-    "lastUpdated": "2013-06-28T09:00:57-07:00",
-    "lastDump": "2013-07-17T10:55:32.339Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-18T03:53:46-07:00",
+    "lastDump": "2013-07-18T10:54:35.458Z",
     "tags": [
       "WebAPI",
       "B2G",
-      "Non-standard",
+      "Non Standard",
       "Firefox OS",
       "Power Management"
     ],
@@ -19997,5 +20011,12 @@
       "en-US": "WebSockets"
     },
     "contentLength": 5798
+  },
+  "https://developer.mozilla.org/fr/docs/NPWindow_": {
+    "lastEditor": "",
+    "lastDump": "2013-07-18T10:50:46.835Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 0
   }
 }
