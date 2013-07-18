@@ -10,6 +10,12 @@ var db = jsonfile.readFileSync(dbFileName);
 var app = express();
 
 app.use(express.static('public'));
+app.set('views', __dirname + '/views');
+app.set('view engine', 'jade');
+
+app.get('/', function(req, res) {
+	res.render('index');
+});
 
 app.get('/dump', function(req, res) {
 	var uri = 'https://developer.mozilla.org' + req.query.url;

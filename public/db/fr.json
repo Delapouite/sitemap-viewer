@@ -1393,10 +1393,14 @@
   "https://developer.mozilla.org/fr/docs/Astuces_CSS": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-01-20T15:27:29-08:00",
-    "lastDump": "2013-07-16T11:54:35.127Z",
+    "lastDump": "2013-07-18T06:48:06.922Z",
     "tags": [
       "css"
-    ]
+    ],
+    "locales": {
+      "en-US": "Useful_CSS_tips"
+    },
+    "contentLength": 1065
   },
   "https://developer.mozilla.org/fr/docs/API_du_toolkit": {
     "lastEditor": "Mgjbot",
@@ -1966,8 +1970,10 @@
   "https://developer.mozilla.org/fr/docs/Assistants_d'installation_(aka": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:45:56-07:00",
-    "lastDump": "2013-07-16T12:01:54.209Z",
-    "tags": []
+    "lastDump": "2013-07-18T06:47:57.651Z",
+    "tags": [],
+    "locales": {},
+    "contentLength": 76
   },
   "https://developer.mozilla.org/fr/docs/Ajout_de_fournisseurs_de_données_de_protection_anti-phishing": {
     "lastEditor": "Elchi3",

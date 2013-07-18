@@ -1,0 +1,20 @@
+body {
+	font-size: 13px;
+	font-family: sans-serif;
+}
+tr:nth-child(odd) {
+	background: #eee;
+}
+.lastMod, .lastUpdated, .lastDump, .locales {
+	padding: 0 0.5em;
+	white-space: nowrap;
+}
+.d13, .d12 {
+	color: green;
+}
+.d11, .d10 {
+	color: orange;
+}
+.d09, .d08, .d07, .d06, .d05 {
+	color: red;
+}
