@@ -1,10 +1,12 @@
 var fs = require('fs');
+var path = require('path');
 
 var request = require('request');
 var cheerio = require('cheerio');
 var jsonfile = require('jsonfile');
 var xml2json = require('xml2json');
 var express = require('express');
+var mkdirp = require('mkdirp');
 var _ = require('lodash');
 
 var dbFileName = './db/fr.json';
@@ -32,6 +34,56 @@ function getTags(db) {
 	return sortByValue(tags);
 }
 
+function dump(uriPath) {
+	var uri = 'https://developer.mozilla.org' + uriPath;
+	request({uri: uri}, function(error, response, body) {
+		// local save
+		mkdirp(__dirname + '/db' + path.dirname(uriPath), function (err) {
+			if (err) {
+				console.error(err);
+			} else {
+				fs.writeFile(__dirname + '/db' + uriPath, body, function(err) {
+					if (err) {
+						console.log(err);
+					} else {
+						if (!db[uri]) {
+							db[uri] = {};
+						}
+						db[uri].lastDump = new Date();
+					}
+				});
+			}
+		});
+		parseBody(body, uri);
+	});
+}
+
+function parseBody(body, uri) {
+	var $ = cheerio.load(body);
+	// tags
+	var tags = [];
+	$('.tagit-label').each(function() {
+		tags.push($(this).text());
+	});
+	//locales
+	var locales = {};
+	if ($('#translations a:contains("English")').length) {
+		locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
+	}
+	// dates
+	db[uri].lastEditor = $('#doc-contributors a').last().text();
+	db[uri].lastUpdated = $('#doc-contributors time').first().attr('datetime');
+	db[uri].lastParsed = new Date();
+	db[uri].tags = tags;
+	db[uri].locales = locales;
+	db[uri].contentLength = $('#wikiArticle').text().trim().length;
+
+	// save
+	jsonfile.writeFile(dbFileName, db, function(err) {
+		if (err) console.log(err);
+	});
+}
+
 app.use(express.static('public'));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
@@ -47,32 +99,21 @@ app.get('/', function(req, res) {
 });
 
 app.get('/dump', function(req, res) {
-	var uri = 'https://developer.mozilla.org' + req.query.url;
-	request({uri: uri}, function(error, response, body) {
-		var $ = cheerio.load(body);
-		// tags
-		var tags = [];
-		$('.tagit-label').each(function() {
-			tags.push($(this).text());
-		});
-		//locales
-		var locales = {};
-		if ($('#translations a:contains("English")').length) {
-			locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
+	dump(path.normalize(req.query.uriPath));
+	res.send(200);
+});
+
+app.get('/parse', function(req, res) {
+	var uriPath = path.normalize(req.query.uriPath);
+	fs.readFile(__dirname + '/db' + uriPath, 'utf-8', function(err, data) {
+		if (err) {
+			console.log(err);
+			if (err.code === 'ENOENT') {
+				dump(uriPath);
+			}
+		} else {
+			parseBody(data, 'https://developer.mozilla.org' + uriPath);
 		}
-		// dates
-		db[uri] = {
-			lastEditor: $('#doc-contributors a').last().text(),
-			lastUpdated: $('#doc-contributors time').first().attr('datetime'),
-			lastDump: new Date(),
-			tags: tags,
-			locales: locales,
-			contentLength: $('#wikiArticle').text().trim().length
-		};
-		// save
-		jsonfile.writeFile(dbFileName, db, function(err) {
-			if (err) console.log(err);
-		});
 	});
 	res.send(200);
 });

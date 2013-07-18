@@ -139,14 +139,15 @@
   "https://developer.mozilla.org/fr/docs/CSS/Média/Visuel": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:24:22-07:00",
-    "lastDump": "2013-07-16T21:06:00.146Z",
+    "lastDump": "2013-07-18T11:53:41.964Z",
     "tags": [
       "Référence_CSS"
     ],
     "locales": {
       "en-US": "Web/CSS/media/visual"
     },
-    "contentLength": 98
+    "contentLength": 98,
+    "lastParsed": "2013-07-18T11:53:41.944Z"
   },
   "https://developer.mozilla.org/fr/docs/À_propos_du_Document_Object_Model": {
     "lastEditor": "Mgjbot",
@@ -5880,11 +5881,16 @@
   "https://developer.mozilla.org/fr/docs/CSS/z-index": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T13:21:45-08:00",
-    "lastDump": "2013-07-16T13:18:55.875Z",
+    "lastDump": "2013-07-18T11:52:33.716Z",
     "tags": [
       "css",
       "Référence_CSS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/CSS/z-index"
+    },
+    "contentLength": 2464,
+    "lastParsed": "2013-07-18T11:52:33.679Z"
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Couleurs": {
     "lastEditor": "teoli",
@@ -6974,11 +6980,16 @@
   "https://developer.mozilla.org/fr/docs/CSS/writing-mode": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-22T12:01:42-07:00",
-    "lastDump": "2013-07-16T13:54:10.242Z",
+    "lastDump": "2013-07-18T11:45:25.046Z",
     "tags": [
       "css",
       "Référence CSS"
-    ]
+    ],
+    "locales": {
+      "en-US": "Web/CSS/writing-mode"
+    },
+    "contentLength": 5292,
+    "lastParsed": "2013-07-18T11:52:51.040Z"
   },
   "https://developer.mozilla.org/fr/docs/CSS/word-wrap": {
     "lastEditor": "FredB",
@@ -10670,7 +10681,12 @@
     "tags": [
       "css",
       "Référence_CSS"
-    ]
+    ],
+    "lastParsed": "2013-07-18T11:54:01.765Z",
+    "locales": {
+      "en-US": "Web/CSS/border"
+    },
+    "contentLength": 2859
   },
   "https://developer.mozilla.org/fr/docs/CSS/border-bottom": {
     "lastEditor": "FredB",
