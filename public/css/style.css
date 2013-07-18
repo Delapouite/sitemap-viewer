@@ -5,7 +5,11 @@ body {
 tr:nth-child(odd) {
 	background: #eee;
 }
-.lastMod, .lastUpdated, .lastDump, .locales {
+.url {
+	max-width: 400px;
+	overflow: hidden;
+}
+.lastMod, .lastUpdated, .lastDump, .lastParsed, .locales {
 	padding: 0 0.5em;
 	white-space: nowrap;
 }

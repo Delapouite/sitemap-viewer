@@ -92,7 +92,14 @@ app.get('/', function(req, res) {
 	fs.readFile('./public/sitemaps/fr.xml', 'utf-8', function(err, sitemap) {
 		res.render('index', {
 			db: db,
-			sitemap: xml2json.toJson(sitemap),
+			sitemap: xml2json.toJson(sitemap, {
+				object: true,
+				reversible: false,
+				coerce: true,
+				sanitize: false,
+				trim: true,
+				arrayNotation: false
+			}),
 			tags: getTags(db)
 		});
 	});
