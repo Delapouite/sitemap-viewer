@@ -2,11 +2,11 @@
 html
 	head
 		title Sitemap Viewer
-		link(href="/css/style.css", rel="stylesheet", type="text/css")
+		link(href='/css/style.css', rel='stylesheet', type='text/css')
 	body
 		table
 			tr
-				th(colspan="10")
+				th(colspan='10')
 					a(href=MDN + '/en-US/dashboards/revisions?locale=fr&user=&topic=') Revisions dashboard
 					|  | 
 					a(href=MDN + '/sitemaps/fr/sitemap.xml') Sitemap
@@ -27,12 +27,12 @@ html
 			each path in paths
 				- var orderedUrls = _.sortBy(urls[path]);
 				tr
-					td(colspan="10")
-						h3 #{path} (#{orderedUrls.length})
+					td(colspan='10')
+						h3(id='path-' + path) #{path} (#{orderedUrls.length})
 				each url in orderedUrls
 					- var uri = new URI(url);
 					- var savedUrl = db[URI.decode(uri.href())] || {};
-					tr
+					tr(class='path-' + path)
 						td(class='lastMod') #{savedUrl.lastmod}
 						td(class='lastUpdated d' + displayDate(savedUrl.lastUpdated, 'YY')) #{displayDate(savedUrl.lastUpdated)}
 						td.lastDump
@@ -55,10 +55,11 @@ html
 						td.links
 							if savedUrl.links
 								| Ext: #{savedUrl.links.external}, fr: #{savedUrl.links.fr}, en-US: #{savedUrl.links['en-US']}
-						td #{savedUrl.contentLength}
+						td(class=savedUrl.contentLength && savedUrl.contentLength < 500 ? 'd05' : '') #{savedUrl.contentLength}
 						td #{savedUrl.lastEditor}
 		ul#tags
 			li
 				h2 #{tags.length} Tags
 			each tag in tags
 				li(id='tag-' + tag[0]) #{tag[0]} - #{tag[1]}
+		script(src='/js/view.js')

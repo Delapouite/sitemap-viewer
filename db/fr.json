@@ -62,16 +62,22 @@
   "https://developer.mozilla.org/fr/docs/Console_JavaScript": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-18T06:08:42-07:00",
-    "lastDump": "2013-07-18T13:12:17.726Z",
+    "lastDump": "2013-07-25T11:12:02.889Z",
     "tags": [
       "Extensions",
       "Outils",
       "JavaScript"
     ],
-    "lastParsed": "2013-07-18T13:12:17.700Z",
+    "lastParsed": "2013-07-25T11:12:02.830Z",
     "locales": {},
     "contentLength": 1769,
-    "lastmod": "2013-07-18"
+    "lastmod": "2013-07-18",
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Bidouiller_Firefox": {
     "lastEditor": "goofy_bz",
@@ -6707,23 +6713,45 @@
   "https://developer.mozilla.org/fr/docs/FAQ_sur_le_préchargement_des_liens": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-06-03T16:42:00-07:00",
-    "lastDump": "2013-07-16T12:25:33.470Z",
+    "lastDump": "2013-07-25T11:16:46.813Z",
     "tags": [
       "HTTP",
       "Développement_Web",
       "HTML",
       "Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:16:46.699Z",
+    "contentLength": 11837,
+    "locales": {
+      "en-US": "Link_prefetching_FAQ"
+    },
+    "links": {
+      "404": 0,
+      "external": 6,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/FAQ_sur_les_transformations_XSL_dans_Mozilla": {
     "lastEditor": "VincentN",
     "lastUpdated": "2007-04-04T17:57:47-07:00",
-    "lastDump": "2013-07-16T12:25:34.159Z",
+    "lastDump": "2013-07-25T11:16:46.813Z",
     "tags": [
       "XSLT"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:16:46.742Z",
+    "contentLength": 5469,
+    "locales": {
+      "en-US": "XSL_Transformations_in_Mozilla_FAQ"
+    },
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Gestion_de_suggestions_dans_les_plugins_de_recherche": {
     "lastEditor": "Mgjbot",
@@ -6756,9 +6784,20 @@
   "https://developer.mozilla.org/fr/docs/IndexedDB": {
     "lastEditor": "moins52",
     "lastUpdated": "2013-02-09T09:31:47-08:00",
-    "lastDump": "2013-07-16T12:25:42.097Z",
+    "lastDump": "2013-07-25T11:13:43.339Z",
     "tags": [],
-    "lastmod": "2013-05-25"
+    "lastmod": "2013-05-25",
+    "lastParsed": "2013-07-25T11:13:43.297Z",
+    "contentLength": 6670,
+    "locales": {
+      "en-US": "IndexedDB"
+    },
+    "links": {
+      "404": 0,
+      "external": 10,
+      "fr": 1,
+      "en-US": 28
+    }
   },
   "https://developer.mozilla.org/fr/docs/MathML": {
     "lastEditor": "tregagnon",
@@ -7907,20 +7946,38 @@
   "https://developer.mozilla.org/fr/docs/Contrôle_du_correcteur_d'orthographe_dans_les_formulaires_HTML": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-06T22:57:44-07:00",
-    "lastDump": "2013-07-16T13:05:01.534Z",
+    "lastDump": "2013-07-25T11:11:10.266Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:11:10.209Z",
+    "contentLength": 2690,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Contrôles_DHTML_personnalisés_navigables_au_clavier": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-04-13T16:51:01-07:00",
-    "lastDump": "2013-07-16T13:05:02.484Z",
+    "lastDump": "2013-07-25T11:11:08.942Z",
     "tags": [
       "AJAX",
       "Accessibilité",
       "DHTML"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "lastParsed": "2013-07-25T11:11:08.904Z",
+    "contentLength": 10431,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/E4X": {
     "lastEditor": "BenoitL",
@@ -7964,14 +8021,25 @@
   "https://developer.mozilla.org/fr/docs/FUEL": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2008-02-16T04:05:46-08:00",
-    "lastDump": "2013-07-16T13:05:07.799Z",
+    "lastDump": "2013-07-25T11:16:48.133Z",
     "tags": [
       "Référence_de_l'API_XPCOM",
       "FUEL",
       "XPCOM:Références",
       "Interfaces"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:16:48.074Z",
+    "contentLength": 1085,
+    "locales": {
+      "en-US": "Toolkit_API/FUEL"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Inspecteur_DOM": {
     "lastEditor": "Delapouite",
@@ -8795,12 +8863,23 @@
   "https://developer.mozilla.org/fr/docs/Convention_de_noms_de_fichiers_pour_les_paquetages": {
     "lastEditor": "FredChat1",
     "lastUpdated": "2005-12-29T21:44:25-08:00",
-    "lastDump": "2013-07-16T13:10:29.554Z",
+    "lastDump": "2013-07-25T11:11:07.191Z",
     "tags": [
       "Documentation_sur_la_compilation",
       "Développement_de_Mozilla"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:11:07.152Z",
+    "contentLength": 3281,
+    "locales": {
+      "en-US": "Package_Filename_Convention"
+    },
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Comment_créer_un_arbre_DOM": {
     "lastEditor": "kmaglione",
@@ -8849,11 +8928,22 @@
   "https://developer.mozilla.org/fr/docs/Feed_content_access_API": {
     "lastEditor": "Jeremie",
     "lastUpdated": "2012-09-30T06:51:52-07:00",
-    "lastDump": "2013-07-16T13:10:34.226Z",
+    "lastDump": "2013-07-25T11:16:51.514Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-09-30"
+    "lastmod": "2012-09-30",
+    "lastParsed": "2013-07-25T11:16:51.472Z",
+    "contentLength": 6593,
+    "locales": {
+      "en-US": "Feed_content_access_API"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Gestionnaires_de_protocoles_web": {
     "lastEditor": "tregagnon",
@@ -9955,21 +10045,43 @@
   "https://developer.mozilla.org/fr/docs/Indentation_homogène_des_listes": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-04-12T02:15:05-07:00",
-    "lastDump": "2013-07-16T13:44:25.238Z",
+    "lastDump": "2013-07-25T11:13:40.255Z",
     "tags": [
       "css"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:13:40.187Z",
+    "contentLength": 7022,
+    "locales": {
+      "en-US": "Web/Guide/CSS/Consistent_list_indentation"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Images_PNG_animées": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-07-04T19:00:47-07:00",
-    "lastDump": "2013-07-16T13:44:26.441Z",
+    "lastDump": "2013-07-25T11:13:39.691Z",
     "tags": [
       "Firefox 3",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:13:39.652Z",
+    "contentLength": 18267,
+    "locales": {
+      "en-US": "Animated_PNG_graphics"
+    },
+    "links": {
+      "404": 0,
+      "external": 10,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/FAQ_sur_la_compilation_de_Mozilla": {
     "lastEditor": "Elchi3",
@@ -9995,9 +10107,18 @@
   "https://developer.mozilla.org/fr/docs/Firefox_pour_les_développeurs": {
     "lastEditor": "Goofy",
     "lastUpdated": "2012-03-03T19:49:26-08:00",
-    "lastDump": "2013-07-16T13:44:30.540Z",
+    "lastDump": "2013-07-25T11:16:50.630Z",
     "tags": [],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "lastParsed": "2013-07-25T11:16:50.583Z",
+    "contentLength": 5,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Documentation_API_Greffons_Gecko": {
     "lastEditor": "Demos",
@@ -10030,7 +10151,7 @@
   "https://developer.mozilla.org/fr/docs/Création_d'extensions_pour_Firefox_avec_le_système_de_compilation_de_Mozilla": {
     "lastEditor": "cold sun",
     "lastUpdated": "2009-04-25T07:14:13-07:00",
-    "lastDump": "2013-07-16T13:44:35.085Z",
+    "lastDump": "2013-07-25T11:10:53.390Z",
     "tags": [
       "Extensions",
       "Documentation_sur_la_compilation",
@@ -10038,7 +10159,16 @@
       "Développement_de_Mozilla",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:10:53.300Z",
+    "contentLength": 36598,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 7,
+      "fr": 20,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Configuration_des_options_de_compilation": {
     "lastEditor": "BenoitL",
@@ -10541,22 +10671,44 @@
   "https://developer.mozilla.org/fr/docs/Florilège_des_applications_XULrunner": {
     "lastEditor": "lquerel",
     "lastUpdated": "2009-08-27T11:18:02-07:00",
-    "lastDump": "2013-07-16T13:53:04.790Z",
+    "lastDump": "2013-07-25T11:16:52.386Z",
     "tags": [
       "XUL",
       "XULRunner",
       "Entreprise"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:16:52.348Z",
+    "contentLength": 3959,
+    "locales": {
+      "en-US": "XULRunner_Hall_of_Fame"
+    },
+    "links": {
+      "404": 0,
+      "external": 40,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Foire_aux_questions_sur_les_extensions": {
     "lastEditor": "Yozh88",
     "lastUpdated": "2008-06-19T20:51:53-07:00",
-    "lastDump": "2013-07-16T13:53:05.405Z",
+    "lastDump": "2013-07-25T11:16:52.886Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:16:52.815Z",
+    "contentLength": 4931,
+    "locales": {
+      "en-US": "Extension_Frequently_Asked_Questions"
+    },
+    "links": {
+      "404": 0,
+      "external": 7,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Génération_de_GUID": {
     "lastEditor": "Delapouite",
@@ -10658,11 +10810,22 @@
   "https://developer.mozilla.org/fr/docs/Création_d'un_générateur_de_microrésumé": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-02T14:16:15-07:00",
-    "lastDump": "2013-07-16T13:53:41.447Z",
+    "lastDump": "2013-07-25T11:12:08.749Z",
     "tags": [
       "Microrésumés"
     ],
-    "lastmod": "2013-05-02"
+    "lastmod": "2013-05-02",
+    "lastParsed": "2013-07-25T11:12:08.713Z",
+    "contentLength": 14244,
+    "locales": {
+      "en-US": "Creating_a_Microsummary"
+    },
+    "links": {
+      "404": 0,
+      "external": 6,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Dessin_de_texte_avec_canvas": {
     "lastEditor": "Delapouite",
@@ -10689,11 +10852,22 @@
   "https://developer.mozilla.org/fr/docs/FAQ_et_règles_pour_les_accesskeys_en_XUL": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-03-30T18:11:30-07:00",
-    "lastDump": "2013-07-16T13:53:44.915Z",
+    "lastDump": "2013-07-25T11:12:28.152Z",
     "tags": [
       "XUL"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:12:28.115Z",
+    "contentLength": 4860,
+    "locales": {
+      "en-US": "XUL_Accesskey_FAQ_and_Policies"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Valeur_utilisée": {
     "lastEditor": "FredB",
@@ -11480,11 +11654,22 @@
   "https://developer.mozilla.org/fr/docs/DOM_Levels": {
     "lastEditor": "ramsko",
     "lastUpdated": "2012-11-25T06:58:26-08:00",
-    "lastDump": "2013-07-16T13:56:04.912Z",
+    "lastDump": "2013-07-25T11:12:46.367Z",
     "tags": [
       "bug-840092"
     ],
-    "lastmod": "2012-11-25"
+    "lastmod": "2012-11-25",
+    "lastParsed": "2013-07-25T11:12:46.327Z",
+    "contentLength": 6064,
+    "locales": {
+      "en-US": "DOM_Levels"
+    },
+    "links": {
+      "404": 0,
+      "external": 21,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Empaqueter_une_extension": {
     "lastEditor": "ethertank",
@@ -13197,12 +13382,23 @@
   "https://developer.mozilla.org/fr/docs/FAQ_de_XULRunner": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-25T15:23:52-08:00",
-    "lastDump": "2013-07-16T14:11:30.079Z",
+    "lastDump": "2013-07-25T11:12:26.788Z",
     "tags": [
       "XUL",
       "XULRunner"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:12:26.747Z",
+    "contentLength": 1629,
+    "locales": {
+      "en-US": "XULRunner_FAQ"
+    },
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Enregistrement_chrome": {
     "lastEditor": "Benzarti",
@@ -13227,11 +13423,22 @@
   "https://developer.mozilla.org/fr/docs/Images,_tableaux_et_décalages_mystérieux": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2006-12-28T15:06:34-08:00",
-    "lastDump": "2013-07-16T14:11:32.958Z",
+    "lastDump": "2013-07-25T11:13:42.117Z",
     "tags": [
       "css"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:13:42.061Z",
+    "contentLength": 14310,
+    "locales": {
+      "en-US": "Images,_Tables,_and_Mysterious_Gaps"
+    },
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Installation_de_Mercurial": {
     "lastEditor": "Elchi3",
@@ -14621,11 +14828,20 @@
   "https://developer.mozilla.org/fr/docs/Création_d'un_pack_de_langue": {
     "lastEditor": "teoli",
     "lastUpdated": "2012-08-30T07:42:06-07:00",
-    "lastDump": "2013-07-16T14:44:08.597Z",
+    "lastDump": "2013-07-25T11:12:14.413Z",
     "tags": [
       "Localisation"
     ],
-    "lastmod": "2012-08-30"
+    "lastmod": "2012-08-30",
+    "lastParsed": "2013-07-25T11:12:14.370Z",
+    "contentLength": 1083,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/attr": {
     "lastEditor": "m@tteo78",
@@ -15018,20 +15234,42 @@
   "https://developer.mozilla.org/fr/docs/DOM": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-03T12:52:37-07:00",
-    "lastDump": "2013-07-16T15:12:32.802Z",
+    "lastDump": "2013-07-25T11:12:47.794Z",
     "tags": [
       "DOM"
     ],
-    "lastmod": "2013-07-03"
+    "lastmod": "2013-07-03",
+    "lastParsed": "2013-07-25T11:12:47.719Z",
+    "contentLength": 1764,
+    "locales": {
+      "en-US": "DOM"
+    },
+    "links": {
+      "404": 0,
+      "external": 6,
+      "fr": 12,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DHTML": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-23T18:36:45-08:00",
-    "lastDump": "2013-07-16T15:12:33.289Z",
+    "lastDump": "2013-07-25T11:12:49.119Z",
     "tags": [
       "DHTML"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:12:49.054Z",
+    "contentLength": 1497,
+    "locales": {
+      "en-US": "DHTML"
+    },
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 11,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Midas": {
     "lastEditor": "tregagnon",
@@ -17000,18 +17238,38 @@
   "https://developer.mozilla.org/fr/docs/Création_d'un_panneau_latéral": {
     "lastEditor": "jllouis",
     "lastUpdated": "2011-05-09T08:48:08-07:00",
-    "lastDump": "2013-07-16T15:58:12.035Z",
+    "lastDump": "2013-07-25T11:12:16.282Z",
     "tags": [],
-    "lastmod": "2012-08-08"
+    "lastmod": "2012-08-08",
+    "lastParsed": "2013-07-25T11:12:16.245Z",
+    "contentLength": 53,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Création_d'un_patch": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T11:04:47-07:00",
-    "lastDump": "2013-07-16T15:58:12.734Z",
+    "lastDump": "2013-07-25T11:12:15.444Z",
     "tags": [
       "Développement_de_Mozilla"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-25T11:12:15.381Z",
+    "contentLength": 2987,
+    "locales": {
+      "en-US": "Creating_a_patch"
+    },
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions_globales/encodeURI": {
     "lastEditor": "Mgjbot",
@@ -18489,11 +18747,22 @@
   "https://developer.mozilla.org/fr/docs/Explorer_un_tableau_HTML_avec_des_interfaces_DOM_et_JavaScript": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-08-11T10:34:41-07:00",
-    "lastDump": "2013-07-16T16:10:08.140Z",
+    "lastDump": "2013-07-25T11:11:30.087Z",
     "tags": [
       "DOM"
     ],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "lastParsed": "2013-07-25T11:11:30.026Z",
+    "contentLength": 16527,
+    "locales": {
+      "en-US": "Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_l'utilisation_de_XPath_avec_JavaScript": {
     "lastEditor": "Julien.stuby",
@@ -19428,11 +19697,20 @@
   "https://developer.mozilla.org/fr/docs/Création_de_boutons_de_barre_d'outils": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-01-06T22:03:21-08:00",
-    "lastDump": "2013-07-16T16:14:09.915Z",
+    "lastDump": "2013-07-25T11:12:20.258Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-17"
+    "lastmod": "2012-08-17",
+    "lastParsed": "2013-07-25T11:12:20.205Z",
+    "contentLength": 8279,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_l'API_XPInstall/Exemples/Install.addDirectory": {
     "lastEditor": "Fredchat",
@@ -22412,9 +22690,20 @@
   "https://developer.mozilla.org/fr/docs/DOMParser": {
     "lastEditor": "PWeilbacher",
     "lastUpdated": "2009-06-27T05:58:26-07:00",
-    "lastDump": "2013-07-16T16:36:45.181Z",
+    "lastDump": "2013-07-25T11:12:46.366Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:12:46.275Z",
+    "contentLength": 1288,
+    "locales": {
+      "en-US": "Web/API/DOMParser"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique": {
     "lastEditor": "CedricP",
@@ -22641,41 +22930,85 @@
   "https://developer.mozilla.org/fr/docs/Création_de_plugins_MozSearch": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-07T00:34:08-07:00",
-    "lastDump": "2013-07-16T16:38:33.790Z",
+    "lastDump": "2013-07-25T11:12:15.664Z",
     "tags": [
       "Plugins_de_recherche",
       "Plugins"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:12:15.610Z",
+    "contentLength": 4364,
+    "locales": {
+      "en-US": "Creating_MozSearch_plugins"
+    },
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extension_XEmbed_pour_les_plugins_Mozilla": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T11:07:35-07:00",
-    "lastDump": "2013-07-16T16:38:37.286Z",
+    "lastDump": "2013-07-25T11:11:28.927Z",
     "tags": [
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC",
       "Plugins"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-25T11:11:28.886Z",
+    "contentLength": 5834,
+    "locales": {
+      "en-US": "XEmbed_Extension_for_Mozilla_Plugins"
+    },
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extensions": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-15T08:24:48-07:00",
-    "lastDump": "2013-07-16T16:38:38.344Z",
+    "lastDump": "2013-07-25T11:11:27.862Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2013-07-15"
+    "lastmod": "2013-07-15",
+    "lastParsed": "2013-07-25T11:11:27.827Z",
+    "contentLength": 3434,
+    "locales": {
+      "en-US": "Extensions"
+    },
+    "links": {
+      "404": 0,
+      "external": 7,
+      "fr": 20,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code": {
     "lastEditor": "Chbok",
     "lastUpdated": "2008-08-23T19:20:29-07:00",
-    "lastDump": "2013-07-16T16:38:39.854Z",
+    "lastDump": "2013-07-25T11:11:27.239Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:11:27.170Z",
+    "contentLength": 2781,
+    "locales": {
+      "en-US": "Code_snippets"
+    },
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 13,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqué": {
     "lastEditor": "Fredchat",
@@ -22703,12 +23036,23 @@
   "https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_pour_développeurs_web": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T11:12:17-07:00",
-    "lastDump": "2013-07-16T16:38:41.705Z",
+    "lastDump": "2013-07-25T11:12:26.466Z",
     "tags": [
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-25T11:12:26.417Z",
+    "contentLength": 20247,
+    "locales": {
+      "en-US": "Mozilla_Web_Developer_FAQ"
+    },
+    "links": {
+      "404": 0,
+      "external": 12,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/La_notation_JSON": {
     "lastEditor": "tregagnon",
@@ -28549,7 +28893,7 @@
   "https://developer.mozilla.org/fr/docs/Interfaces": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-05-18T11:31:08-07:00",
-    "lastDump": "2013-07-16T16:54:19.695Z",
+    "lastDump": "2013-07-25T11:17:02.858Z",
     "tags": [
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC",
@@ -28557,7 +28901,18 @@
       "XPCOM:Références",
       "Interfaces"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:17:02.818Z",
+    "contentLength": 39569,
+    "locales": {
+      "en-US": "Interfaces"
+    },
+    "links": {
+      "404": 0,
+      "external": 36,
+      "fr": 1751,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Requêtes_XMLHttpRequest_inter-sites": {
     "lastEditor": "BenoitL",
@@ -28707,42 +29062,84 @@
   "https://developer.mozilla.org/fr/docs/Guide_de_migration_vers_Places": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:30:42-07:00",
-    "lastDump": "2013-07-16T16:55:31.650Z",
+    "lastDump": "2013-07-25T11:13:27.945Z",
     "tags": [
       "NeedsContent",
       "Extensions",
       "Places",
       "Développement_de_Mozilla"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:13:27.906Z",
+    "contentLength": 8072,
+    "locales": {
+      "en-US": "Places_Developer_Guide"
+    },
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Développement_de_Mozilla": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-23T18:26:12-08:00",
-    "lastDump": "2013-07-16T16:55:32.879Z",
+    "lastDump": "2013-07-25T11:12:52.651Z",
     "tags": [
       "Développement_de_Mozilla"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "lastParsed": "2013-07-25T11:12:52.610Z",
+    "contentLength": 2607,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 9,
+      "fr": 20,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Création_de_plugins_OpenSearch_pour_Firefox": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T10:52:29-07:00",
-    "lastDump": "2013-07-16T16:55:34.767Z",
+    "lastDump": "2013-07-25T11:12:18.842Z",
     "tags": [
       "Plugins_de_recherche",
       "Plugins"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-25T11:12:18.802Z",
+    "contentLength": 8274,
+    "locales": {
+      "en-US": "Creating_OpenSearch_plugins_for_Firefox"
+    },
+    "links": {
+      "404": 0,
+      "external": 16,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_SVG_dans_HTML": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-01-05T21:20:24-08:00",
-    "lastDump": "2013-07-16T16:55:35.126Z",
+    "lastDump": "2013-07-25T11:17:18.680Z",
     "tags": [
       "SVG"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:17:18.623Z",
+    "contentLength": 4096,
+    "locales": {
+      "en-US": "SVG_In_HTML_Introduction"
+    },
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Modèle_de_sécurité_Mozilla_des_services_Web": {
     "lastEditor": "Fredchat",
@@ -28968,20 +29365,42 @@
   "https://developer.mozilla.org/fr/docs/Introduction_à_SSL": {
     "lastEditor": "VincentN",
     "lastUpdated": "2006-12-08T22:18:56-08:00",
-    "lastDump": "2013-07-16T16:55:53.395Z",
+    "lastDump": "2013-07-25T11:17:17.371Z",
     "tags": [
       "Sécurité"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:17:17.329Z",
+    "contentLength": 36989,
+    "locales": {
+      "en-US": "Introduction_to_SSL"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_XML": {
     "lastEditor": "Elethiomel",
     "lastUpdated": "2007-08-08T10:15:12-07:00",
-    "lastDump": "2013-07-16T16:55:53.459Z",
+    "lastDump": "2013-07-25T11:17:19.028Z",
     "tags": [
       "XML"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "lastParsed": "2013-07-25T11:17:18.964Z",
+    "contentLength": 4724,
+    "locales": {
+      "en-US": "XML_Introduction"
+    },
+    "links": {
+      "404": 0,
+      "external": 10,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Guide_de_développement_d'extensions_Firefox": {
     "lastEditor": "GiulianT",
@@ -29002,16 +29421,34 @@
   "https://developer.mozilla.org/fr/docs/Guide_de_developpement_d-extensions_Firefox": {
     "lastEditor": "GiulianT",
     "lastUpdated": "2009-04-14T16:41:25-07:00",
-    "lastDump": "2013-07-16T16:56:01.002Z",
+    "lastDump": "2013-07-25T11:13:24.984Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "lastParsed": "2013-07-25T11:13:24.939Z",
+    "contentLength": 76,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Guide_de_rédaction_d'un_rapport_d'anomalie": {
     "lastEditor": "Prenon",
     "lastUpdated": "2008-01-05T00:47:40-08:00",
-    "lastDump": "2013-07-16T16:56:02.473Z",
+    "lastDump": "2013-07-25T11:13:28.456Z",
     "tags": [],
-    "lastmod": "2013-06-26"
+    "lastmod": "2013-06-26",
+    "lastParsed": "2013-07-25T11:13:28.385Z",
+    "contentLength": 38,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Plugins": {
     "lastEditor": "Elchi3",
@@ -29090,7 +29527,7 @@
   "https://developer.mozilla.org/fr/docs/Créer_un_thème_pour_Firefox": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-16T11:30:16-07:00",
-    "lastDump": "2013-07-17T10:47:56.871Z",
+    "lastDump": "2013-07-25T11:12:20.258Z",
     "tags": [
       "Themes"
     ],
@@ -29098,63 +29535,135 @@
       "en-US": "Creating_a_Skin_for_Firefox"
     },
     "contentLength": 1690,
-    "lastmod": "2013-07-16"
+    "lastmod": "2013-07-16",
+    "lastParsed": "2013-07-25T11:12:20.133Z",
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Créer_un_thème_pour_Firefox_Premiers_pas": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-08T01:36:22-07:00",
-    "lastDump": "2013-07-16T16:56:07.828Z",
+    "lastDump": "2013-07-25T11:12:54.609Z",
     "tags": [
       "Themes"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "lastParsed": "2013-07-25T11:12:54.552Z",
+    "contentLength": 8500,
+    "locales": {
+      "en-US": "Creating_a_Skin_for_Firefox_Getting_Started"
+    },
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Développement_Web": {
     "lastEditor": "pixelastic",
     "lastUpdated": "2012-01-04T18:55:36-08:00",
-    "lastDump": "2013-07-16T16:56:08.361Z",
+    "lastDump": "2013-07-25T11:12:53.190Z",
     "tags": [
       "Développement_Web"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:12:53.125Z",
+    "contentLength": 2642,
+    "locales": {
+      "en-US": "Web_Development"
+    },
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 10,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Développement_de_modules_complémentaires": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-04-27T10:18:07-07:00",
-    "lastDump": "2013-07-16T16:56:08.667Z",
+    "lastDump": "2013-07-25T11:12:49.714Z",
     "tags": [],
-    "lastmod": "2013-04-27"
+    "lastmod": "2013-04-27",
+    "lastParsed": "2013-07-25T11:12:49.665Z",
+    "contentLength": 2238,
+    "locales": {
+      "en-US": "Developing_add-ons"
+    },
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Guide_du_développeur_d'extensions_pour_Firefox": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2009-07-27T09:09:37-07:00",
-    "lastDump": "2013-07-16T16:56:09.482Z",
+    "lastDump": "2013-07-25T11:13:29.304Z",
     "tags": [
       "DNS"
     ],
-    "lastmod": "2012-08-17"
+    "lastmod": "2012-08-17",
+    "lastParsed": "2013-07-25T11:13:29.240Z",
+    "contentLength": 591,
+    "locales": {},
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 10,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_XUL": {
-    "lastEditor": "tregagnon",
-    "lastUpdated": "2013-06-23T07:50:54-07:00",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-16T12:56:58-07:00",
     "lastDump": "2013-07-16T16:56:10.775Z",
     "tags": [
       "Traduction_en_cours",
+      "XUL",
       "Aide_pour_les_éditeurs_de_MDC"
     ],
-    "lastmod": "2013-07-16"
+    "lastmod": "2013-07-16",
+    "lastParsed": "2013-07-25T11:17:19.591Z",
+    "contentLength": 6089,
+    "locales": {
+      "en-US": "XUL/Introduction_to_XUL"
+    },
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Icônes_de_fenêtre": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2006-12-16T17:24:26-08:00",
-    "lastDump": "2013-07-16T16:56:12.627Z",
+    "lastDump": "2013-07-25T11:13:37.348Z",
     "tags": [
       "Extensions",
       "XPInstall",
       "XUL",
       "API_du_toolkit"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "lastParsed": "2013-07-25T11:13:37.304Z",
+    "contentLength": 1037,
+    "locales": {
+      "en-US": "Window_icons"
+    },
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mise_à_jour_des_extensions_pour_Firefox_2": {
     "lastEditor": "Mgjbot",
@@ -29175,11 +29684,22 @@
   "https://developer.mozilla.org/fr/docs/Introduction": {
     "lastEditor": "lomalick@gmail.com",
     "lastUpdated": "2012-12-01T01:53:08-08:00",
-    "lastDump": "2013-07-16T16:56:15.530Z",
+    "lastDump": "2013-07-25T11:17:16.111Z",
     "tags": [
       "Traduction_en_cours"
     ],
-    "lastmod": "2012-12-01"
+    "lastmod": "2012-12-01",
+    "lastParsed": "2013-07-25T11:17:16.073Z",
+    "contentLength": 8396,
+    "locales": {
+      "en-US": "Introduction"
+    },
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/NPP_New": {
     "lastEditor": "Demos",
