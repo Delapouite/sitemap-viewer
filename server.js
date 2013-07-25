@@ -7,12 +7,14 @@ var jsonfile = require('jsonfile');
 var xml2json = require('xml2json');
 var express = require('express');
 var mkdirp = require('mkdirp');
+var URI = require('URIjs');
+var moment = require('moment');
 var _ = require('lodash');
 
-var dbFileName = './db/fr.json';
-var db = jsonfile.readFileSync(dbFileName);
+const dbFileName = './db/fr.json';
 const MDN = 'https://developer.mozilla.org';
 
+var db = jsonfile.readFileSync(dbFileName);
 var app = express();
 
 function sortByValue(object) {
@@ -35,6 +37,26 @@ function getTags(db) {
 	return sortByValue(tags);
 }
 
+function getUrls(sitemap) {
+		// order paths and urls by alpha
+	var urls = {};
+	sitemap.urlset.url.forEach(function(url) {
+		var uri = new URI(url.loc);
+		var path = uri.directory(true);
+		if (!urls[path]) {
+			urls[path] = [];
+		}
+		urls[path].push(url.loc);
+		// add sitemap info to db
+		uri = URI.decode(uri.href());
+		if (!db[uri]) {
+			db[uri] = {};
+		}
+		db[uri].lastmod = url.lastmod;
+	});
+	return urls;
+}
+
 function dump(uriPath) {
 	var uri = MDN + uriPath;
 	request({uri: uri}, function(error, response, body) {
@@ -43,7 +65,7 @@ function dump(uriPath) {
 			if (err) {
 				console.error(err);
 			} else {
-				fs.writeFile(__dirname + '/db' + uriPath, body, function(err) {
+				fs.writeFile(__dirname + '/db' + uriPath + '.html', body, function(err) {
 					if (err) {
 						console.log(err);
 					} else {
@@ -90,7 +112,7 @@ function parseBody(body, uri) {
 			if (href.substring(0, 7) === 'http://' || href.substring(0, 7) === 'https://') {
 				links.external++;
 			} else if(href.substring(0, 3) === '/fr') {
-				links.fr++
+				links.fr++;
 			} else if(href.substring(0, 6) === '/en-US') {
 				links['en-US']++;
 			}
@@ -114,23 +136,37 @@ function parseBody(body, uri) {
 	});
 }
 
+function displayDate(date, format) {
+	return (date && moment(date).format(format || 'YYYY-MM-DD')) || 'none';
+}
+
 app.use(express.static('public'));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
 	fs.readFile('./public/sitemaps/fr.xml', 'utf-8', function(err, sitemap) {
+
+		sitemap = xml2json.toJson(sitemap, {
+			object: true,
+			reversible: false,
+			coerce: true,
+			sanitize: false,
+			trim: true,
+			arrayNotation: false
+		});
+		var urls = getUrls(sitemap);
+
 		res.render('index', {
+			URI: URI,
+			_ : _,
+			MDN: MDN,
 			db: db,
-			sitemap: xml2json.toJson(sitemap, {
-				object: true,
-				reversible: false,
-				coerce: true,
-				sanitize: false,
-				trim: true,
-				arrayNotation: false
-			}),
-			tags: getTags(db)
+			tags: getTags(db),
+			sitemap: sitemap,
+			urls: urls,
+			paths: _.sortBy(Object.keys(urls)),
+			displayDate: displayDate
 		});
 	});
 });
@@ -142,7 +178,7 @@ app.get('/dump', function(req, res) {
 
 app.get('/parse', function(req, res) {
 	var uriPath = path.normalize(req.query.uriPath);
-	fs.readFile(__dirname + '/db' + uriPath, 'utf-8', function(err, data) {
+	fs.readFile(__dirname + '/db' + uriPath + '.html', 'utf-8', function(err, data) {
 		if (err) {
 			console.log(err);
 			if (err.code === 'ENOENT') {

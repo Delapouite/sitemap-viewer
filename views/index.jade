@@ -3,13 +3,62 @@ html
 	head
 		title Sitemap Viewer
 		link(href="/css/style.css", rel="stylesheet", type="text/css")
-		script(src="//code.jquery.com/jquery-1.10.1.min.js")
-		script(src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js")
-		script(src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.1.0/moment.min.js")
-		script(src="/js/vendor/uri.js")
 	body
-		script.
-			var db = !{JSON.stringify(db)};
-			var sitemap = !{JSON.stringify(sitemap)};
-			var tags = !{JSON.stringify(tags)};
-		script(src="/js/script.js")
+		table
+			tr
+				th(colspan="10")
+					a(href=MDN + '/en-US/dashboards/revisions?locale=fr&user=&topic=') Revisions dashboard
+					|  | 
+					a(href=MDN + '/sitemaps/fr/sitemap.xml') Sitemap
+					|  | 
+					a(href='#tags') Tags (#{tags.length})
+			tr
+				th Sitemap lastmod (MDN)
+				th Last updated (MDN)
+				th Last dump (local)
+				th Last parsed (local)
+				th URL
+				th en-US
+				th Tags
+				th Links
+				th Length
+				th Last editor
+
+			each path in paths
+				- var orderedUrls = _.sortBy(urls[path]);
+				tr
+					td(colspan="10")
+						h3 #{path} (#{orderedUrls.length})
+				each url in orderedUrls
+					- var uri = new URI(url);
+					- var savedUrl = db[URI.decode(uri.href())] || {};
+					tr
+						td(class='lastMod') #{savedUrl.lastmod}
+						td(class='lastUpdated d' + displayDate(savedUrl.lastUpdated, 'YY')) #{displayDate(savedUrl.lastUpdated)}
+						td.lastDump
+							if savedUrl.lastDump && savedUrl.lastDump < savedUrl.lastmod
+								a(rel='nofollow', href='/dump?uriPath=' + uri.path(), class='d05', title=displayDate(savedUrl.lastDump)) outdated
+							else
+								a(rel='nofollow', href='/dump?uriPath=' + uri.path()) #{displayDate(savedUrl.lastDump)}
+						td.lastParsed
+							a(rel='nofollow', href='/parse?uriPath=' + uri.path()) #{displayDate(savedUrl.lastParsed)}
+						td.url
+							a(rel='nofollow', href= uri.href(), title= uri.filename(true)) #{uri.filename(true)}
+						td.locales
+							if savedUrl.locales && savedUrl.locales['en-US']
+								a(rel='nofollow', href= MDN + '/en-US/docs/' + savedUrl.locales['en-US']) #{savedUrl.locales['en-US']}
+						td.tags
+							if savedUrl.tags
+								each tag in savedUrl.tags
+									a(href='#tag-' + tag) #{tag}
+									|  
+						td.links
+							if savedUrl.links
+								| Ext: #{savedUrl.links.external}, fr: #{savedUrl.links.fr}, en-US: #{savedUrl.links['en-US']}
+						td #{savedUrl.contentLength}
+						td #{savedUrl.lastEditor}
+		ul#tags
+			li
+				h2 #{tags.length} Tags
+			each tag in tags
+				li(id='tag-' + tag[0]) #{tag[0]} - #{tag[1]}

@@ -43,11 +43,11 @@
     <loc>https://developer.mozilla.org/fr/docs/Applications/Paiements_Marketplace</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/CSS_Reference/S%C3%A9lecteurs_d'attribut</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d'attribut</loc>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/CSS_Reference/S%C3%A9lecteurs_d'ID</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d'ID</loc>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/S%C3%A9lecteurs_universels</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
@@ -98,7 +98,7 @@
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/Instructions/throw</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/Instructions</loc>
     <lastmod>2012-08-14</lastmod>        <priority>0.5</priority>   </url>
@@ -107,13 +107,13 @@
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Canvas</loc>
-    <lastmod>2013-05-20</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Float32Array</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Array</loc>
-    <lastmod>2013-04-10</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/</loc>
     <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
@@ -152,7 +152,7 @@
     <lastmod>2012-12-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Error</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/calc</loc>
     <lastmod>2013-02-17</lastmod>        <priority>0.5</priority>   </url>
@@ -167,16 +167,16 @@
     <lastmod>2012-12-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Glisser_et_d%C3%A9poser</loc>
-    <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Components.utils</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.addEventListener</loc>
-    <lastmod>2013-07-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/@document</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/Shells</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -212,7 +212,7 @@
     <lastmod>2013-03-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript</loc>
-    <lastmod>2013-07-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Op%C3%A9rateurs</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
@@ -224,7 +224,7 @@
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:active</loc>
-    <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d'empilement_3</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
@@ -266,7 +266,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/SVG/Tutoriel</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/SVG/Tutoriel/Transformations_de_base</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -317,7 +317,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:after</loc>
-    <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/SVG/Tutoriel/Formes_de_base</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -350,7 +350,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/animation</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/angle</loc>
     <lastmod>2013-01-14</lastmod>        <priority>0.5</priority>   </url>
@@ -374,7 +374,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Colonnes_CSS3</loc>
-    <lastmod>2012-12-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Attributes</loc>
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
@@ -401,13 +401,13 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/image</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/text-transform</loc>
     <lastmod>2013-02-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/right</loc>
-    <lastmod>2013-06-28</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/quotes</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -428,7 +428,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.onbeforeunload</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/outline-style</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -470,7 +470,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/border-radius</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/border-bottom-left-radius</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -527,10 +527,10 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.nodeValue</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.tabIndex</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.dir</loc>
     <lastmod>2013-05-11</lastmod>        <priority>0.5</priority>   </url>
@@ -542,10 +542,10 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Outils/Ardoise</loc>
-    <lastmod>2013-04-26</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Outils</loc>
-    <lastmod>2013-06-29</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Utilisation_de_d%C3%A9grad%C3%A9s_CSS</loc>
     <lastmod>2013-01-14</lastmod>        <priority>0.5</priority>   </url>
@@ -569,13 +569,13 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:%C3%80_propos</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Midas</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Midas/Security_preferences</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/EXSLT/str/concat</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -656,13 +656,13 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:visited</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:link</loc>
-    <lastmod>2013-07-08</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:hover</loc>
-    <lastmod>2013-01-14</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/:focus</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -740,10 +740,10 @@
     <lastmod>2013-07-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Fichiers_E_S</loc>
-    <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/DataTransfer</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/FileReader</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -758,7 +758,7 @@
     <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/Filelist/FileList</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/download_mozilla_source_code</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
@@ -776,7 +776,7 @@
     <lastmod>2013-04-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_canvas</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas</loc>
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
@@ -803,25 +803,25 @@
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions</loc>
-    <lastmod>2013-07-08</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/do...while</loc>
-    <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/debugger</loc>
-    <lastmod>2012-08-24</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/continue</loc>
-    <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/const</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/break</loc>
-    <lastmod>2013-07-08</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/block</loc>
-    <lastmod>2013-07-08</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/A_propos</loc>
     <lastmod>2013-06-03</lastmod>        <priority>0.5</priority>   </url>
@@ -854,7 +854,7 @@
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
@@ -863,10 +863,10 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/eval</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/encodeURI</loc>
-    <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/decodeURIComponent</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
@@ -881,7 +881,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/SyntaxError</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/text-shadow</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -923,7 +923,7 @@
     <lastmod>2013-01-28</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Enregistrement_chrome</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/azimuth</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -992,7 +992,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Utilisation_des_transformations_CSS</loc>
-    <lastmod>2012-12-13</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_Data_Islands_XML_dans_Mozilla</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -1016,10 +1016,10 @@
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs//HTML</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs//HTML/Element</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/3.6</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
@@ -1076,7 +1076,7 @@
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_propri%C3%A9t%C3%A9s</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/H%C3%A9ritage_d'attributs_XBL</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
@@ -1124,7 +1124,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/D%C3%A9tails_sur_les_vues_d'arbres</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Vues_d'arbre_personnalis%C3%A9es</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
@@ -1202,7 +1202,7 @@
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barre_d'outils</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barres_de_d%C3%A9filement</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1322,7 +1322,7 @@
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Documentation_API_Greffons_Gecko</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Gecko-API_Greffons/Pr%C3%A9face</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -1331,7 +1331,7 @@
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/nsIPromptService</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input</loc>
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
@@ -1367,19 +1367,19 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Updates</loc>
-    <lastmod>2013-07-14</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-21</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Pages_%C3%A0_supprimer</loc>
-    <lastmod>2013-06-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Documentation_demand%C3%A9e</loc>
     <lastmod>2012-09-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Labs-tab</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web-tab</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/Button</loc>
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
@@ -1406,13 +1406,13 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/Datalist</loc>
-    <lastmod>2013-06-11</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/Optgroup</loc>
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.importDialog</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_du_DOM_Gecko</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -1421,19 +1421,19 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.open</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/document.images</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Applications-tab</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mobile-tab</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Addons-tab</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_pour_d%C3%A9veloppeurs_web</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -1511,10 +1511,10 @@
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Choisir_de_se_conformer_aux_standards_plut%C3%B4t_qu'aux_pratiques_propri%C3%A9taires</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_XUL</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPWindow</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1529,7 +1529,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPP_SetWindow</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPP_New</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1538,7 +1538,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPAPI/Constantes</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPAPI</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
@@ -1568,7 +1568,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.scrollTop</loc>
-    <lastmod>2012-08-13</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.scrollHeight</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1583,7 +1583,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/PyXPCOM</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_XUL</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
@@ -1604,16 +1604,16 @@
     <lastmod>2013-05-28</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/McCoy</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Places</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/xpcshell</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Caract%C3%A8res_internationaux_dans_du_JavaScript_XUL</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Ajout_de_fournisseurs_de_donn%C3%A9es_de_protection_anti-phishing</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -1637,7 +1637,7 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:R%C3%A9f%C3%A9rence_des_balises_wiki</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/mozilla-central</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -1652,7 +1652,7 @@
     <lastmod>2013-06-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/T%C3%A9l%C3%A9chargement_du_code_source_de_Mozilla</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Standards_du_Web</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -1661,16 +1661,16 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tinderbox</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/%C3%80_propos_de_JavaScript</loc>
-    <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XULRunner</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/FAQ_sur_la_compilation_de_Mozilla</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Installation_de_Mercurial</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1706,7 +1706,7 @@
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla_embarqu%C3%A9</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Pour_commencer</loc>
     <lastmod>2013-06-07</lastmod>        <priority>0.5</priority>   </url>
@@ -1745,7 +1745,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/RegExp</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mise_%C3%A0_jour_des_extensions_pour_Firefox_3</loc>
     <lastmod>2013-05-17</lastmod>        <priority>0.5</priority>   </url>
@@ -1772,7 +1772,7 @@
     <lastmod>2013-06-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.onkeyup</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -1784,7 +1784,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_document</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
@@ -1811,7 +1811,7 @@
     <lastmod>2013-04-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Informations_globales_dans_les_constructeurs</loc>
-    <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/D%C3%A9terminer_les_relations_d'instances</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
@@ -1826,7 +1826,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Floril%C3%A8ge_des_applications_XULrunner</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -1844,16 +1844,16 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_canvas/Utilisation_d'images</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/@font-face</loc>
     <lastmod>2012-12-14</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/GlisserD%C3%A9poser/Op%C3%A9rations_de_glissement</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Guide_de_d%C3%A9veloppement_d'extensions_Firefox</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOMParser</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1880,7 +1880,7 @@
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/Guide/Graphics/Dessiner_avec_canvas</loc>
-    <lastmod>2013-06-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/AJAX</loc>
     <lastmod>2012-08-22</lastmod>        <priority>0.5</priority>   </url>
@@ -1922,7 +1922,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Paquetage_multi_extensions</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/window.location</loc>
     <lastmod>2013-07-08</lastmod>        <priority>0.5</priority>   </url>
@@ -1961,7 +1961,7 @@
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Arrondi_CSS3</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/EXSLT/regexp/replace</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2018,7 +2018,7 @@
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Bundles</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPCOM_ABI</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
@@ -2108,7 +2108,7 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Canvas</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Media_Gallery</loc>
     <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
@@ -2117,16 +2117,16 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Code_source_de_comm-central_(Mercurial)</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Code_source_de_Mozilla_(CVS)</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'un_pack_de_langue</loc>
     <lastmod>2012-08-30</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Compare-locales</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/RSS/Premiers_pas</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2150,7 +2150,7 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9er_un_th%C3%A8me_pour_Firefox</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9er_un_th%C3%A8me_pour_Firefox/contents.rdf</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2162,7 +2162,7 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Theme_Packaging</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Contr%C3%B4le_du_correcteur_d'orthographe_dans_les_formulaires_HTML</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2189,7 +2189,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPath/Axes</loc>
-    <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPath/Fonctions</loc>
     <lastmod>2012-12-06</lastmod>        <priority>0.5</priority>   </url>
@@ -2207,7 +2207,7 @@
     <lastmod>2013-06-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/%C3%80_propos</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Constantes_litt%C3%A9rales</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -2273,19 +2273,19 @@
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Date</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Date/prototype</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Boolean</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/valeur_de_couleur</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Boolean/prototype</loc>
-    <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function/toSource</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2294,7 +2294,7 @@
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object/isPrototypeOf</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object/hasOwnProperty</loc>
     <lastmod>2012-08-10</lastmod>        <priority>0.5</priority>   </url>
@@ -2303,7 +2303,7 @@
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Array</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function/toString</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2393,7 +2393,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/checked</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/command</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2420,10 +2420,10 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XULRunner_Anciennes_versions</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Guide_du_r%C3%A9dacteur</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/crop</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2450,7 +2450,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/String</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object/toSource</loc>
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2666,7 +2666,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Dessin_de_texte_avec_canvas</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Am%C3%A9liorations_du_gestionnaire_de_t%C3%A9l%C3%A9chargement_dans_Firefox_3</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2687,7 +2687,7 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/API_du_toolkit</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Importance_des_commentaires_bien_form%C3%A9s_en_HTML</loc>
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
@@ -2741,7 +2741,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.dispatchEvent</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.ownerDocument</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -2837,7 +2837,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/seltype</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/align</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
@@ -2891,10 +2891,10 @@
     <lastmod>2013-02-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Windows</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Compatibilit%C3%A9_CSS_de_Mozilla</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.isSupported</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -3041,7 +3041,7 @@
     <lastmod>2012-08-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqu%C3%A9/Introduction_%C3%A0_Gecko_et_%C3%A0_l'embarqu%C3%A9</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/border-collapse</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -3077,7 +3077,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/min-height</loc>
-    <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/containment</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -3092,7 +3092,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/M%C3%A9thodes/increase</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/M%C3%A9thodes/setSelectionRange</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -3254,7 +3254,7 @@
     <lastmod>2013-05-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/ECMAScript</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Array/constructor</loc>
     <lastmod>2012-08-25</lastmod>        <priority>0.5</priority>   </url>
@@ -3506,7 +3506,7 @@
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/dir</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_virgule</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -3524,7 +3524,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.parent</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/ime-mode</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -3554,7 +3554,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/pageincrement</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/image</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -3569,7 +3569,7 @@
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/type</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/tabIndex</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -3761,7 +3761,7 @@
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/selType</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/pack</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -3818,7 +3818,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Console_d'erreurs</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Astuces_CSS/Liens</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -3983,10 +3983,10 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Canvas</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Compilation_et_installation</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Date/now</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -4055,7 +4055,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/M%C3%A9thodes/decrease</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/pageIncrement</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
@@ -4076,13 +4076,13 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/max</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/min</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/increment</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/disabled</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -4238,10 +4238,10 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Mac_OS_X</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Attributs_des_%C3%A9l%C3%A9ments_XUL</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/value</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -4256,7 +4256,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Configuration_des_options_de_compilation</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/%C3%80_propos</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
@@ -4280,7 +4280,7 @@
     <lastmod>2013-02-13</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'expression_r%C3%A9guli%C3%A8res_pour_les_g%C3%A9n%C3%A9rateurs_de_micror%C3%A9sum%C3%A9s</loc>
-    <lastmod>2013-05-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Exemple_basique</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
@@ -4511,7 +4511,7 @@
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XMLSerializer</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Constantes</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -4613,7 +4613,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Utilisation_de_this_pour_r%C3%A9f%C3%A9rencer_un_objet</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/HTMLTableElement</loc>
     <lastmod>2012-09-21</lastmod>        <priority>0.5</priority>   </url>
@@ -4637,7 +4637,7 @@
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Travailler_avec_les_expressions_rationnelles/Exemples_d'expressions_rationnelles</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Number</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
@@ -4661,7 +4661,7 @@
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/%C3%89criture_d'un_masque_d'expression_rationnelle</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_in</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -4673,7 +4673,7 @@
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Linux</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d'exceptions/L'instruction_try...catch</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -4859,7 +4859,7 @@
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/nsIFeedContainer</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getComponentFolder</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
@@ -5030,7 +5030,7 @@
     <lastmod>2013-05-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Mod%C3%A8les_personnalis%C3%A9s</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Redirections_externes</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
@@ -5063,7 +5063,7 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mode_presque_standard_de_Gecko</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Probl%C3%A8mes_soulev%C3%A9s_par_le_pseudo_%C3%A9l%C3%A9ment_hover</loc>
     <lastmod>2013-01-25</lastmod>        <priority>0.5</priority>   </url>
@@ -5129,7 +5129,7 @@
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Windows_avec_cygwin</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_nsIXULAppInfo</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -5141,13 +5141,13 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Inspecteur_DOM</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XSLTProcessor</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/G%C3%A9n%C3%A9ration_de_GUID</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XSLT/%C3%89l%C3%A9ments</loc>
     <lastmod>2012-12-06</lastmod>        <priority>0.5</priority>   </url>
@@ -5186,7 +5186,7 @@
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'une_expression_rationnelle</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -5240,13 +5240,13 @@
     <lastmod>2012-09-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Articles</loc>
-    <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/RSS/Premiers_pas/Syndication</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Un_raycaster_basique_avec_canvas</loc>
-    <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XSLT/stylesheet</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
@@ -5450,13 +5450,13 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Venkman</loc>
-    <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_SVG_dans_HTML</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Expressions_rationnelles</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/D%C3%A9finition_de_param%C3%A8tres</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
@@ -5534,7 +5534,7 @@
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Outils_d'%C3%A9dition_respectueux_des_standards</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Transformations_XML_avec_XSLT/La_r%C3%A9f%C3%A9rence_XSLT_XPath_de_Netscape</loc>
     <lastmod>2012-08-31</lastmod>        <priority>0.5</priority>   </url>
@@ -5639,16 +5639,16 @@
     <lastmod>2013-05-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Assurance_qualit%C3%A9/Tests_en_charge</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Console_JavaScript</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/API_de_restauration_de_session</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/fonctions</loc>
-    <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Feed_content_access_API</loc>
     <lastmod>2012-09-30</lastmod>        <priority>0.5</priority>   </url>
@@ -5696,7 +5696,7 @@
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Utilisation_d'objets</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions_pr%C3%A9d%C3%A9finies/La_fonction_eval</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -5744,10 +5744,10 @@
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/RSS/Premiers_pas/Pr%C3%A9sentation_de_RSS</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
@@ -5774,10 +5774,10 @@
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Expressions_et_op%C3%A9rateurs</loc>
-    <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/%C3%80_propos/Caract%C3%A9ristiques_du_langage</loc>
-    <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XForms/Communaut%C3%A9</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -5795,7 +5795,7 @@
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/User:BenoitL/Liste_de_redirections_externes</loc>
-    <lastmod>2012-09-20</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/Utilisation_des_fermetures</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
@@ -5810,7 +5810,7 @@
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Sandbox/Interface.Attribute/SubPage</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Sandbox/Interface.Attribute</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
@@ -5897,7 +5897,7 @@
     <lastmod>2013-06-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/HTML/Element-old</loc>
-    <lastmod>2012-10-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Editing_MDN_pages</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
@@ -5926,8 +5926,8 @@
     <loc>https://developer.mozilla.org/fr/docs/IndexedDB/Basic_Concepts_Behind_IndexedDB</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/CSS_Reference</loc>
-    <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference</loc>
+    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/widows</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -5960,7 +5960,7 @@
     <lastmod>2013-06-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/flex</loc>
-    <lastmod>2013-04-19</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Persona/Quick_Setup</loc>
     <lastmod>2013-01-24</lastmod>        <priority>0.5</priority>   </url>
@@ -5981,7 +5981,7 @@
     <lastmod>2013-01-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/User:ethertank/Test_2</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/4</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
@@ -6092,7 +6092,7 @@
     <lastmod>2013-06-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/CSS_values_syntax</loc>
-    <lastmod>2013-06-27</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/figcaption</loc>
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
@@ -6107,7 +6107,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/word-wrap</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/column-width</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
@@ -6122,7 +6122,7 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/column-fill</loc>
-    <lastmod>2013-07-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/column-gap</loc>
     <lastmod>2012-10-06</lastmod>        <priority>0.5</priority>   </url>
@@ -6194,7 +6194,7 @@
     <lastmod>2012-11-13</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/C404</loc>
-    <lastmod>2013-04-11</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/SVG/Element/animateTransform</loc>
     <lastmod>2012-11-21</lastmod>        <priority>0.5</priority>   </url>
@@ -6224,7 +6224,7 @@
     <lastmod>2013-05-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/Element.firstElementChild</loc>
-    <lastmod>2012-12-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Propri%C3%A9t%C3%A9s_raccourcies</loc>
     <lastmod>2012-12-01</lastmod>        <priority>0.5</priority>   </url>
@@ -6293,10 +6293,10 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/overflow-x</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/overflow-y</loc>
-    <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/@viewport</loc>
     <lastmod>2013-01-23</lastmod>        <priority>0.5</priority>   </url>
@@ -6365,7 +6365,7 @@
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox_pour_Android</loc>
-    <lastmod>2013-04-02</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Platform</loc>
     <lastmod>2013-03-07</lastmod>        <priority>0.5</priority>   </url>
@@ -6518,7 +6518,7 @@
     <lastmod>2013-06-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Persona/Pourquoi_Persona</loc>
-    <lastmod>2013-04-20</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Glossary</loc>
     <lastmod>2013-04-23</lastmod>        <priority>0.5</priority>   </url>
@@ -6533,7 +6533,7 @@
     <lastmod>2013-04-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Thunderbird</loc>
-    <lastmod>2013-04-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Thunderbird/Autoconfiguration</loc>
     <lastmod>2013-04-25</lastmod>        <priority>0.5</priority>   </url>
@@ -6593,7 +6593,7 @@
     <lastmod>2013-05-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Outils/inspecteur</loc>
-    <lastmod>2013-06-30</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Image_avec_ressources_origines_multiples_CORS_activees</loc>
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
@@ -6602,7 +6602,7 @@
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Canvas/Dessiner_des_objets_DOM_dans_un_element_canvas</loc>
-    <lastmod>2013-05-20</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Contenu_editable</loc>
     <lastmod>2013-05-20</lastmod>        <priority>0.5</priority>   </url>
@@ -6641,7 +6641,7 @@
     <lastmod>2013-05-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/bdi</loc>
-    <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/data</loc>
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
@@ -6794,10 +6794,10 @@
     <lastmod>2013-05-21</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer</loc>
-    <lastmod>2013-07-11</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web</loc>
     <lastmod>2013-06-02</lastmod>        <priority>0.5</priority>   </url>
@@ -6905,10 +6905,10 @@
     <lastmod>2013-06-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AnimationEvent</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/main</loc>
-    <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/marquee</loc>
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
@@ -6917,13 +6917,13 @@
     <lastmod>2013-06-27</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioBuffer</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/listing</loc>
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioBufferSourceNode</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/noframes</loc>
     <lastmod>2013-06-01</lastmod>        <priority>0.5</priority>   </url>
@@ -6932,7 +6932,7 @@
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioContext</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioListener</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
@@ -6953,22 +6953,22 @@
     <lastmod>2013-06-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/menclose</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/merror</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/mfenced</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/mfrac</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/mglyph</loc>
-    <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Element/mi</loc>
-    <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Attribute</loc>
     <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
@@ -6980,7 +6980,7 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioParam</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/xmp</loc>
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
@@ -6992,19 +6992,19 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioProcessingEvent</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/BatteryManager</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/Fonctions_et_portee_des_fonctions</loc>
-    <lastmod>2013-06-15</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/Rejoindre_la_communaute</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/Prise_en_main</loc>
-    <lastmod>2013-06-22</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-19</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/document.head</loc>
     <lastmod>2013-06-11</lastmod>        <priority>0.5</priority>   </url>
@@ -7022,13 +7022,13 @@
     <lastmod>2013-06-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/Blob</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/GainNode</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/Planification</loc>
-    <lastmod>2013-06-22</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/WebAPI</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -7055,7 +7055,7 @@
     <lastmod>2013-06-22</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/Comment_aider</loc>
-    <lastmod>2013-07-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Using_full_screen_mode</loc>
     <lastmod>2013-06-24</lastmod>        <priority>0.5</priority>   </url>
@@ -7070,7 +7070,7 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/Cr%C3%A9er_et_modifier_des_pages</loc>
-    <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-20</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/WebAPI/Proximity</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -7079,19 +7079,19 @@
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:MDN/contribuer/R%C3%A8gles_d_%C3%A9tiquettage</loc>
-    <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Tips_and_tricks/faire_des_captures_ecran</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Utiliser_Gaia_dans_Firefox</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/Guide/Performance</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/HTMLCanvasElement</loc>
-    <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/WebAPI/Power_Management</loc>
     <lastmod>2013-06-27</lastmod>        <priority>0.5</priority>   </url>
@@ -7103,7 +7103,7 @@
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/PowerManager</loc>
-    <lastmod>2013-06-28</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/window.navigator.requestWakeLock</loc>
     <lastmod>2013-06-28</lastmod>        <priority>0.5</priority>   </url>
@@ -7160,8 +7160,17 @@
     <lastmod>2013-07-13</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/mozContact.familyName</loc>
-    <lastmod>2013-07-13</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Installer_sur_un_telephone_mobile</loc>
     <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
+  <url>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/::-moz-progress-bar</loc>
+    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
+  <url>
+    <loc>https://developer.mozilla.org/fr/docs/Trash</loc>
+    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
+  <url>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/export</loc>
+    <lastmod>2013-07-22</lastmod>        <priority>0.5</priority>   </url>
 </urlset>
