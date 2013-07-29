@@ -43,10 +43,10 @@
     <loc>https://developer.mozilla.org/fr/docs/Applications/Paiements_Marketplace</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d'attribut</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d&#39;attribut</loc>
     <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d'ID</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Reference/S%C3%A9lecteurs_d&#39;ID</loc>
     <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/S%C3%A9lecteurs_universels</loc>
@@ -61,7 +61,7 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/S%C3%A9lecteurs_de_voisins_g%C3%A9n%C3%A9raux</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs//CSS/CSS_Reference/S%C3%A9lecteurs_d'enfants_adjacents</loc>
+    <loc>https://developer.mozilla.org/fr/docs//CSS/CSS_Reference/S%C3%A9lecteurs_d&#39;enfants_adjacents</loc>
     <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/S%C3%A9lecteurs_enfant</loc>
@@ -226,16 +226,16 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/:active</loc>
     <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d'empilement_3</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d&#39;empilement_3</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d'empilement_2</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d&#39;empilement_2</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d'empilement_1</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Exemple_d&#39;empilement_1</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/L'empilement_de_couches</loc>
+    <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/L&#39;empilement_de_couches</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Comprendre_z-index/Ajout_de_z-index</loc>
@@ -550,7 +550,7 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/Utilisation_de_d%C3%A9grad%C3%A9s_CSS</loc>
     <lastmod>2013-01-14</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/alert</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/alert</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/D%C3%A9veloppement_Web</loc>
@@ -725,7 +725,7 @@
     <lastmod>2013-06-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript</loc>
-    <lastmod>2013-06-09</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Contenu</loc>
     <lastmod>2013-07-10</lastmod>        <priority>0.5</priority>   </url>
@@ -803,7 +803,7 @@
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions</loc>
-    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-27</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/do...while</loc>
     <lastmod>2013-07-22</lastmod>        <priority>0.5</priority>   </url>
@@ -835,10 +835,10 @@
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/Objets_globaux/RegExp</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_set</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_set</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_get</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_get</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object/lookupGetter</loc>
@@ -895,7 +895,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_delete</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_delete</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/Guide</loc>
@@ -907,7 +907,7 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/cursor</loc>
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Recommandations_d'accessibilit%C3%A9_pour_XUL</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Recommandations_d&#39;accessibilit%C3%A9_pour_XUL</loc>
     <lastmod>2013-05-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/%C3%89criture_de_code_localisable</loc>
@@ -916,7 +916,7 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.scrollLeft</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'un_panneau_lat%C3%A9ral</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;un_panneau_lat%C3%A9ral</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/fr</loc>
@@ -928,7 +928,7 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/azimuth</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Guide_du_d%C3%A9veloppeur_d'extensions_pour_Firefox/Introduction_aux_extensions</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Guide_du_d%C3%A9veloppeur_d&#39;extensions_pour_Firefox/Introduction_aux_extensions</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/border-left</loc>
@@ -1024,7 +1024,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/3.6</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Vulgarisation_XUL/L'essentiel_d'une_extension</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Vulgarisation_XUL/L&#39;essentiel_d&#39;une_extension</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Comment_cr%C3%A9er_un_arbre_DOM</loc>
@@ -1033,13 +1033,13 @@
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_XPath</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Fonctions_additionnelles_d'installation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Fonctions_additionnelles_d&#39;installation</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Les_scripts_d'installation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Les_scripts_d&#39;installation</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Cr%C3%A9ation_d'un_programme_d'installation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Cr%C3%A9ation_d&#39;un_programme_d&#39;installation</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Overlays_inter-paquetage</loc>
@@ -1051,7 +1051,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Assistant_avan%C3%A7%C3%A9</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Cr%C3%A9ation_d'un_assistant</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Cr%C3%A9ation_d&#39;un_assistant</loc>
     <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Bo%C3%AEte_de_dialogue_de_fichier</loc>
@@ -1060,7 +1060,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Cr%C3%A9er_des_bo%C3%AEtes_de_dialogue</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Caract%C3%A9ristiques_d'une_fen%C3%AAtre</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Caract%C3%A9ristiques_d&#39;une_fen%C3%AAtre</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Exemple_XBL</loc>
@@ -1069,7 +1069,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/H%C3%A9ritage_XBL</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_gestionnaire_d'%C3%A9v%C3%A8nements</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_gestionnaire_d&#39;%C3%A9v%C3%A8nements</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_m%C3%A9thodes</loc>
@@ -1078,7 +1078,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/H%C3%A9ritage_d'attributs_XBL</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/H%C3%A9ritage_d&#39;attributs_XBL</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Contenu_anonyme</loc>
@@ -1123,10 +1123,10 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Les_objets_bo%C3%AEtes_des_arbres</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/D%C3%A9tails_sur_les_vues_d'arbres</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/D%C3%A9tails_sur_les_vues_d&#39;arbres</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Vues_d'arbre_personnalis%C3%A9es</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Vues_d&#39;arbre_personnalis%C3%A9es</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/S%C3%A9lection_dans_les_arbres</loc>
@@ -1162,7 +1162,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Manipulation_de_listes</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Modification_d'une_interface_XUL</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Modification_d&#39;une_interface_XUL</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Document_Object_Model</loc>
@@ -1183,10 +1183,10 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Raccourcis_clavier</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Plus_sur_les_gestionnaires_d'%C3%A9v%C3%A8nements</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Plus_sur_les_gestionnaires_d&#39;%C3%A9v%C3%A8nements</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_gestionnaires_d'%C3%A9v%C3%A8nements</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_gestionnaires_d&#39;%C3%A9v%C3%A8nements</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Menus_d%C3%A9filants</loc>
@@ -1201,7 +1201,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barres_de_menus_simples</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barre_d'outils</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barre_d&#39;outils</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barres_de_d%C3%A9filement</loc>
@@ -1225,7 +1225,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Piles_et_Paquets</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajouter_plus_d'%C3%A9l%C3%A9ments</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajouter_plus_d&#39;%C3%A9l%C3%A9ments</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Les_bo%C3%AEtes_de_groupe</loc>
@@ -1243,7 +1243,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Utilisation_des_spacers</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_d'%C3%A9l%C3%A9ments_HTML</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_d&#39;%C3%A9l%C3%A9ments_HTML</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Indicateurs_de_progression</loc>
@@ -1264,7 +1264,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Les_fichiers_manifest</loc>
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/L'URL_Chrome</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/L&#39;URL_Chrome</loc>
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/La_structure_XUL</loc>
@@ -1367,7 +1367,7 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Updates</loc>
-    <lastmod>2013-07-21</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-27</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Pages_%C3%A0_supprimer</loc>
     <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
@@ -1474,10 +1474,10 @@
     <loc>https://developer.mozilla.org/fr/docs/Manuel_de_compatibilit%C3%A9_Gecko</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Manifestes_d'installation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Manifestes_d&#39;installation</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'objet_Components</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;objet_Components</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Les_contr%C3%B4les_XUL</loc>
@@ -1510,7 +1510,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajouter_des_libell%C3%A9s_et_des_images</loc>
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Choisir_de_se_conformer_aux_standards_plut%C3%B4t_qu'aux_pratiques_propri%C3%A9taires</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Choisir_de_se_conformer_aux_standards_plut%C3%B4t_qu&#39;aux_pratiques_propri%C3%A9taires</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_XUL</loc>
@@ -1538,7 +1538,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPAPI/Constantes</loc>
-    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/NPAPI</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
@@ -1555,7 +1555,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Windows_des_branches_1.7_et_1.8</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/%C3%80_propos/Conventions_d'%C3%A9criture</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/%C3%80_propos/Conventions_d&#39;%C3%A9criture</loc>
     <lastmod>2012-08-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_du_cache_de_Firefox_1.5</loc>
@@ -1627,7 +1627,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XULRunner/Community</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/XULRunner/Ce_qu'offre_XULRunner</loc>
+    <loc>https://developer.mozilla.org/fr/docs/XULRunner/Ce_qu&#39;offre_XULRunner</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/float</loc>
@@ -1706,7 +1706,7 @@
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla_embarqu%C3%A9</loc>
-    <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Pour_commencer</loc>
     <lastmod>2013-06-07</lastmod>        <priority>0.5</priority>   </url>
@@ -1768,7 +1768,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function/length</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d'audio_et_video_en_HTML5</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d&#39;audio_et_video_en_HTML5</loc>
     <lastmod>2013-06-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Object</loc>
@@ -1786,10 +1786,10 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_document</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_document</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_windows</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_windows</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window</loc>
@@ -1804,25 +1804,25 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Function/caller</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets/Ajout_de_propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets/Ajout_de_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Pas_d'h%C3%A9ritage_multiple</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l&#39;h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Pas_d&#39;h%C3%A9ritage_multiple</loc>
     <lastmod>2013-04-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Informations_globales_dans_les_constructeurs</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l&#39;h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Informations_globales_dans_les_constructeurs</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/D%C3%A9terminer_les_relations_d'instances</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l&#39;h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/D%C3%A9terminer_les_relations_d&#39;instances</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Valeurs_locales_et_valeurs_h%C3%A9rit%C3%A9es</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l&#39;h%C3%A9ritage_de_propri%C3%A9t%C3%A9s/Valeurs_locales_et_valeurs_h%C3%A9rit%C3%A9es</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l'h%C3%A9ritage_de_propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Retour_sur_l&#39;h%C3%A9ritage_de_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2013-04-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9/Des_constructeurs_plus_flexibles</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9/Des_constructeurs_plus_flexibles</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide</loc>
@@ -1837,13 +1837,13 @@
     <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Ex%C3%A9cuter_des_applications</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Guide_du_d%C3%A9veloppeur_d'extensions_pour_Firefox</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Guide_du_d%C3%A9veloppeur_d&#39;extensions_pour_Firefox</loc>
     <lastmod>2012-08-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/document.createAttribute</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_canvas/Utilisation_d'images</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Tutoriel_canvas/Utilisation_d&#39;images</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/@font-face</loc>
@@ -1852,7 +1852,7 @@
     <loc>https://developer.mozilla.org/fr/docs/GlisserD%C3%A9poser/Op%C3%A9rations_de_glissement</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Guide_de_d%C3%A9veloppement_d'extensions_Firefox</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Guide_de_d%C3%A9veloppement_d&#39;extensions_Firefox</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOMParser</loc>
@@ -1861,7 +1861,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Raccourcis_vers_la_documentation</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_code_Mozilla_dans_d'autres_projets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_code_Mozilla_dans_d&#39;autres_projets</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/D%C3%A9veloppement_de_modules_compl%C3%A9mentaires</loc>
@@ -1897,16 +1897,16 @@
     <loc>https://developer.mozilla.org/fr/docs/DragDrop/Drag_and_Drop</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9/Cr%C3%A9ation_de_la_hi%C3%A9rarchie</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9/Cr%C3%A9ation_de_la_hi%C3%A9rarchie</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets/H%C3%A9ritage_de_propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets/H%C3%A9ritage_de_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Utilisation_d'une_fonction_constructeur</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/Utilisation_d&#39;une_fonction_constructeur</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'extensions_pour_Firefox_avec_le_syst%C3%A8me_de_compilation_de_Mozilla</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;extensions_pour_Firefox_avec_le_syst%C3%A8me_de_compilation_de_Mozilla</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/GlisserD%C3%A9poser/Glisser_et_d%C3%A9poser</loc>
@@ -1942,7 +1942,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XPathResult.SnapshotItem()</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_l'utilisation_de_XPath_avec_JavaScript</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_l&#39;utilisation_de_XPath_avec_JavaScript</loc>
     <lastmod>2013-05-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPathResult.IterateNext()</loc>
@@ -1951,7 +1951,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XPathResult</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Migration_d'applications_d'Internet_Explorer_vers_Mozilla</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Migration_d&#39;applications_d&#39;Internet_Explorer_vers_Mozilla</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_plusieurs_DTD</loc>
@@ -2038,13 +2038,13 @@
     <loc>https://developer.mozilla.org/fr/docs/Raccourcis_vers_la_documentation/Raccourcis_vers_la_documentation</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Assistants_d'installation_(aka</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Assistants_d&#39;installation_(aka</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/WinPro</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/WinPro</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/WinPro/Objet_File</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/WinPro/Objet_File</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla_Embedding_FAQ</loc>
@@ -2056,7 +2056,7 @@
     <loc>https://developer.mozilla.org/fr/docs/My_Chrome_Oven</loc>
     <lastmod>2013-06-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets</loc>
@@ -2122,7 +2122,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Code_source_de_Mozilla_(CVS)</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'un_pack_de_langue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;un_pack_de_langue</loc>
     <lastmod>2012-08-30</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Compare-locales</loc>
@@ -2164,7 +2164,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Theme_Packaging</loc>
     <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Contr%C3%B4le_du_correcteur_d'orthographe_dans_les_formulaires_HTML</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Contr%C3%B4le_du_correcteur_d&#39;orthographe_dans_les_formulaires_HTML</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Ajout_de_moteurs_de_recherche_depuis_des_pages_Web</loc>
@@ -2194,7 +2194,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XPath/Fonctions</loc>
     <lastmod>2012-12-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Configuration_d'un_environnement_de_d%C3%A9veloppement_d'extensions</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Configuration_d&#39;un_environnement_de_d%C3%A9veloppement_d&#39;extensions</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Empaqueter_une_extension</loc>
@@ -2212,7 +2212,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Constantes_litt%C3%A9rales</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_d'affectation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_d&#39;affectation</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/font-variant</loc>
@@ -2590,10 +2590,10 @@
     <loc>https://developer.mozilla.org/fr/docs/Images_PNG_anim%C3%A9es</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_this</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_this</loc>
     <lastmod>2012-08-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Recommandations_pour_l'%C3%A9criture_d'un_bug</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Recommandations_pour_l&#39;%C3%A9criture_d&#39;un_bug</loc>
     <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/minWidth</loc>
@@ -2677,7 +2677,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Soumettre_un_module_sur_AMO</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Installation_d'extensions</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Installation_d&#39;extensions</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Extension_XEmbed_pour_les_plugins_Mozilla</loc>
@@ -2821,7 +2821,7 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/inheritance</loc>
     <lastmod>2012-10-01</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_new</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_new</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s/builder</loc>
@@ -2830,7 +2830,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIWebBrowserPersist</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Localisation_des_descriptions_d'extensions</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Localisation_des_descriptions_d&#39;extensions</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XBL/R%C3%A9f%C3%A9rence_XBL_1.0</loc>
@@ -2845,7 +2845,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_nsILoginManager</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Versions_d'une_extension,_mise_%C3%A0_jour_et_compatibilit%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Versions_d&#39;une_extension,_mise_%C3%A0_jour_et_compatibilit%C3%A9</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/Storage</loc>
@@ -3040,7 +3040,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Fonctions/arguments/callee</loc>
     <lastmod>2012-08-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqu%C3%A9/Introduction_%C3%A0_Gecko_et_%C3%A0_l'embarqu%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqu%C3%A9/Introduction_%C3%A0_Gecko_et_%C3%A0_l&#39;embarqu%C3%A9</loc>
     <lastmod>2013-07-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/border-collapse</loc>
@@ -3205,7 +3205,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XUL/M%C3%A9thodes/hasUserValue</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9</loc>
     <lastmod>2013-04-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.hasAttributes</loc>
@@ -3421,7 +3421,7 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/document.getElementsByTagName</loc>
     <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Guide_de_r%C3%A9daction_d'un_rapport_d'anomalie</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Guide_de_r%C3%A9daction_d&#39;un_rapport_d&#39;anomalie</loc>
     <lastmod>2013-06-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.alert</loc>
@@ -3478,7 +3478,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Array/reduce</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Array</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Array</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/export</loc>
@@ -3508,7 +3508,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/dir</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_virgule</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_virgule</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/M%C3%A9thodes/stop</loc>
@@ -3565,7 +3565,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/selected</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Localisation_des_m%C3%A9tadonn%C3%A9es_d'une_extension_sur_addons.mozilla.org</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Localisation_des_m%C3%A9tadonn%C3%A9es_d&#39;une_extension_sur_addons.mozilla.org</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Attributs/type</loc>
@@ -3748,7 +3748,7 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/window.opener</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Les_liaisons_JavaScript_XSLT</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/Les_liaisons_JavaScript_XSLT</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XUL/Propri%C3%A9t%C3%A9s</loc>
@@ -3797,7 +3797,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Components</loc>
-    <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-24</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.onscroll</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
@@ -3817,7 +3817,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XPI</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Console_d'erreurs</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Console_d&#39;erreurs</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Astuces_CSS/Liens</loc>
@@ -3922,7 +3922,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/function</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_function</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_function</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/blocs</loc>
@@ -3931,10 +3931,10 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/throw</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_instanceof</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_instanceof</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_void</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_void</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_de_cha%C3%AEnes</loc>
@@ -3949,7 +3949,7 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/return</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_typeof</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_typeof</loc>
     <lastmod>2012-08-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Fonctions_globales/parseFloat</loc>
@@ -4195,7 +4195,7 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.offsetTop</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Int%C3%A9gration_de_l'%C3%A9diteur</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Int%C3%A9gration_de_l&#39;%C3%A9diteur</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_la_cryptographie_%C3%A0_clef_publique/Gestion_des_certificats</loc>
@@ -4216,7 +4216,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Introduction_%C3%A0_la_cryptographie_%C3%A0_clef_publique</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Fonctions_globales/decodeURIComponent</loc>
@@ -4279,10 +4279,10 @@
     <loc>https://developer.mozilla.org/fr/docs/CSS/Fusion_des_marges</loc>
     <lastmod>2013-02-13</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'expression_r%C3%A9guli%C3%A8res_pour_les_g%C3%A9n%C3%A9rateurs_de_micror%C3%A9sum%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;expression_r%C3%A9guli%C3%A8res_pour_les_g%C3%A9n%C3%A9rateurs_de_micror%C3%A9sum%C3%A9s</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Exemple_basique</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/Exemple_basique</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Pourquoi_utiliser_CSS</loc>
@@ -4456,19 +4456,19 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.localName</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/registerChrome</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/registerChrome</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall</loc>
     <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Langages_bas%C3%A9s_sur_les_classes_et_langages_bas%C3%A9s_sur_les_prototypes</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Modification_dynamique_d'interfaces_utilisateur_en_XUL</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Modification_dynamique_d&#39;interfaces_utilisateur_en_XUL</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/Whitespace_template</loc>
@@ -4519,7 +4519,7 @@
     <loc>https://developer.mozilla.org/fr/docs/DOM/element.lang</loc>
     <lastmod>2013-05-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Barre_d'outils</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Barre_d&#39;outils</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Introduction_au_shell_JavaScript</loc>
@@ -4567,7 +4567,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Gestion_de_suggestions_dans_les_plugins_de_recherche</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'un_g%C3%A9n%C3%A9rateur_de_micror%C3%A9sum%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;un_g%C3%A9n%C3%A9rateur_de_micror%C3%A9sum%C3%A9</loc>
     <lastmod>2013-05-02</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Objets_globaux/Number</loc>
@@ -4579,40 +4579,40 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Fonctions_globales/Date</loc>
     <lastmod>2012-08-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Suppression_de_propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/Suppression_de_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/D%C3%A9finition_d'accesseurs_et_de_mutateurs</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/D%C3%A9finition_d&#39;accesseurs_et_de_mutateurs</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Utilisation_des_initialisateurs_d'objets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/Utilisation_des_initialisateurs_d&#39;objets</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/L&#39;exemple_de_l&#39;employ%C3%A9/Propri%C3%A9t%C3%A9s_des_objets</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions_pr%C3%A9d%C3%A9finies/Les_fonctions_parseInt_et_parseFloat</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Date</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Date</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Function</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Function</loc>
     <lastmod>2012-08-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_String</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_String</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/D%C3%A9finition_de_propri%C3%A9t%C3%A9s_pour_un_type_d'objet</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/D%C3%A9finition_de_propri%C3%A9t%C3%A9s_pour_un_type_d&#39;objet</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Indexation_des_propri%C3%A9t%C3%A9s_d'un_objet</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/Indexation_des_propri%C3%A9t%C3%A9s_d&#39;un_objet</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/D%C3%A9finition_de_m%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/D%C3%A9finition_de_m%C3%A9thodes</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets/Utilisation_de_this_pour_r%C3%A9f%C3%A9rencer_un_objet</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets/Utilisation_de_this_pour_r%C3%A9f%C3%A9rencer_un_objet</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/HTMLTableElement</loc>
@@ -4627,7 +4627,7 @@
     <loc>https://developer.mozilla.org/fr/docs/toString</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_grammaticale_XML_d'un_micror%C3%A9sum%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_grammaticale_XML_d&#39;un_micror%C3%A9sum%C3%A9</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XHTML</loc>
@@ -4636,13 +4636,13 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_binaires</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Travailler_avec_les_expressions_rationnelles/Exemples_d'expressions_rationnelles</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Travailler_avec_les_expressions_rationnelles/Exemples_d&#39;expressions_rationnelles</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Number</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Number</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'objets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;objets</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_de_comparaison</loc>
@@ -4660,13 +4660,13 @@
     <loc>https://developer.mozilla.org/fr/docs/XML/Autres_ressources</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/%C3%89criture_d'un_masque_d'expression_rationnelle</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/%C3%89criture_d&#39;un_masque_d&#39;expression_rationnelle</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_in</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_in</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L'op%C3%A9rateur_conditionnel</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux/L&#39;op%C3%A9rateur_conditionnel</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Priorit%C3%A9s_des_op%C3%A9rateurs</loc>
@@ -4675,16 +4675,16 @@
     <loc>https://developer.mozilla.org/fr/docs/Pr%C3%A9alables_%C3%A0_la_compilation_sous_Linux</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d'exceptions/L'instruction_try...catch</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d&#39;exceptions/L&#39;instruction_try...catch</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_et_propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d'exceptions</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d&#39;exceptions</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d'exceptions/L'instruction_throw</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_gestion_d&#39;exceptions/L&#39;instruction_throw</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Cookies</loc>
@@ -4696,157 +4696,157 @@
     <loc>https://developer.mozilla.org/fr/docs/Extraits_de_code/Fen%C3%AAtres</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/XForms/%C3%89l%C3%A9ment_d'interface_utilisateur</loc>
+    <loc>https://developer.mozilla.org/fr/docs/XForms/%C3%89l%C3%A9ment_d&#39;interface_utilisateur</loc>
     <lastmod>2012-09-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/XForms/R%C3%A9f%C3%A9rence_de_l'API</loc>
+    <loc>https://developer.mozilla.org/fr/docs/XForms/R%C3%A9f%C3%A9rence_de_l&#39;API</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqu%C3%A9</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/WinRegValue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/WinRegValue</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/installChrome</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/installChrome</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/getVersion</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/getVersion</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes</loc>
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getFolder</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/getFolder</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/move</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/move</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/diskSpaceAvailable</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/diskSpaceAvailable</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/Windows_Install</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/Windows_Install</loc>
     <lastmod>2013-05-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Codes_retourn%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Codes_retourn%C3%A9s</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/valueExists</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/valueExists</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/deleteValue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/deleteValue</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/enumKeys</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/enumKeys</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/enumValueNames</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/enumValueNames</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValue</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValueString</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValueString</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValueString</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValueString</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes</loc>
     <lastmod>2013-05-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValueNumber</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValueNumber</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/setRootKey</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/setRootKey</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValueNumber</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/getValueNumber</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/createKey</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/createKey</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinProfile/M%C3%A9thodes/writeString</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinProfile/M%C3%A9thodes/writeString</loc>
     <lastmod>2012-08-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinProfile/M%C3%A9thodes/getString</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinProfile/M%C3%A9thodes/getString</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/windowsShortcut</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/windowsShortcut</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/modDateChanged</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/modDateChanged</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/modDate</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/modDate</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/dirRemove</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/dirRemove</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/toString</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/toString</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/install</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/install</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/init</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/init</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/compareTo</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion/M%C3%A9thodes/compareTo</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion/M%C3%A9thodes</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallVersion/Propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallVersion/Propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/startSoftwareUpdate</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/startSoftwareUpdate</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/enabled</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/enabled</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/compareVersion</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_InstallTrigger/M%C3%A9thodes/compareVersion</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/initInstall</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/initInstall</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/setPackageFolder</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/setPackageFolder</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getWinProfile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/getWinProfile</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/addFile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/addFile</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/addDirectory</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/addDirectory</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/confirm</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/confirm</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/resetError</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/resetError</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/patch</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/patch</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/nsIFeedTextConstruct</loc>
@@ -4861,103 +4861,103 @@
     <loc>https://developer.mozilla.org/fr/docs/nsIFeedContainer</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getComponentFolder</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/getComponentFolder</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/execute</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/execute</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/logComment</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/logComment</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getLastError</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/getLastError</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/gestalt</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/gestalt</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/deleteRegisteredFile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/deleteRegisteredFile</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/cancelInstall</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/cancelInstall</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/Propri%C3%A9t%C3%A9s</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/Propri%C3%A9t%C3%A9s</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Utilisation_d'URL_pour_la_propri%C3%A9t%C3%A9_cursor</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Utilisation_d&#39;URL_pour_la_propri%C3%A9t%C3%A9_cursor</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/isKeyWritable</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/isKeyWritable</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/keyExists</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/keyExists</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/setValue</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinReg/M%C3%A9thodes/deleteKey</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinReg/M%C3%A9thodes/deleteKey</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/execute</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/execute</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/remove</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/remove</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/size</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/size</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/isDirectory</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/isDirectory</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/dirRename</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/dirRename</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/rename</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/rename</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/copy</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/copy</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/exists</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/exists</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/isFile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/isFile</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/windowsRegisterServer</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/windowsRegisterServer</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/windowsGetShortName</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/windowsGetShortName</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/macAlias</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/macAlias</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/dirGetParent</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/dirGetParent</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes/dirCreate</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes/dirCreate</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Contr%C3%B4les_DHTML_personnalis%C3%A9s_navigables_au_clavier</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/getWinRegistry</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/getWinRegistry</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Guide_de_nommage_des_pages</loc>
     <lastmod>2013-06-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/performInstall</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/performInstall</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/refreshPlugins</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/refreshPlugins</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_Install/M%C3%A9thodes/loadResources</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_Install/M%C3%A9thodes/loadResources</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Indentation_homog%C3%A8ne_des_listes</loc>
@@ -4969,31 +4969,31 @@
     <loc>https://developer.mozilla.org/fr/docs/nsISessionStore</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/Scripts_de_d%C3%A9clenchement_et_scripts_d'installation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/Scripts_de_d%C3%A9clenchement_et_scripts_d&#39;installation</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/File.macAlias</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/File.macAlias</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/File.windowsShortcut</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/File.windowsShortcut</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/Install.addDirectory</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/Install.addDirectory</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/Install.addFile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/Install.addFile</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/InstallTrigger.installChrome</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/InstallTrigger.installChrome</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Exemples/InstallTrigger.startSoftwareUpdate</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Exemples/InstallTrigger.startSoftwareUpdate</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File/M%C3%A9thodes</loc>
     <lastmod>2013-05-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_File</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_File</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/document.open</loc>
@@ -5017,16 +5017,16 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Fonctions_globales/String</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_d'affectation</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Op%C3%A9rateurs/Op%C3%A9rateurs_d&#39;affectation</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/DOM/style</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinProfile/M%C3%A9thodes</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinProfile/M%C3%A9thodes</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l'API_XPInstall/Objet_WinProfile</loc>
+    <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_l&#39;API_XPInstall/Objet_WinProfile</loc>
     <lastmod>2013-05-26</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Mod%C3%A8les_personnalis%C3%A9s</loc>
@@ -5041,7 +5041,7 @@
     <loc>https://developer.mozilla.org/fr/docs/FAQ_et_r%C3%A8gles_pour_les_accesskeys_en_XUL</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_l'interface_JavaScript_de_Mozilla_pour_les_transformations_XSL</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Utilisation_de_l&#39;interface_JavaScript_de_Mozilla_pour_les_transformations_XSL</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/-moz-box-pack</loc>
@@ -5116,7 +5116,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Comportement_du_mode_quirks_de_Mozilla</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_manipulation_d'objets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions_de_manipulation_d&#39;objets</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Commentaires</loc>
@@ -5161,7 +5161,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Notes_de_versions_de_XULRunner_1.8.0.4</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Localisation_d'une_extension</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Localisation_d&#39;une_extension</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_logiques</loc>
@@ -5188,19 +5188,19 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_sp%C3%A9ciaux</loc>
     <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d'une_expression_rationnelle</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Cr%C3%A9ation_d&#39;une_expression_rationnelle</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions_pr%C3%A9d%C3%A9finies/Les_fonctions_Number_et_String</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Boolean</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Boolean</loc>
     <lastmod>2013-07-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_Math</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_Math</loc>
     <lastmod>2012-08-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L'objet_RegExp</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Objets_pr%C3%A9d%C3%A9finis/L&#39;objet_RegExp</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Op%C3%A9rateurs/Op%C3%A9rateurs_de_comparaison</loc>
@@ -5215,7 +5215,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Compilation_de_TransforMiiX</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d'un_patch</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_d&#39;un_patch</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XSLT/when</loc>
@@ -5230,7 +5230,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XSLT/text</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Installation_d'extensions_et_de_th%C3%A8mes_depuis_une_page_Web</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Installation_d&#39;extensions_et_de_th%C3%A8mes_depuis_une_page_Web</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Les_cha%C3%AEnes_UserAgent_de_Gecko</loc>
@@ -5335,7 +5335,7 @@
     <loc>https://developer.mozilla.org/fr/docs/RSS/Premiers_pas/Pourquoi_utiliser_RSS</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Utilisation_de_l'objet_arguments</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Utilisation_de_l&#39;objet_arguments</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko</loc>
@@ -5359,7 +5359,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_de_boutons_de_barre_d'outils</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Cr%C3%A9ation_de_boutons_de_barre_d&#39;outils</loc>
     <lastmod>2012-08-17</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/RSS/%C3%89l%C3%A9ments</loc>
@@ -5458,16 +5458,16 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Expressions_rationnelles</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/D%C3%A9finition_de_param%C3%A8tres</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/D%C3%A9finition_de_param%C3%A8tres</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Exemple_avanc%C3%A9</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/Exemple_avanc%C3%A9</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Liste_des_interfaces</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/Liste_des_interfaces</loc>
     <lastmod>2012-08-12</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Ressources</loc>
+    <loc>https://developer.mozilla.org/fr/docs/L&#39;interface_XSLT_JavaScript_dans_Gecko/Ressources</loc>
     <lastmod>2012-09-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPath/Fonctions/current</loc>
@@ -5533,7 +5533,7 @@
     <loc>https://developer.mozilla.org/fr/docs/XSLT/transform</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Outils_d'%C3%A9dition_respectueux_des_standards</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Outils_d&#39;%C3%A9dition_respectueux_des_standards</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Transformations_XML_avec_XSLT/La_r%C3%A9f%C3%A9rence_XSLT_XPath_de_Netscape</loc>
@@ -5695,7 +5695,7 @@
     <loc>https://developer.mozilla.org/fr/docs/RSS/Version</loc>
     <lastmod>2012-08-07</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Utilisation_d'objets</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Utilisation_d&#39;objets</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions_pr%C3%A9d%C3%A9finies/La_fonction_eval</loc>
@@ -5710,22 +5710,22 @@
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions_pr%C3%A9d%C3%A9finies</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_continue</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_continue</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_break</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_break</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_do...while</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_do...while</loc>
     <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_for</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_for</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_label</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_label</loc>
     <lastmod>2012-08-06</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_while</loc>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L&#39;instruction_while</loc>
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript_Guide/D%C3%A9claration_de_blocs</loc>
@@ -5800,7 +5800,7 @@
     <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/Utilisation_des_fermetures</loc>
     <lastmod>2012-08-09</lastmod>        <priority>0.5</priority>   </url>
   <url>
-    <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/R%C3%A9solution_d'identifiants,_contextes_d'ex%C3%A9cution_et_visibilit%C3%A9_des_variables</loc>
+    <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/R%C3%A9solution_d&#39;identifiants,_contextes_d&#39;ex%C3%A9cution_et_visibilit%C3%A9_des_variables</loc>
     <lastmod>2012-08-08</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/La_r%C3%A9solution_des_noms_de_propri%C3%A9t%C3%A9_sur_les_objets</loc>
@@ -6539,7 +6539,7 @@
     <lastmod>2013-04-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/pointer-events</loc>
-    <lastmod>2013-04-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Mozilla/Firefox</loc>
     <lastmod>2013-06-18</lastmod>        <priority>0.5</priority>   </url>
@@ -6935,7 +6935,7 @@
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioListener</loc>
-    <lastmod>2013-06-06</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/A_propos_de_cette_reference</loc>
     <lastmod>2013-06-03</lastmod>        <priority>0.5</priority>   </url>
@@ -7166,11 +7166,17 @@
     <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/::-moz-progress-bar</loc>
-    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Trash</loc>
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/export</loc>
     <lastmod>2013-07-22</lastmod>        <priority>0.5</priority>   </url>
+  <url>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/for</loc>
+    <lastmod>2013-07-27</lastmod>        <priority>0.5</priority>   </url>
+  <url>
+    <loc>https://developer.mozilla.org/fr/docs/JavaScript/R%C3%A9f%C3%A9rence_JavaScript/Instructions/for_each...in</loc>
+    <lastmod>2013-07-27</lastmod>        <priority>0.5</priority>   </url>
 </urlset>

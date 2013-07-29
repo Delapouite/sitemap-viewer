@@ -146,7 +146,6 @@ app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
 	fs.readFile('./public/sitemaps/fr.xml', 'utf-8', function(err, sitemap) {
-
 		sitemap = xml2json.toJson(sitemap, {
 			object: true,
 			reversible: false,
@@ -155,6 +154,7 @@ app.get('/', function(req, res) {
 			trim: true,
 			arrayNotation: false
 		});
+
 		var urls = getUrls(sitemap);
 
 		res.render('index', {
@@ -173,6 +173,18 @@ app.get('/', function(req, res) {
 
 app.get('/dump', function(req, res) {
 	dump(path.normalize(req.query.uriPath));
+	res.send(200);
+});
+
+app.get('/dump/sitemap', function(req, res) {
+	var uri = MDN + '/sitemaps/' + req.query.locale + '/sitemap.xml';
+	request({uri: uri}, function(error, response, body) {
+		fs.writeFile(__dirname + '/public/sitemaps/' + req.query.locale + '.xml', body, function(err) {
+			if (err) {
+				console.log(err);
+			}
+		});
+	});
 	res.send(200);
 });
 
