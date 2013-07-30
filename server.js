@@ -156,7 +156,7 @@ function parseBody(body, uri) {
 			save();
 		});
 	} else {
-		scan404();
+		save();
 	}
 }
 
