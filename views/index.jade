@@ -57,6 +57,9 @@ html
 						td.links
 							if savedUrl.links
 								| Ext: #{savedUrl.links.external}, fr: #{savedUrl.links.fr}, en-US: #{savedUrl.links['en-US']}
+								if savedUrl.links['404']
+									| , 
+									span.d05 404: #{savedUrl.links['404']}
 						td(class=savedUrl.contentLength && savedUrl.contentLength < 500 ? 'd05' : '') #{savedUrl.contentLength}
 						td #{savedUrl.lastEditor}
 		ul#tags

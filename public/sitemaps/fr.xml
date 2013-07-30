@@ -350,10 +350,10 @@
     <lastmod>2013-02-15</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/animation</loc>
-    <lastmod>2013-07-16</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/angle</loc>
-    <lastmod>2013-01-14</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS</loc>
     <lastmod>2013-07-04</lastmod>        <priority>0.5</priority>   </url>
@@ -1322,7 +1322,7 @@
     <lastmod>2012-08-11</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Documentation_API_Greffons_Gecko</loc>
-    <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Gecko-API_Greffons/Pr%C3%A9face</loc>
     <lastmod>2013-06-23</lastmod>        <priority>0.5</priority>   </url>
@@ -1367,7 +1367,7 @@
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Updates</loc>
-    <lastmod>2013-07-27</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Project:Pages_%C3%A0_supprimer</loc>
     <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
@@ -1622,7 +1622,7 @@
     <lastmod>2012-08-04</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XPIDL</loc>
-    <lastmod>2012-08-05</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/XULRunner/Community</loc>
     <lastmod>2012-08-03</lastmod>        <priority>0.5</priority>   </url>
@@ -6092,7 +6092,7 @@
     <lastmod>2013-06-10</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/CSS_values_syntax</loc>
-    <lastmod>2013-07-17</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/figcaption</loc>
     <lastmod>2013-05-27</lastmod>        <priority>0.5</priority>   </url>
@@ -6299,7 +6299,7 @@
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/CSS/@viewport</loc>
-    <lastmod>2013-01-23</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Special:Tags</loc>
     <lastmod>2013-01-25</lastmod>        <priority>0.5</priority>   </url>
@@ -6935,7 +6935,7 @@
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/API/AudioListener</loc>
-    <lastmod>2013-07-25</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/R%C3%A9f%C3%A9rence_de_JavaScript_1.5_Core/A_propos_de_cette_reference</loc>
     <lastmod>2013-06-03</lastmod>        <priority>0.5</priority>   </url>
@@ -6971,7 +6971,7 @@
     <lastmod>2013-07-18</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/MathML/Attribute</loc>
-    <lastmod>2013-06-04</lastmod>        <priority>0.5</priority>   </url>
+    <lastmod>2013-07-29</lastmod>        <priority>0.5</priority>   </url>
   <url>
     <loc>https://developer.mozilla.org/fr/docs/Web/HTML/Element/plaintext</loc>
     <lastmod>2013-06-05</lastmod>        <priority>0.5</priority>   </url>
