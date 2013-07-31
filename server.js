@@ -186,10 +186,12 @@ function parseBody(body, uri) {
 		var promises = parse404($, uri);
 		Q.all(promises).then(function(responses) {
 			responses.forEach(function(res) {
-				console.log('status', res.status);
 				if (res.status === 404) {
-					console.log('404 ', res.nodeResponse.req.path);
+					console.log('404', res.nodeResponse.req.path);
 					db[uri].links['404']++;
+				}
+				if (res.status === 301) {
+					console.log('301', res.nodeResponse.req.path);
 				}
 			});
 			save();

@@ -1,5 +1,5 @@
 body {
-	font-size: 13px;
+	font-size: 12px;
 	font-family: sans-serif;
 }
 h3 {
@@ -11,9 +11,10 @@ h3 {
 tr:nth-child(odd) {
 	background: #eee;
 }
-.url {
-	max-width: 400px;
+.url, .locales {
+	max-width: 300px;
 	overflow: hidden;
+	overflow-wrap: break-word;
 }
 .lastMod, .lastUpdated, .lastDump, .lastParsed, .locales, .links {
 	padding: 0 0.5em;
@@ -27,4 +28,7 @@ tr:nth-child(odd) {
 }
 .d09, .d08, .d07, .d06, .d05 {
 	color: red;
+}
+.links span {
+	margin-right: 0.5em;
 }

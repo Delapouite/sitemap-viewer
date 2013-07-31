@@ -1623,16 +1623,38 @@
   "https://developer.mozilla.org/fr/docs/IndexedDB/Basic_Concepts_Behind_IndexedDB": {
     "lastEditor": "julienw",
     "lastUpdated": "2012-08-01T13:14:27-07:00",
-    "lastDump": "2013-07-16T11:47:58.760Z",
+    "lastDump": "2013-07-31T12:26:33.657Z",
     "tags": [],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "IndexedDB/Basic_Concepts_Behind_IndexedDB"
+    },
+    "lastParsed": "2013-07-31T12:26:33.649Z",
+    "contentLength": 18329,
+    "links": {
+      "404": 0,
+      "external": 12,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/IndexedDB/Using_IndexedDB": {
     "lastEditor": "zap221",
     "lastUpdated": "2013-05-23T06:19:13-07:00",
-    "lastDump": "2013-07-16T11:48:00.493Z",
+    "lastDump": "2013-07-31T12:26:32.903Z",
     "tags": [],
-    "lastmod": "2013-05-23"
+    "lastmod": "2013-05-23",
+    "locales": {
+      "en-US": "IndexedDB/Using_IndexedDB"
+    },
+    "lastParsed": "2013-07-31T12:26:32.896Z",
+    "contentLength": 49477,
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 2,
+      "en-US": 4
+    }
   },
   "https://developer.mozilla.org/fr/docs/Gecko-API_Greffons/Préface": {
     "lastEditor": "Demos",
@@ -3034,13 +3056,24 @@
   "https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqué/Embarquer_Gecko": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-10-04T16:20:25-07:00",
-    "lastDump": "2013-07-16T11:55:54.541Z",
+    "lastDump": "2013-07-31T12:26:03.327Z",
     "tags": [
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC",
       "FAQ_de_Mozilla_embarqué"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Gecko/Embedding_Mozilla/FAQ/Embedding_Gecko"
+    },
+    "lastParsed": "2013-07-31T12:26:03.302Z",
+    "contentLength": 8202,
+    "links": {
+      "404": 1,
+      "external": 11,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/FAQ_de_Mozilla_embarqué/Introduction_à_Gecko_et_à_l'embarqué": {
     "lastEditor": "aznur",
@@ -14609,31 +14642,42 @@
     "lastmod": "2013-07-18"
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Chargement_de_page": {
-    "lastEditor": "Mgjbot",
-    "lastUpdated": "2007-04-24T18:01:14-07:00",
-    "lastDump": "2013-07-31T11:56:32.167Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-07-31T05:00:33-07:00",
+    "lastDump": "2013-07-31T12:10:23.529Z",
     "tags": [],
     "lastmod": "2012-08-04",
     "locales": {
       "en-US": "Code_snippets/Page_Loading"
     },
-    "lastParsed": "2013-07-31T11:56:32.148Z",
-    "contentLength": 763,
+    "lastParsed": "2013-07-31T12:10:23.518Z",
+    "contentLength": 795,
     "links": {
-      "404": 3,
+      "404": 0,
       "external": 0,
-      "fr": 0,
+      "fr": 3,
       "en-US": 0
     }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Cookies": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-04-24T18:01:59-07:00",
-    "lastDump": "2013-07-16T13:59:38.439Z",
+    "lastDump": "2013-07-31T12:11:01.196Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Cookies"
+    },
+    "lastParsed": "2013-07-31T12:11:01.145Z",
+    "contentLength": 546,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/window.navigator.onLine": {
     "lastEditor": "Mgjbot",
@@ -15261,19 +15305,41 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Dialogues_et_invites": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-25T20:35:41-08:00",
-    "lastDump": "2013-07-16T14:02:00.749Z",
+    "lastDump": "2013-07-31T12:11:09.986Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Dialogs_and_Prompts"
+    },
+    "lastParsed": "2013-07-31T12:11:09.958Z",
+    "contentLength": 17527,
+    "links": {
+      "404": 2,
+      "external": 7,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Tree": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-07-19T15:31:23-07:00",
-    "lastDump": "2013-07-16T14:02:02.263Z",
+    "lastDump": "2013-07-31T12:13:50.763Z",
     "tags": [],
-    "lastmod": "2012-08-09"
+    "lastmod": "2012-08-09",
+    "locales": {
+      "en-US": "Code_snippets/Tree"
+    },
+    "lastParsed": "2013-07-31T12:13:50.684Z",
+    "contentLength": 877,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/FUEL/Annotations": {
     "lastEditor": "Fredchat",
@@ -19045,31 +19111,64 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Sur_un_chargement_de_page": {
     "lastEditor": "Elethiomel",
     "lastUpdated": "2007-08-20T06:40:32-07:00",
-    "lastDump": "2013-07-16T15:46:23.711Z",
+    "lastDump": "2013-07-31T12:14:52.001Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/On_page_load"
+    },
+    "lastParsed": "2013-07-31T12:14:51.972Z",
+    "contentLength": 2908,
+    "links": {
+      "404": 4,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Scrutateurs_de_progression": {
     "lastEditor": "Nsobral",
     "lastUpdated": "2008-01-31T22:47:29-08:00",
-    "lastDump": "2013-07-16T15:46:24.338Z",
+    "lastDump": "2013-07-31T12:15:36.817Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Progress_Listeners"
+    },
+    "lastParsed": "2013-07-31T12:15:36.812Z",
+    "contentLength": 5267,
+    "links": {
+      "404": 1,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Divers": {
     "lastEditor": "VincentN",
     "lastUpdated": "2007-06-07T10:02:49-07:00",
-    "lastDump": "2013-07-16T15:46:37.597Z",
+    "lastDump": "2013-07-31T12:26:14.462Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Code_snippets/Miscellaneous"
+    },
+    "lastParsed": "2013-07-31T12:26:14.454Z",
+    "contentLength": 7600,
+    "links": {
+      "404": 7,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/decodeURI": {
     "lastEditor": "eric76",
@@ -19510,23 +19609,45 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Poster_des_données_dans_une_fenêtre": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-05-22T13:15:29-07:00",
-    "lastDump": "2013-07-16T15:49:00.493Z",
+    "lastDump": "2013-07-31T12:24:44.155Z",
     "tags": [
       "Extensions",
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Post_data_to_window"
+    },
+    "lastParsed": "2013-07-31T12:24:44.120Z",
+    "contentLength": 2353,
+    "links": {
+      "404": 4,
+      "external": 3,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Préférences": {
     "lastEditor": "christian213",
     "lastUpdated": "2011-03-03T10:16:19-08:00",
-    "lastDump": "2013-07-16T15:49:00.577Z",
+    "lastDump": "2013-07-31T12:15:35.749Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-10-10"
+    "lastmod": "2012-10-10",
+    "locales": {
+      "en-US": "Code_snippets/Preferences"
+    },
+    "lastParsed": "2013-07-31T12:15:35.723Z",
+    "contentLength": 17894,
+    "links": {
+      "404": 2,
+      "external": 13,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Error": {
     "lastEditor": "rd6137",
@@ -19742,21 +19863,43 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Exécuter_des_applications": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2009-08-03T17:53:44-07:00",
-    "lastDump": "2013-07-16T15:52:32.668Z",
+    "lastDump": "2013-07-31T12:26:13.520Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Running_applications"
+    },
+    "lastParsed": "2013-07-31T12:26:13.510Z",
+    "contentLength": 2197,
+    "links": {
+      "404": 4,
+      "external": 4,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Fenêtres": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-04-23T18:01:40-07:00",
-    "lastDump": "2013-07-16T15:52:33.502Z",
+    "lastDump": "2013-07-31T12:26:12.859Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Windows"
+    },
+    "lastParsed": "2013-07-31T12:26:12.851Z",
+    "contentLength": 1059,
+    "links": {
+      "404": 2,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Fichiers_E_S": {
     "lastEditor": "Delapouite",
@@ -19776,11 +19919,22 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Panneau_latéral": {
     "lastEditor": "Chbok",
     "lastUpdated": "2008-09-14T19:51:25-07:00",
-    "lastDump": "2013-07-16T15:52:35.257Z",
+    "lastDump": "2013-07-31T12:24:51.432Z",
     "tags": [
       "Traduction_en_cours"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Code_snippets/Sidebar"
+    },
+    "lastParsed": "2013-07-31T12:24:51.404Z",
+    "contentLength": 5446,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Float32Array": {
     "lastEditor": "daniel35310",
@@ -20370,47 +20524,102 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Interaction_entre_des_pages_à_privilèges_et_sans_privilèges": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-06-02T18:03:46-07:00",
-    "lastDump": "2013-07-16T15:57:44.639Z",
+    "lastDump": "2013-07-31T12:25:29.236Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Code_snippets/Interaction_between_privileged_and_non-privileged_pages"
+    },
+    "lastParsed": "2013-07-31T12:25:29.190Z",
+    "contentLength": 3730,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/JS_XPCOM": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-07-26T01:00:53-07:00",
-    "lastDump": "2013-07-16T15:57:45.360Z",
+    "lastDump": "2013-07-31T12:25:28.317Z",
     "tags": [
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {
+      "en-US": "Code_snippets/JS_XPCOM"
+    },
+    "lastParsed": "2013-07-31T12:25:28.289Z",
+    "contentLength": 5071,
+    "links": {
+      "404": 5,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Label_et_description": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-08-13T08:58:12-07:00",
-    "lastDump": "2013-07-16T15:57:45.969Z",
+    "lastDump": "2013-07-31T12:25:26.556Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Label_and_description"
+    },
+    "lastParsed": "2013-07-31T12:25:26.505Z",
+    "contentLength": 2714,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Observateur_de_téléchargement": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T07:01:23-07:00",
-    "lastDump": "2013-07-16T15:57:46.489Z",
+    "lastDump": "2013-07-31T12:25:16.349Z",
     "tags": [
       "Traduction_à_relire"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "Code_snippets/Downloading_Files"
+    },
+    "lastParsed": "2013-07-31T12:25:16.301Z",
+    "contentLength": 2278,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Onglets_de_navigation": {
     "lastEditor": "Gandoulf",
     "lastUpdated": "2010-01-27T08:01:28-08:00",
-    "lastDump": "2013-07-16T15:57:47.224Z",
+    "lastDump": "2013-07-31T12:25:04.420Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Code_snippets/Tabbed_browser"
+    },
+    "lastParsed": "2013-07-31T12:25:04.392Z",
+    "contentLength": 15664,
+    "links": {
+      "404": 1,
+      "external": 2,
+      "fr": 9,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions_globales": {
     "lastEditor": "Mgjbot",
