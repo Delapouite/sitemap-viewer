@@ -15,7 +15,12 @@ var QHTTP = require('q-io/http');
 
 const dbFileName = './db/fr.json';
 const MDN = 'https://developer.mozilla.org';
-const scan404 = true;
+var parserOptions = {
+	tags: true,
+	locales: true,
+	links: true,
+	'404': false
+};
 
 var db = jsonfile.readFileSync(dbFileName);
 var app = express();
@@ -84,33 +89,23 @@ function dump(uriPath) {
 	});
 }
 
-function parseBody(body, uri) {
-	var $ = cheerio.load(body);
-
-	// tags
+function parseTags($) {
 	var tags = [];
 	$('.tagit-label').each(function() {
 		tags.push($(this).text());
 	});
-	db[uri].tags = tags;
+	return tags;
+}
 
-	// locales
+function parseLocales($) {
 	var locales = {};
 	if ($('#translations a:contains("English")').length) {
 		locales['en-US'] = $('#translations a:contains("English")').attr('href').slice(12);
 	}
-	db[uri].locales = locales;
+	return locales;
+}
 
-	// dates
-	db[uri].lastEditor = $('#doc-contributors a').last().text();
-	db[uri].lastUpdated = $('#doc-contributors time').first().attr('datetime');
-	db[uri].lastParsed = new Date();
-
-	// content
-	db[uri].contentLength = $('#wikiArticle').text().trim().length;
-
-	// links
-	var promises = [];
+function parseLinks($) {
 	var links = {
 		external: 0,
 		fr: 0,
@@ -129,27 +124,63 @@ function parseBody(body, uri) {
 				links.external++;
 			} else if (href.substring(0, 3) === '/fr') {
 				links.fr++;
-				if (scan404) {
-					promises.push(QHTTP.request(MDN + href));
-				}
 			} else if (href.substring(0, 6) === '/en-US') {
 				links['en-US']++;
 			}
 		});
 	}
-	db[uri].links = links;
+	return links;
+}
 
+function parse404($) {
+	var promises = [];
+	if ($('#wikiArticle a').length) {
+		$('#wikiArticle a').each(function() {
+			var href = $(this).attr('href');
+			if (href && href.substring(0, 3) === '/fr') {
+				promises.push(QHTTP.request(MDN + href));
+			}
+		});
+	}
+	return promises;
+}
+
+function parseBody(body, uri) {
+	var $ = cheerio.load(body);
+
+	// meta
+	if (parserOptions.tags) {
+		db[uri].tags = parseTags($);
+	}
+	if (parserOptions.locales) {
+		db[uri].locales = parseLocales($);
+	}
+	
+	// dates
+	db[uri].lastEditor = $('#doc-contributors a').last().text();
+	db[uri].lastUpdated = $('#doc-contributors time').first().attr('datetime');
+	db[uri].lastParsed = new Date();
+
+	// content
+	db[uri].contentLength = $('#wikiArticle').text().trim().length;
+
+	// links
+	if (parserOptions.links) {
+		db[uri].links = parseLinks($);
+	}
+	
 	function save() {
 		jsonfile.writeFile(dbFileName, db, function(err) {
 			if (err) console.log(err);
 		});
 	}
 
-	if (scan404) {
+	if (parserOptions['404']) {
+		var promises = parse404($);
 		Q.all(promises).then(function(responses) {
 			responses.forEach(function(res) {
 				if (res.status === 404) {
-					console.log('404 ', res.nodeResponse.req.path)
+					console.log('404 ', res.nodeResponse.req.path);
 					db[uri].links['404']++;
 				}
 			});

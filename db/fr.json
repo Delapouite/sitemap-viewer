@@ -193,16 +193,38 @@
   "https://developer.mozilla.org/fr/docs/persona/Browser_compatibility": {
     "lastEditor": "sylvie",
     "lastUpdated": "2012-10-01T14:07:20-07:00",
-    "lastDump": "2013-07-16T11:31:08.500Z",
+    "lastDump": "2013-07-30T12:23:35.085Z",
     "tags": [],
-    "lastmod": "2013-01-03"
+    "lastmod": "2013-01-03",
+    "locales": {
+      "en-US": "Mozilla/Persona/Browser_compatibility"
+    },
+    "lastParsed": "2013-07-30T12:23:35.041Z",
+    "contentLength": 2412,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/persona/branding": {
     "lastEditor": "poum",
     "lastUpdated": "2012-09-29T02:44:36-07:00",
-    "lastDump": "2013-07-16T11:31:09.658Z",
+    "lastDump": "2013-07-30T12:23:34.227Z",
     "tags": [],
-    "lastmod": "2012-09-29"
+    "lastmod": "2012-09-29",
+    "locales": {
+      "en-US": "Mozilla/Persona/branding"
+    },
+    "lastParsed": "2013-07-30T12:23:34.176Z",
+    "contentLength": 988,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/CSS_Reference/Sélecteurs_d'ID": {
     "lastEditor": "tregagnon",
@@ -535,29 +557,60 @@
   "https://developer.mozilla.org/fr/docs/XULRunner/Déploiement_de_XULRunner_1.8": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-01-20T17:41:01-08:00",
-    "lastDump": "2013-07-16T11:39:09.105Z",
+    "lastDump": "2013-07-30T12:23:39.036Z",
     "tags": [
       "XUL",
       "XULRunner"
     ],
-    "lastmod": "2013-02-12"
+    "lastmod": "2013-02-12",
+    "locales": {
+      "en-US": "XULRunner/Deploying_XULRunner_1.8"
+    },
+    "lastParsed": "2013-07-30T12:23:38.962Z",
+    "contentLength": 4648,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XULRunner/Community": {
     "lastEditor": "trevorh",
     "lastUpdated": "2012-07-27T01:07:05-07:00",
-    "lastDump": "2013-07-16T11:39:09.758Z",
+    "lastDump": "2013-07-30T12:23:39.412Z",
     "tags": [],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "XULRunner/Community"
+    },
+    "lastParsed": "2013-07-30T12:23:39.315Z",
+    "contentLength": 1740,
+    "links": {
+      "404": 0,
+      "external": 14,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XULRunner/Ce_qu'offre_XULRunner": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-25T15:31:09-08:00",
-    "lastDump": "2013-07-16T11:39:10.673Z",
+    "lastDump": "2013-07-30T12:23:40.302Z",
     "tags": [
       "XUL",
       "XULRunner"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:23:40.259Z",
+    "contentLength": 2756,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 11,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XUL/Propriétés/width": {
     "lastEditor": "lmorchard",
@@ -616,44 +669,97 @@
   "https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko/Ressources": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-12-02T15:00:47-08:00",
-    "lastDump": "2013-07-16T11:39:49.422Z",
+    "lastDump": "2013-07-30T12:23:58.689Z",
     "tags": [],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "XSLT_in_Gecko/Resources"
+    },
+    "lastParsed": "2013-07-30T12:23:58.643Z",
+    "contentLength": 936,
+    "links": {
+      "404": 0,
+      "external": 10,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko/Génération_de_HTML": {
     "lastEditor": "Ultrafil",
     "lastUpdated": "2008-01-30T13:56:10-08:00",
-    "lastDump": "2013-07-16T11:39:50.259Z",
+    "lastDump": "2013-07-30T12:24:00.024Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "XSLT_in_Gecko/Generating_HTML"
+    },
+    "lastParsed": "2013-07-30T12:23:59.969Z",
+    "contentLength": 6797,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko/Exemple_basique": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-12-02T15:01:09-08:00",
-    "lastDump": "2013-07-16T11:39:50.893Z",
+    "lastDump": "2013-07-30T12:24:00.448Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "XSLT_in_Gecko/Basic_Example"
+    },
+    "lastParsed": "2013-07-30T12:24:00.381Z",
+    "contentLength": 2479,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko/Différences_entre_les_navigateurs": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-12-02T15:01:29-08:00",
-    "lastDump": "2013-07-16T11:39:51.660Z",
+    "lastDump": "2013-07-30T12:24:00.841Z",
     "tags": [],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {
+      "en-US": "XSLT_in_Gecko/Browser_Differences"
+    },
+    "lastParsed": "2013-07-30T12:24:00.759Z",
+    "contentLength": 940,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPInstall/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T19:06:24-08:00",
-    "lastDump": "2013-07-16T11:40:04.196Z",
+    "lastDump": "2013-07-30T12:24:36.708Z",
     "tags": [
       "XPInstall"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:24:36.662Z",
+    "contentLength": 160,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPath/Axes": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-17T04:38:41-07:00",
-    "lastDump": "2013-07-17T11:39:12.514Z",
+    "lastDump": "2013-07-30T12:24:26.877Z",
     "tags": [
       "Transformations_XML_avec_XSLT",
       "XSLT",
@@ -665,18 +771,36 @@
       "en-US": "XPath/Axes"
     },
     "contentLength": 3063,
-    "lastmod": "2013-07-17"
+    "lastmod": "2013-07-17",
+    "lastParsed": "2013-07-30T12:24:26.830Z",
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPath/Fonctions": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2012-12-06T05:07:47-08:00",
-    "lastDump": "2013-07-16T11:40:06.000Z",
+    "lastDump": "2013-07-30T12:24:27.481Z",
     "tags": [
       "Référence_XPath",
       "XPath",
       "Référence_XSLT"
     ],
-    "lastmod": "2012-12-06"
+    "lastmod": "2012-12-06",
+    "locales": {
+      "en-US": "XPath/Functions"
+    },
+    "lastParsed": "2013-07-30T12:24:27.436Z",
+    "contentLength": 1208,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Canvas": {
     "lastEditor": "Delapouite",
@@ -721,7 +845,18 @@
     "lastUpdated": "2012-11-13T03:30:53-08:00",
     "lastDump": "2013-07-16T11:43:09.461Z",
     "tags": [],
-    "lastmod": "2012-12-10"
+    "lastmod": "2012-12-10",
+    "locales": {
+      "en-US": "Web/WebGL"
+    },
+    "lastParsed": "2013-07-31T07:08:56.509Z",
+    "contentLength": 6349,
+    "links": {
+      "404": 0,
+      "external": 15,
+      "fr": 29,
+      "en-US": 13
+    }
   },
   "https://developer.mozilla.org/fr/docs/WebRTC": {
     "lastEditor": "Hub",
@@ -733,12 +868,23 @@
   "https://developer.mozilla.org/fr/docs/WebAPI": {
     "lastEditor": "SphinxKnight",
     "lastUpdated": "2013-06-23T02:21:58-07:00",
-    "lastDump": "2013-07-16T11:43:12.435Z",
+    "lastDump": "2013-07-31T07:08:55.845Z",
     "tags": [
       "WebAPI",
       "Portail"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "WebAPI"
+    },
+    "lastParsed": "2013-07-31T07:08:55.801Z",
+    "contentLength": 8691,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 39,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/Web-tab": {
     "lastEditor": "Delapouite",
@@ -761,11 +907,20 @@
   "https://developer.mozilla.org/fr/docs/Référence_de_l'API_XPInstall/Objet_File/Méthodes": {
     "lastEditor": "ethertank",
     "lastUpdated": "2013-05-26T03:11:27-07:00",
-    "lastDump": "2013-07-16T11:43:47.090Z",
+    "lastDump": "2013-07-30T12:21:00.526Z",
     "tags": [
       "Référence_de_l'API_XPInstall"
     ],
-    "lastmod": "2013-05-26"
+    "lastmod": "2013-05-26",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:21:00.452Z",
+    "contentLength": 1489,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 19,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux/String/lastIndexOf": {
     "lastEditor": "tregagnon",
@@ -1089,24 +1244,38 @@
   "https://developer.mozilla.org/fr/docs/SVG/Attribute/cy": {
     "lastEditor": "Blackhole",
     "lastUpdated": "2013-05-01T04:37:54-07:00",
-    "lastDump": "2013-07-17T12:03:35.533Z",
+    "lastDump": "2013-07-30T12:23:12.620Z",
     "tags": [],
     "locales": {
       "en-US": "Web/SVG/Attribute/cy"
     },
     "contentLength": 2125,
-    "lastmod": "2013-05-01"
+    "lastmod": "2013-05-01",
+    "lastParsed": "2013-07-30T12:23:12.546Z",
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 6,
+      "en-US": 4
+    }
   },
   "https://developer.mozilla.org/fr/docs/SVG/Attribute/cx": {
     "lastEditor": "Blackhole",
     "lastUpdated": "2013-04-30T15:24:05-07:00",
-    "lastDump": "2013-07-17T12:03:34.766Z",
+    "lastDump": "2013-07-30T12:23:11.955Z",
     "tags": [],
     "locales": {
       "en-US": "Web/SVG/Attribute/cx"
     },
     "contentLength": 2125,
-    "lastmod": "2013-04-30"
+    "lastmod": "2013-04-30",
+    "lastParsed": "2013-07-30T12:23:11.891Z",
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 6,
+      "en-US": 4
+    }
   },
   "https://developer.mozilla.org/fr/docs/Sandbox/Interface.Attribute/SubPage": {
     "lastEditor": "Dria",
@@ -1169,9 +1338,20 @@
   "https://developer.mozilla.org/fr/docs/SVG/Tutorial/Introduction": {
     "lastEditor": "GiulianT",
     "lastUpdated": "2012-07-12T04:36:54-07:00",
-    "lastDump": "2013-07-16T11:46:35.318Z",
+    "lastDump": "2013-07-30T12:23:21.962Z",
     "tags": [],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/SVG/Tutorial/Introduction"
+    },
+    "lastParsed": "2013-07-30T12:23:21.916Z",
+    "contentLength": 2596,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 9,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/SVG/Element/rect": {
     "lastEditor": "tregagnon",
@@ -3187,9 +3367,18 @@
   "https://developer.mozilla.org/fr/docs/Référence_de_l'API_XPInstall/WinPro/Objet_File": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:45:52-07:00",
-    "lastDump": "2013-07-16T11:59:44.413Z",
+    "lastDump": "2013-07-30T12:23:08.258Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:23:08.209Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_l'API_XPInstall/Objet_WinReg/WinRegValue": {
     "lastEditor": "Kyodev",
@@ -3335,21 +3524,43 @@
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Tips_and_tricks/faire_des_captures_ecran": {
     "lastEditor": "GeekShadow",
     "lastUpdated": "2013-06-23T07:16:34-07:00",
-    "lastDump": "2013-07-16T12:00:32.811Z",
+    "lastDump": "2013-07-30T12:20:16.203Z",
     "tags": [],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "Mozilla/Firefox_OS/Tips_and_tricks/taking_screenshots"
+    },
+    "lastParsed": "2013-07-30T12:20:16.160Z",
+    "contentLength": 2149,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Platform/support_fonctionnalites": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-04-24T06:47:07-07:00",
-    "lastDump": "2013-07-16T12:00:33.901Z",
+    "lastDump": "2013-07-30T12:20:15.539Z",
     "tags": [
       "Mobile",
       "B2G",
       "Firefox OS",
       "AQ"
     ],
-    "lastmod": "2013-04-24"
+    "lastmod": "2013-04-24",
+    "locales": {
+      "en-US": "Mozilla/Firefox_OS/Platform/Feature_support_chart"
+    },
+    "lastParsed": "2013-07-30T12:20:15.482Z",
+    "contentLength": 2056,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions": {
     "lastEditor": "FredB",
@@ -4638,13 +4849,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/:last-child": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-05-30T04:29:19-07:00",
-    "lastDump": "2013-07-16T12:09:26.085Z",
+    "lastDump": "2013-07-30T12:03:52.223Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-05-30"
+    "lastmod": "2013-05-30",
+    "locales": {
+      "en-US": "Web/CSS/:last-child"
+    },
+    "lastParsed": "2013-07-30T12:03:52.179Z",
+    "contentLength": 1698,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/@supports": {
     "lastEditor": "FredB",
@@ -4733,52 +4955,107 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Boîtes": {
     "lastEditor": "grandoc",
     "lastUpdated": "2011-09-07T08:30:45-07:00",
-    "lastDump": "2013-07-16T12:09:49.403Z",
+    "lastDump": "2013-07-30T12:07:44.513Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Boxes"
+    },
+    "lastParsed": "2013-07-30T12:07:44.443Z",
+    "contentLength": 6337,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Cascade_et_héritage": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:16:40-07:00",
-    "lastDump": "2013-07-16T12:09:50.508Z",
+    "lastDump": "2013-07-30T12:07:42.834Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Cascading_and_inheritance"
+    },
+    "lastParsed": "2013-07-30T12:07:42.760Z",
+    "contentLength": 4662,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Tableaux": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:20:46-07:00",
-    "lastDump": "2013-07-16T12:09:55.746Z",
+    "lastDump": "2013-07-30T12:08:30.174Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Tables"
+    },
+    "lastParsed": "2013-07-30T12:08:30.132Z",
+    "contentLength": 15771,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Styles_de_texte": {
     "lastEditor": "grandoc",
     "lastUpdated": "2011-08-24T13:34:01-07:00",
-    "lastDump": "2013-07-16T12:09:56.953Z",
+    "lastDump": "2013-07-30T12:08:28.423Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Text_styles"
+    },
+    "lastParsed": "2013-07-30T12:08:28.342Z",
+    "contentLength": 6365,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Présentation_des_CSS": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:15:01-07:00",
-    "lastDump": "2013-07-16T12:09:57.083Z",
+    "lastDump": "2013-07-30T12:08:26.783Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/What_is_CSS"
+    },
+    "lastParsed": "2013-07-30T12:08:26.705Z",
+    "contentLength": 4650,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element": {
     "lastEditor": "Delapouite",
@@ -5208,11 +5485,22 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.name": {
     "lastEditor": "dextra",
     "lastUpdated": "2012-01-07T22:21:58-08:00",
-    "lastDump": "2013-07-16T12:11:57.003Z",
+    "lastDump": "2013-07-30T12:18:27.064Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/API/element.name"
+    },
+    "lastParsed": "2013-07-30T12:18:26.971Z",
+    "contentLength": 1906,
+    "links": {
+      "404": 0,
+      "external": 28,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.cloneNode": {
     "lastEditor": "Mgjbot",
@@ -5397,24 +5685,46 @@
   "https://developer.mozilla.org/fr/docs/CSS/:nth-last-child": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:43:23-08:00",
-    "lastDump": "2013-07-16T12:12:25.681Z",
+    "lastDump": "2013-07-30T12:03:38.599Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:nth-last-child"
+    },
+    "lastParsed": "2013-07-30T12:03:38.556Z",
+    "contentLength": 1909,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-only-whitespace": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:01:12-07:00",
-    "lastDump": "2013-07-16T12:12:29.429Z",
+    "lastDump": "2013-07-30T12:05:16.689Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-only-whitespace"
+    },
+    "lastParsed": "2013-07-30T12:05:16.595Z",
+    "contentLength": 883,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/CSS_values_syntax": {
     "lastEditor": "tregagnon",
@@ -5440,24 +5750,46 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-flex": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-30T07:22:28-07:00",
-    "lastDump": "2013-07-16T12:12:31.513Z",
+    "lastDump": "2013-07-30T12:06:22.279Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-box-flex"
+    },
+    "lastParsed": "2013-07-30T12:06:22.238Z",
+    "contentLength": 1781,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T06:43:28-07:00",
-    "lastDump": "2013-07-16T12:12:32.982Z",
+    "lastDump": "2013-07-30T12:07:07.916Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-outline-radius"
+    },
+    "lastParsed": "2013-07-30T12:07:07.870Z",
+    "contentLength": 3382,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/L'exemple_de_l'employé/Propriétés_des_objets/Héritage_de_propriétés": {
     "lastEditor": "Julien.stuby",
@@ -6042,13 +6374,24 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.getClientRects": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2010-06-12T20:58:12-07:00",
-    "lastDump": "2013-07-16T12:16:29.881Z",
+    "lastDump": "2013-07-30T12:18:07.252Z",
     "tags": [
       "DOM",
       "Gecko",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.getClientRects"
+    },
+    "lastParsed": "2013-07-30T12:18:07.209Z",
+    "contentLength": 2425,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/Whitespace_template": {
     "lastEditor": "Sheppy",
@@ -6230,13 +6573,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/:nth-last-of-type": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:43:36-08:00",
-    "lastDump": "2013-07-16T12:16:56.914Z",
+    "lastDump": "2013-07-30T12:03:37.295Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:nth-last-of-type"
+    },
+    "lastParsed": "2013-07-30T12:03:37.240Z",
+    "contentLength": 1131,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/::first-line": {
     "lastEditor": "FredB",
@@ -6534,39 +6888,81 @@
   "https://developer.mozilla.org/fr/docs/Référence_du_DOM_Gecko/Préface": {
     "lastEditor": "Ame Nomade",
     "lastUpdated": "2007-06-01T20:11:01-07:00",
-    "lastDump": "2013-07-16T12:20:30.723Z",
+    "lastDump": "2013-07-30T12:23:05.759Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "DOM/DOM_Reference/Preface"
+    },
+    "lastParsed": "2013-07-30T12:23:05.672Z",
+    "contentLength": 5118,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_du_DOM_Gecko/Introduction": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-11-03T10:14:10-07:00",
-    "lastDump": "2013-07-16T12:20:31.693Z",
+    "lastDump": "2013-07-30T12:23:06.543Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "DOM/DOM_Reference/Introduction"
+    },
+    "lastParsed": "2013-07-30T12:23:06.481Z",
+    "contentLength": 15985,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_du_DOM_Gecko/Exemples": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2008-01-16T21:42:16-08:00",
-    "lastDump": "2013-07-16T12:20:32.166Z",
+    "lastDump": "2013-07-30T12:23:07.434Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "DOM/DOM_Reference/Examples"
+    },
+    "lastParsed": "2013-07-30T12:23:07.384Z",
+    "contentLength": 12389,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Exemples": {
     "lastEditor": "Sheppy",
     "lastUpdated": "2006-06-21T19:44:51-07:00",
-    "lastDump": "2013-07-16T12:21:10.978Z",
+    "lastDump": "2013-07-31T07:07:52.331Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:52.285Z",
+    "contentLength": 542,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Modèles_personnalisés": {
     "lastEditor": "BenoitL",
@@ -6652,67 +7048,133 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-alias": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T07:28:43-07:00",
-    "lastDump": "2013-07-16T12:21:30.616Z",
+    "lastDump": "2013-07-30T12:06:02.689Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-alias"
+    },
+    "lastParsed": "2013-07-30T12:06:02.643Z",
+    "contentLength": 1084,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-appearance": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:05:02-07:00",
-    "lastDump": "2013-07-16T12:21:31.586Z",
+    "lastDump": "2013-07-30T12:06:04.247Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-appearance"
+    },
+    "lastParsed": "2013-07-30T12:06:04.187Z",
+    "contentLength": 2886,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-orient": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-10-27T21:09:55-07:00",
-    "lastDump": "2013-07-16T12:21:33.543Z",
+    "lastDump": "2013-07-30T12:06:24.638Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/box-orient"
+    },
+    "lastParsed": "2013-07-30T12:06:24.578Z",
+    "contentLength": 1355,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 11,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-bottomleft": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-03-29T17:40:06-07:00",
-    "lastDump": "2013-07-16T12:21:35.030Z",
+    "lastDump": "2013-07-30T12:07:06.667Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-outline-radius-bottomleft"
+    },
+    "lastParsed": "2013-07-30T12:07:06.602Z",
+    "contentLength": 569,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-cell": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:01:42-07:00",
-    "lastDump": "2013-07-16T12:21:37.048Z",
+    "lastDump": "2013-07-30T12:05:05.849Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-cell"
+    },
+    "lastParsed": "2013-07-30T12:05:05.805Z",
+    "contentLength": 560,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:last-of-type": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:51:44-08:00",
-    "lastDump": "2013-07-16T12:21:41.031Z",
+    "lastDump": "2013-07-30T12:03:50.588Z",
     "tags": [
       "Référence_CSS",
       "Sélecteurs"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:last-of-type"
+    },
+    "lastParsed": "2013-07-30T12:03:50.540Z",
+    "contentLength": 873,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/::selection": {
     "lastEditor": "FredB",
@@ -6738,13 +7200,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/:nth-of-type": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:43:55-08:00",
-    "lastDump": "2013-07-16T12:21:42.079Z",
+    "lastDump": "2013-07-30T12:03:35.927Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:nth-of-type"
+    },
+    "lastParsed": "2013-07-30T12:03:35.880Z",
+    "contentLength": 1104,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/@viewport": {
     "lastEditor": "Delapouite",
@@ -6790,16 +7263,16 @@
   "https://developer.mozilla.org/fr/docs/CSS/Image-rendering": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:46:08-08:00",
-    "lastDump": "2013-07-30T11:54:16.948Z",
+    "lastDump": "2013-07-30T12:03:24.683Z",
     "tags": [],
     "lastmod": "2013-02-15",
     "locales": {
       "en-US": "Web/CSS/image-rendering"
     },
-    "lastParsed": "2013-07-30T11:54:16.920Z",
+    "lastParsed": "2013-07-30T12:03:24.625Z",
     "contentLength": 6382,
     "links": {
-      "404": 1,
+      "404": 0,
       "external": 3,
       "fr": 11,
       "en-US": 0
@@ -7091,12 +7564,23 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Contenu": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:18:51-07:00",
-    "lastDump": "2013-07-16T12:24:04.982Z",
+    "lastDump": "2013-07-30T12:07:41.754Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Content"
+    },
+    "lastParsed": "2013-07-30T12:07:41.712Z",
+    "contentLength": 5367,
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/Apps": {
     "lastEditor": "tregagnon",
@@ -7443,12 +7927,23 @@
   "https://developer.mozilla.org/fr/docs/Mozilla": {
     "lastEditor": "ethertank",
     "lastUpdated": "2012-11-30T09:58:22-08:00",
-    "lastDump": "2013-07-16T12:25:49.419Z",
+    "lastDump": "2013-07-30T12:26:37.184Z",
     "tags": [
       "TopicStub",
       "NeedsTranslation"
     ],
-    "lastmod": "2013-01-28"
+    "lastmod": "2013-01-28",
+    "locales": {
+      "en-US": "Mozilla"
+    },
+    "lastParsed": "2013-07-30T12:26:37.101Z",
+    "contentLength": 511,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 19
+    }
   },
   "https://developer.mozilla.org/fr/docs/Notes_de_versions_de_XULRunner_1.8.0.4": {
     "lastEditor": "Mgjbot",
@@ -7474,14 +7969,23 @@
   "https://developer.mozilla.org/fr/docs/Modules_JavaScript": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:55:44-07:00",
-    "lastDump": "2013-07-16T12:25:51.447Z",
+    "lastDump": "2013-07-30T12:26:35.422Z",
     "tags": [
       "XPConnect",
       "XPCOM:Liaisons_de_langage",
       "Firefox 3",
       "JavaScript"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:26:35.376Z",
+    "contentLength": 1035,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:À_propos": {
     "lastEditor": "tregagnon",
@@ -7504,16 +8008,34 @@
   "https://developer.mozilla.org/fr/docs/Project:La_neutralité_de_point_de_vue": {
     "lastEditor": "Chbok",
     "lastUpdated": "2005-10-27T15:39:10-07:00",
-    "lastDump": "2013-07-16T12:25:56.121Z",
+    "lastDump": "2013-07-31T07:07:44.945Z",
     "tags": [],
-    "lastmod": "2012-09-04"
+    "lastmod": "2012-09-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:44.898Z",
+    "contentLength": 769,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Les_faux-pas_les_plus_courants": {
     "lastEditor": "Chbok",
     "lastUpdated": "2005-10-27T16:02:26-07:00",
-    "lastDump": "2013-07-16T12:25:56.809Z",
+    "lastDump": "2013-07-31T07:07:46.164Z",
     "tags": [],
-    "lastmod": "2012-09-20"
+    "lastmod": "2012-09-20",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:46.096Z",
+    "contentLength": 806,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Services_Web_XML": {
     "lastEditor": "BenoitL",
@@ -7806,19 +8328,30 @@
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIXULAppInfo": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:06:21-07:00",
-    "lastDump": "2013-07-16T12:26:56.397Z",
+    "lastDump": "2013-07-30T12:24:47.540Z",
     "tags": [
       "Référence_de_l'API_XPCOM",
       "XPCOM",
       "XPCOM:Références",
       "Interfaces"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsIXULAppInfo"
+    },
+    "lastParsed": "2013-07-30T12:24:47.496Z",
+    "contentLength": 55,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIWebBrowserPersist": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:04:00-07:00",
-    "lastDump": "2013-07-16T12:26:57.305Z",
+    "lastDump": "2013-07-30T12:24:44.096Z",
     "tags": [
       "Aide_pour_les_éditeurs_de_MDC",
       "XPCOM",
@@ -7828,21 +8361,43 @@
       "Référence_de_l'API_XPCOM",
       "Traduction_en_cours"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsIWebBrowserPersist"
+    },
+    "lastParsed": "2013-07-30T12:24:44.028Z",
+    "contentLength": 9009,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIURI": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T07:57:35-07:00",
-    "lastDump": "2013-07-16T12:26:58.085Z",
+    "lastDump": "2013-07-30T12:24:45.433Z",
     "tags": [
       "XPCOM"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsIURI"
+    },
+    "lastParsed": "2013-07-30T12:24:45.360Z",
+    "contentLength": 6246,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsISupports": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:01:03-07:00",
-    "lastDump": "2013-07-16T12:26:58.574Z",
+    "lastDump": "2013-07-30T12:24:46.328Z",
     "tags": [
       "Référence_de_l'API_XPCOM",
       "XPCOM",
@@ -7850,12 +8405,23 @@
       "Interfaces",
       "Interfaces:Gelées"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsISupports"
+    },
+    "lastParsed": "2013-07-30T12:24:46.277Z",
+    "contentLength": 1391,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIIdleService": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:13:37-07:00",
-    "lastDump": "2013-07-16T12:26:58.863Z",
+    "lastDump": "2013-07-30T12:24:47.781Z",
     "tags": [
       "NeedsContent",
       "Référence_de_l'API_XPCOM",
@@ -7863,12 +8429,23 @@
       "XPCOM:Références",
       "Interfaces"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsIIdleService"
+    },
+    "lastParsed": "2013-07-30T12:24:47.736Z",
+    "contentLength": 1989,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Interface_Reference/nsIAccessibleProvider": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:15:47-07:00",
-    "lastDump": "2013-07-16T12:26:59.231Z",
+    "lastDump": "2013-07-30T12:24:48.546Z",
     "tags": [
       "Accessibilité",
       "Référence_de_l'API_XPCOM",
@@ -7876,7 +8453,18 @@
       "XPCOM:Références",
       "Interfaces"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "XPCOM_Interface_Reference/nsIAccessibleProvider"
+    },
+    "lastParsed": "2013-07-30T12:24:48.475Z",
+    "contentLength": 732,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPath/Fonctions/substring-after": {
     "lastEditor": "Mgjbot",
@@ -8755,7 +9343,16 @@
     "lastUpdated": "2008-08-15T19:45:52-07:00",
     "lastDump": "2013-07-16T13:05:16.955Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:26:37.569Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Les_joies_de_XUL": {
     "lastEditor": "Elchi3",
@@ -8965,90 +9562,178 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-background-inline-policy": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-15T17:01:05-07:00",
-    "lastDump": "2013-07-16T13:05:53.125Z",
+    "lastDump": "2013-07-30T12:06:05.898Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-background-inline-policy"
+    },
+    "lastParsed": "2013-07-30T12:06:05.823Z",
+    "contentLength": 1780,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-binding": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-24T17:53:18-08:00",
-    "lastDump": "2013-07-16T13:05:54.802Z",
+    "lastDump": "2013-07-30T12:06:07.556Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-binding"
+    },
+    "lastParsed": "2013-07-30T12:06:07.510Z",
+    "contentLength": 1109,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-border-bottom-colors": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-07-23T15:01:47-07:00",
-    "lastDump": "2013-07-16T13:05:57.228Z",
+    "lastDump": "2013-07-30T12:06:09.341Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-border-bottom-colors"
+    },
+    "lastParsed": "2013-07-30T12:06:09.297Z",
+    "contentLength": 2188,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-direction": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T09:55:48-07:00",
-    "lastDump": "2013-07-16T13:05:59.691Z",
+    "lastDump": "2013-07-30T12:06:20.045Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/box-direction"
+    },
+    "lastParsed": "2013-07-30T12:06:20.003Z",
+    "contentLength": 1551,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-align": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T09:41:08-07:00",
-    "lastDump": "2013-07-16T13:06:01.351Z",
+    "lastDump": "2013-07-30T12:06:17.362Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/box-ordinal-group"
+    },
+    "lastParsed": "2013-07-30T12:06:17.315Z",
+    "contentLength": 2086,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-border-right-colors": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-07-23T15:01:07-07:00",
-    "lastDump": "2013-07-16T13:06:03.037Z",
+    "lastDump": "2013-07-30T12:06:13.468Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-border-right-colors"
+    },
+    "lastParsed": "2013-07-30T12:06:13.404Z",
+    "contentLength": 564,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-border-left-colors": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-07-23T15:01:27-07:00",
-    "lastDump": "2013-07-16T13:06:03.460Z",
+    "lastDump": "2013-07-30T12:06:10.983Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-border-left-colors"
+    },
+    "lastParsed": "2013-07-30T12:06:10.939Z",
+    "contentLength": 549,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-border-top-colors": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-07-23T15:00:48-07:00",
-    "lastDump": "2013-07-16T13:06:03.613Z",
+    "lastDump": "2013-07-30T12:06:15.577Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-border-top-colors"
+    },
+    "lastParsed": "2013-07-30T12:06:15.505Z",
+    "contentLength": 566,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/fonctions": {
     "lastEditor": "Delapouite",
@@ -9709,30 +10394,59 @@
   "https://developer.mozilla.org/fr/docs/Project:Extensions_MediaWiki": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-25T14:42:55-08:00",
-    "lastDump": "2013-07-16T13:10:46.522Z",
+    "lastDump": "2013-07-31T07:07:49.937Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2013-06-07"
+    "lastmod": "2013-06-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:49.894Z",
+    "contentLength": 3971,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 15,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_DOM_Gecko": {
     "lastEditor": "bou22",
     "lastUpdated": "2011-10-26T14:11:02-07:00",
-    "lastDump": "2013-07-16T13:10:48.533Z",
+    "lastDump": "2013-07-31T11:19:00.614Z",
     "tags": [],
-    "lastmod": "2012-09-04"
+    "lastmod": "2012-09-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:19:00.492Z",
+    "contentLength": 598,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_XUL": {
     "lastEditor": "Nigel_Sheldon",
     "lastUpdated": "2012-11-28T11:27:28-08:00",
-    "lastDump": "2013-07-16T13:10:51.151Z",
+    "lastDump": "2013-07-31T11:19:11.609Z",
     "tags": [
       "Traduction_en_cours",
       "XUL",
       "Aide_pour_les_éditeurs_de_MDC",
       "Référence_XUL"
     ],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {
+      "en-US": "XUL/XUL_Reference"
+    },
+    "lastParsed": "2013-07-31T11:19:11.548Z",
+    "contentLength": 4708,
+    "links": {
+      "404": 0,
+      "external": 101,
+      "fr": 132,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/toSource": {
     "lastEditor": "Potappo",
@@ -9800,57 +10514,112 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-bottomright": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-03-29T17:41:01-07:00",
-    "lastDump": "2013-07-16T13:11:13.046Z",
+    "lastDump": "2013-07-30T12:07:05.295Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-outline-radius-bottomright"
+    },
+    "lastParsed": "2013-07-30T12:07:05.249Z",
+    "contentLength": 569,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-cell-text": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:02:22-07:00",
-    "lastDump": "2013-07-16T13:11:15.341Z",
+    "lastDump": "2013-07-30T12:05:04.551Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-cell-text"
+    },
+    "lastParsed": "2013-07-30T12:05:04.504Z",
+    "contentLength": 497,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-pack": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-30T07:36:04-07:00",
-    "lastDump": "2013-07-16T13:16:34.879Z",
+    "lastDump": "2013-07-30T12:06:35.812Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-box-pack"
+    },
+    "lastParsed": "2013-07-30T12:06:35.735Z",
+    "contentLength": 1932,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-topleft": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-03-29T17:38:00-07:00",
-    "lastDump": "2013-07-16T13:16:36.039Z",
+    "lastDump": "2013-07-30T12:07:04.484Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-outline-radius-topleft"
+    },
+    "lastParsed": "2013-07-30T12:07:04.386Z",
+    "contentLength": 566,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-last-node": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:01:02-07:00",
-    "lastDump": "2013-07-16T13:16:38.103Z",
+    "lastDump": "2013-07-30T12:05:17.908Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-last-node"
+    },
+    "lastParsed": "2013-07-30T12:05:17.868Z",
+    "contentLength": 907,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/::first-letter": {
     "lastEditor": "FredB",
@@ -9876,24 +10645,35 @@
   "https://developer.mozilla.org/fr/docs/CSS/:left": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:52:02-08:00",
-    "lastDump": "2013-07-16T13:16:42.165Z",
+    "lastDump": "2013-07-30T12:03:49.715Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:left"
+    },
+    "lastParsed": "2013-07-30T12:03:49.670Z",
+    "contentLength": 2017,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 8,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:link": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-07-23T05:03:42-07:00",
-    "lastDump": "2013-07-24T14:34:00.527Z",
+    "lastDump": "2013-07-30T12:03:48.075Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
     "lastmod": "2013-07-23",
-    "lastParsed": "2013-07-24T14:34:00.463Z",
+    "lastParsed": "2013-07-30T12:03:48.030Z",
     "contentLength": 1833,
     "locales": {
       "en-US": "Web/CSS/:link"
@@ -9908,23 +10688,45 @@
   "https://developer.mozilla.org/fr/docs/CSS/:not": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:44:35-08:00",
-    "lastDump": "2013-07-16T13:16:43.609Z",
+    "lastDump": "2013-07-30T12:03:40.560Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:not"
+    },
+    "lastParsed": "2013-07-30T12:03:40.521Z",
+    "contentLength": 1378,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:nth-child": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:44:23-08:00",
-    "lastDump": "2013-07-16T13:16:44.279Z",
+    "lastDump": "2013-07-30T12:03:39.759Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:nth-child"
+    },
+    "lastParsed": "2013-07-30T12:03:39.712Z",
+    "contentLength": 1994,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Fonds_multiples": {
     "lastEditor": "BenoitL",
@@ -10112,22 +10914,44 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Couleurs": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:18:14-07:00",
-    "lastDump": "2013-07-16T13:18:58.144Z",
+    "lastDump": "2013-07-30T12:07:40.421Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Color"
+    },
+    "lastParsed": "2013-07-30T12:07:40.379Z",
+    "contentLength": 6395,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Des_CSS_lisibles": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:17:38-07:00",
-    "lastDump": "2013-07-16T13:19:03.674Z",
+    "lastDump": "2013-07-30T12:07:39.340Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Readable_CSS"
+    },
+    "lastParsed": "2013-07-30T12:07:39.258Z",
+    "contentLength": 4902,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/Apps.getSelf": {
     "lastEditor": "tregagnon",
@@ -10694,20 +11518,38 @@
   "https://developer.mozilla.org/fr/docs/Project:Foire_aux_questions": {
     "lastEditor": "glukin",
     "lastUpdated": "2008-11-29T22:25:34-08:00",
-    "lastDump": "2013-07-16T13:30:29.585Z",
+    "lastDump": "2013-07-31T07:07:48.701Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:48.657Z",
+    "contentLength": 2593,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Guide_de_nommage_des_pages": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-04-12T19:14:05-07:00",
-    "lastDump": "2013-07-16T13:30:30.482Z",
+    "lastDump": "2013-07-31T07:07:47.701Z",
     "tags": [
       "Aide_pour_les_éditeurs_de_MDC"
     ],
-    "lastmod": "2013-06-07"
+    "lastmod": "2013-06-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:47.620Z",
+    "contentLength": 3873,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Guide_du_rédacteur": {
     "lastEditor": "BenoitL",
@@ -12020,13 +12862,13 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Données_XML": {
     "lastEditor": "Verruckt",
     "lastUpdated": "2006-12-15T15:36:46-08:00",
-    "lastDump": "2013-07-24T13:18:03.910Z",
+    "lastDump": "2013-07-30T12:07:46.220Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
     "lastmod": "2012-08-06",
-    "lastParsed": "2013-07-24T13:18:03.879Z",
+    "lastParsed": "2013-07-30T12:07:46.172Z",
     "contentLength": 5147,
     "locales": {
       "en-US": "Web/Guide/CSS/Getting_started/XML_data"
@@ -12103,11 +12945,22 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.namespaceURI": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-16T08:40:17-07:00",
-    "lastDump": "2013-07-16T13:54:23.676Z",
+    "lastDump": "2013-07-30T12:18:25.957Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.namespaceURI"
+    },
+    "lastParsed": "2013-07-30T12:18:25.910Z",
+    "contentLength": 1849,
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.textContent": {
     "lastEditor": "Delapouite",
@@ -12446,9 +13299,18 @@
   "https://developer.mozilla.org/fr/docs/EXSLT/str": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:44:20-07:00",
-    "lastDump": "2013-07-16T13:55:13.345Z",
+    "lastDump": "2013-07-30T12:19:50.344Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:19:50.292Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/math/": {
     "lastEditor": "tregagnon",
@@ -12511,12 +13373,23 @@
   "https://developer.mozilla.org/fr/docs/Versions_d'une_extension,_mise_à_jour_et_compatibilité": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T08:55:40-07:00",
-    "lastDump": "2013-07-16T13:55:42.042Z",
+    "lastDump": "2013-07-31T07:08:53.315Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "Extension_Versioning,_Update_and_Compatibility"
+    },
+    "lastParsed": "2013-07-31T07:08:53.271Z",
+    "contentLength": 18495,
+    "links": {
+      "404": 0,
+      "external": 12,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Type_MIME_incorrect_pour_les_fichiers_CSS": {
     "lastEditor": "BenoitL",
@@ -12927,32 +13800,65 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.getElementsByTagName": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-01-21T02:00:13-08:00",
-    "lastDump": "2013-07-16T13:56:36.188Z",
+    "lastDump": "2013-07-30T12:18:08.356Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-01-21"
+    "lastmod": "2013-01-21",
+    "locales": {
+      "en-US": "Web/API/element.getElementsByTagName"
+    },
+    "lastParsed": "2013-07-30T12:18:08.314Z",
+    "contentLength": 3022,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getBoundingClientRect": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2010-06-12T20:51:29-07:00",
-    "lastDump": "2013-07-16T13:56:37.834Z",
+    "lastDump": "2013-07-30T12:18:01.714Z",
     "tags": [
       "DOM",
       "Gecko",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.getBoundingClientRect"
+    },
+    "lastParsed": "2013-07-30T12:18:01.616Z",
+    "contentLength": 2607,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.localName": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-16T08:37:49-07:00",
-    "lastDump": "2013-07-16T13:56:38.739Z",
+    "lastDump": "2013-07-30T12:18:31.075Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.localName"
+    },
+    "lastParsed": "2013-07-30T12:18:30.989Z",
+    "contentLength": 2350,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetParent": {
     "lastEditor": "BenoitL",
@@ -13045,34 +13951,70 @@
   "https://developer.mozilla.org/fr/docs/EXSLT/exsl": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T06:49:57-07:00",
-    "lastDump": "2013-07-16T13:56:54.583Z",
+    "lastDump": "2013-07-30T12:19:45.067Z",
     "tags": [
       "junk"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:19:44.957Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/math": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T06:51:03-07:00",
-    "lastDump": "2013-07-16T13:56:55.240Z",
+    "lastDump": "2013-07-30T12:19:45.960Z",
     "tags": [
       "junk"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:19:45.873Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/regexp": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:44:28-07:00",
-    "lastDump": "2013-07-16T13:56:55.809Z",
+    "lastDump": "2013-07-30T12:19:47.042Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:19:46.978Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:44:28-07:00",
-    "lastDump": "2013-07-16T13:56:56.394Z",
+    "lastDump": "2013-07-30T12:19:49.831Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:19:49.782Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Array": {
     "lastEditor": "tregagnon",
@@ -13580,18 +14522,38 @@
   "https://developer.mozilla.org/fr/docs/My_Chrome_Oven": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-06-25T13:33:57-07:00",
-    "lastDump": "2013-07-16T14:00:07.700Z",
+    "lastDump": "2013-07-31T07:06:00.559Z",
     "tags": [
       "junk"
     ],
-    "lastmod": "2013-06-25"
+    "lastmod": "2013-06-25",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:06:00.384Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Aider": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-05-08T12:08:14-07:00",
-    "lastDump": "2013-07-16T14:00:10.662Z",
+    "lastDump": "2013-07-31T07:07:40.293Z",
     "tags": [],
-    "lastmod": "2013-05-08"
+    "lastmod": "2013-05-08",
+    "locales": {
+      "en-US": "Project:How_to_Help"
+    },
+    "lastParsed": "2013-07-31T07:07:40.192Z",
+    "contentLength": 6579,
+    "links": {
+      "404": 0,
+      "external": 8,
+      "fr": 1,
+      "en-US": 24
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_l'API_XPInstall": {
     "lastEditor": "tregagnon",
@@ -13601,14 +14563,34 @@
       "XPInstall",
       "Référence_de_l'API_XPInstall"
     ],
-    "lastmod": "2013-06-04"
+    "lastmod": "2013-06-04",
+    "locales": {
+      "en-US": "XPInstall_API_Reference"
+    },
+    "lastParsed": "2013-07-31T11:19:13.676Z",
+    "contentLength": 3414,
+    "links": {
+      "404": 0,
+      "external": 6,
+      "fr": 92,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_JSAPI": {
     "lastEditor": "madsgraphics",
     "lastUpdated": "2012-05-23T19:47:59-07:00",
-    "lastDump": "2013-07-16T14:00:17.047Z",
+    "lastDump": "2013-07-31T11:19:13.632Z",
     "tags": [],
-    "lastmod": "2012-08-15"
+    "lastmod": "2012-08-15",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:19:13.570Z",
+    "contentLength": 20392,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XPCOM_Partie_5": {
     "lastEditor": "Anonymous",
@@ -13801,13 +14783,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-column": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:02:02-07:00",
-    "lastDump": "2013-07-16T14:01:31.285Z",
+    "lastDump": "2013-07-30T12:05:02.691Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-column"
+    },
+    "lastParsed": "2013-07-30T12:05:02.650Z",
+    "contentLength": 503,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:active": {
     "lastEditor": "tregagnon",
@@ -14726,9 +15719,18 @@
   "https://developer.mozilla.org/fr/docs/NPAPI": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T16:42:59-07:00",
-    "lastDump": "2013-07-16T14:11:41.049Z",
+    "lastDump": "2013-07-31T07:06:00.559Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:06:00.506Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Nouveautés_dans_JavaScript_1.7": {
     "lastEditor": "Mgjbot",
@@ -14753,18 +15755,38 @@
   "https://developer.mozilla.org/fr/docs/Project:Classes_CSS_personnalisées": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-24T18:03:58-08:00",
-    "lastDump": "2013-07-16T14:11:45.064Z",
+    "lastDump": "2013-07-31T07:07:40.804Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:40.762Z",
+    "contentLength": 5065,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 14,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Editing_MDN_pages": {
     "lastEditor": "jswisher",
     "lastUpdated": "2012-07-11T17:23:14-07:00",
-    "lastDump": "2013-07-16T14:11:46.407Z",
+    "lastDump": "2013-07-31T07:07:54.311Z",
     "tags": [],
-    "lastmod": "2012-08-09"
+    "lastmod": "2012-08-09",
+    "locales": {
+      "en-US": "Project:Editing_MDN_pages"
+    },
+    "lastParsed": "2013-07-31T07:07:54.246Z",
+    "contentLength": 3810,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/Soumettre_un_module_sur_AMO": {
     "lastEditor": "BenoitL",
@@ -14885,20 +15907,40 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-shadow": {
     "lastEditor": "mekal",
     "lastUpdated": "2010-02-27T20:43:51-08:00",
-    "lastDump": "2013-07-16T14:12:09.746Z",
+    "lastDump": "2013-07-30T12:06:37.237Z",
     "tags": [],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:06:37.198Z",
+    "contentLength": 2567,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 14,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-box-sizing": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:03:33-07:00",
-    "lastDump": "2013-07-16T14:12:10.687Z",
+    "lastDump": "2013-07-30T12:06:40.496Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-box-sizing"
+    },
+    "lastParsed": "2013-07-30T12:06:40.455Z",
+    "contentLength": 1771,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Animations_CSS": {
     "lastEditor": "teoli",
@@ -15044,22 +16086,44 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Fonctionnement_de_CSS": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:16:07-07:00",
-    "lastDump": "2013-07-16T14:13:17.736Z",
+    "lastDump": "2013-07-30T12:07:47.833Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/How_CSS_works"
+    },
+    "lastParsed": "2013-07-30T12:07:47.788Z",
+    "contentLength": 4243,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Graphiques_SVG": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:23:53-07:00",
-    "lastDump": "2013-07-16T14:13:18.456Z",
+    "lastDump": "2013-07-30T12:07:48.695Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/SVG_and_CSS"
+    },
+    "lastParsed": "2013-07-30T12:07:48.609Z",
+    "contentLength": 5917,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Web/HTML/Element/tt": {
     "lastEditor": "tregagnon",
@@ -15618,46 +16682,90 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-cell": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T09:45:24-07:00",
-    "lastDump": "2013-07-16T14:34:49.448Z",
+    "lastDump": "2013-07-30T12:06:42.798Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-cell"
+    },
+    "lastParsed": "2013-07-30T12:06:42.757Z",
+    "contentLength": 1019,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-context-menu": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:07:47-07:00",
-    "lastDump": "2013-07-16T14:38:14.072Z",
+    "lastDump": "2013-07-30T12:06:44.471Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-context-menu"
+    },
+    "lastParsed": "2013-07-30T12:06:44.405Z",
+    "contentLength": 1273,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-topright": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-03-29T17:37:14-07:00",
-    "lastDump": "2013-07-16T14:38:15.870Z",
+    "lastDump": "2013-07-30T12:06:50.426Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-outline-radius-topright"
+    },
+    "lastParsed": "2013-07-30T12:06:50.387Z",
+    "contentLength": 566,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-padding-end": {
     "lastEditor": "VincentN",
     "lastUpdated": "2006-12-14T19:34:32-08:00",
-    "lastDump": "2013-07-16T14:38:18.058Z",
+    "lastDump": "2013-07-30T12:06:49.611Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/-moz-padding-end"
+    },
+    "lastParsed": "2013-07-30T12:06:49.532Z",
+    "contentLength": 843,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:after": {
     "lastEditor": "tregagnon",
@@ -15709,12 +16817,23 @@
   "https://developer.mozilla.org/fr/docs/CSS/:only-child": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:45:37-08:00",
-    "lastDump": "2013-07-16T14:38:26.116Z",
+    "lastDump": "2013-07-30T12:03:34.504Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:only-child"
+    },
+    "lastParsed": "2013-07-30T12:03:34.450Z",
+    "contentLength": 1683,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Autres_ressources": {
     "lastEditor": "Mgjbot",
@@ -15866,22 +16985,44 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Interfaces_utilisateur_XUL": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:23:16-07:00",
-    "lastDump": "2013-07-16T14:38:56.185Z",
+    "lastDump": "2013-07-30T12:08:09.956Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/XUL_user_interfaces"
+    },
+    "lastParsed": "2013-07-30T12:08:09.889Z",
+    "contentLength": 8776,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/JavaScript": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:21:44-07:00",
-    "lastDump": "2013-07-16T14:38:57.986Z",
+    "lastDump": "2013-07-30T12:08:11.111Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/JavaScript"
+    },
+    "lastParsed": "2013-07-30T12:08:11.062Z",
+    "contentLength": 5009,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/Apps.install": {
     "lastEditor": "tregagnon",
@@ -15950,19 +17091,26 @@
   "https://developer.mozilla.org/fr/docs/SVG/Autres_ressources": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T07:15:49-07:00",
-    "lastDump": "2013-07-17T12:03:30.742Z",
+    "lastDump": "2013-07-30T12:21:09.032Z",
     "tags": [
       "junk",
       "SVG"
     ],
     "locales": {},
     "contentLength": 462,
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-30T12:21:08.988Z",
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/SVG/Attribute": {
     "lastEditor": "Blackhole",
     "lastUpdated": "2013-05-01T04:48:44-07:00",
-    "lastDump": "2013-07-17T11:49:06.192Z",
+    "lastDump": "2013-07-30T12:21:11.920Z",
     "tags": [
       "SVG",
       "TopicStub",
@@ -15975,7 +17123,14 @@
       "en-US": "Web/SVG/Attribute"
     },
     "contentLength": 6852,
-    "lastmod": "2013-05-01"
+    "lastmod": "2013-05-01",
+    "lastParsed": "2013-07-30T12:21:11.870Z",
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 393,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/SVG/Tutoriel": {
     "lastEditor": "Jay",
@@ -16002,25 +17157,39 @@
   "https://developer.mozilla.org/fr/docs/SVG/Element": {
     "lastEditor": "gemy_c",
     "lastUpdated": "2012-01-11T19:54:25-08:00",
-    "lastDump": "2013-07-17T12:03:32.691Z",
+    "lastDump": "2013-07-30T12:21:08.322Z",
     "tags": [],
     "locales": {
       "en-US": "Web/SVG/Element"
     },
     "contentLength": 3118,
-    "lastmod": "2012-11-21"
+    "lastmod": "2012-11-21",
+    "lastParsed": "2013-07-30T12:21:08.273Z",
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 180,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/SVG/Communauté": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T07:14:30-07:00",
-    "lastDump": "2013-07-17T12:03:28.740Z",
+    "lastDump": "2013-07-30T12:21:08.148Z",
     "tags": [
       "junk",
       "SVG"
     ],
     "locales": {},
     "contentLength": 179,
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "lastParsed": "2013-07-30T12:21:08.046Z",
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Web/Guide/Graphics": {
     "lastEditor": "Goofy",
@@ -16222,32 +17391,65 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Pourquoi_utiliser_CSS": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:15:37-07:00",
-    "lastDump": "2013-07-16T15:11:16.966Z",
+    "lastDump": "2013-07-30T12:08:25.036Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Why_use_CSS"
+    },
+    "lastParsed": "2013-07-30T12:08:24.990Z",
+    "contentLength": 3499,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Mise_en_page": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:20:16-07:00",
-    "lastDump": "2013-07-16T15:11:18.771Z",
+    "lastDump": "2013-07-30T12:08:23.977Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Layout"
+    },
+    "lastParsed": "2013-07-30T12:08:23.926Z",
+    "contentLength": 12258,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Médias": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:21:13-07:00",
-    "lastDump": "2013-07-16T15:11:19.260Z",
+    "lastDump": "2013-07-30T12:08:21.774Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Media"
+    },
+    "lastParsed": "2013-07-30T12:08:21.732Z",
+    "contentLength": 12241,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_d'éléments_HTML": {
     "lastEditor": "tregagnon",
@@ -16751,12 +17953,23 @@
   "https://developer.mozilla.org/fr/docs/CSS/:dir": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:27:23-08:00",
-    "lastDump": "2013-07-16T15:12:52.574Z",
+    "lastDump": "2013-07-30T12:04:24.388Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:dir"
+    },
+    "lastParsed": "2013-07-30T12:04:24.336Z",
+    "contentLength": 3162,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 8,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/auto": {
     "lastEditor": "FredB",
@@ -16797,32 +18010,65 @@
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Les_sélecteurs": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:17:11-07:00",
-    "lastDump": "2013-07-16T15:13:06.159Z",
+    "lastDump": "2013-07-30T12:08:14.845Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Selectors"
+    },
+    "lastParsed": "2013-07-30T12:08:14.794Z",
+    "contentLength": 6787,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Liaisons_XBL": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:22:46-07:00",
-    "lastDump": "2013-07-16T15:13:06.602Z",
+    "lastDump": "2013-07-30T12:08:15.822Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/XBL_bindings"
+    },
+    "lastParsed": "2013-07-30T12:08:15.749Z",
+    "contentLength": 5965,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Premiers_pas/Listes": {
     "lastEditor": "teoli",
     "lastUpdated": "2013-07-10T09:19:24-07:00",
-    "lastDump": "2013-07-16T15:13:07.251Z",
+    "lastDump": "2013-07-30T12:08:20.468Z",
     "tags": [
       "css",
       "CSS:Premiers_pas"
     ],
-    "lastmod": "2013-07-10"
+    "lastmod": "2013-07-10",
+    "locales": {
+      "en-US": "Web/Guide/CSS/Getting_started/Lists"
+    },
+    "lastParsed": "2013-07-30T12:08:20.389Z",
+    "contentLength": 9521,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/Node": {
     "lastEditor": "tregagnon",
@@ -17719,24 +18965,46 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-grab": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:17:42-07:00",
-    "lastDump": "2013-07-16T15:48:27.277Z",
+    "lastDump": "2013-07-30T12:07:18.013Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-grab"
+    },
+    "lastParsed": "2013-07-30T12:07:17.966Z",
+    "contentLength": 969,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-copy": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:10:37-07:00",
-    "lastDump": "2013-07-16T15:48:27.790Z",
+    "lastDump": "2013-07-30T12:07:19.774Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-copy"
+    },
+    "lastParsed": "2013-07-30T12:07:19.705Z",
+    "contentLength": 1012,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Media_queries": {
     "lastEditor": "tregagnon",
@@ -18358,12 +19626,23 @@
   "https://developer.mozilla.org/fr/docs/CSS/:focus": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:35:57-08:00",
-    "lastDump": "2013-07-16T15:54:26.674Z",
+    "lastDump": "2013-07-30T12:04:12.387Z",
     "tags": [
       "Référence_CSS",
       "Sélecteurs"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:focus"
+    },
+    "lastParsed": "2013-07-30T12:04:12.315Z",
+    "contentLength": 1149,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/overflow-y": {
     "lastEditor": "tregagnon",
@@ -20429,13 +21708,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-grabbing": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:19:10-07:00",
-    "lastDump": "2013-07-16T16:09:43.456Z",
+    "lastDump": "2013-07-30T12:07:16.315Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-grabbing"
+    },
+    "lastParsed": "2013-07-30T12:07:16.272Z",
+    "contentLength": 1024,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/nsIFeedPerson": {
     "lastEditor": "Planche",
@@ -21059,24 +22349,46 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-image-region": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-06-03T18:04:54-07:00",
-    "lastDump": "2013-07-16T16:12:00.028Z",
+    "lastDump": "2013-07-30T12:07:14.347Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/CSS/-moz-image-region"
+    },
+    "lastParsed": "2013-07-30T12:07:14.307Z",
+    "contentLength": 1547,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 9,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-margin-end": {
     "lastEditor": "VincentN",
     "lastUpdated": "2006-12-14T19:29:47-08:00",
-    "lastDump": "2013-07-16T16:12:00.615Z",
+    "lastDump": "2013-07-30T12:07:11.773Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-margin-end"
+    },
+    "lastParsed": "2013-07-30T12:07:11.689Z",
+    "contentLength": 911,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/17": {
     "lastEditor": "tregagnon",
@@ -24755,13 +26067,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-margin-start": {
     "lastEditor": "VincentN",
     "lastUpdated": "2006-12-14T19:19:53-08:00",
-    "lastDump": "2013-07-16T16:37:29.489Z",
+    "lastDump": "2013-07-30T12:07:09.215Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/-moz-margin-start"
+    },
+    "lastParsed": "2013-07-30T12:07:09.155Z",
+    "contentLength": 931,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:checked": {
     "lastEditor": "FredB",
@@ -25073,68 +26396,134 @@
   "https://developer.mozilla.org/fr/docs/CSS/-moz-padding-start": {
     "lastEditor": "VincentN",
     "lastUpdated": "2006-12-14T19:34:41-08:00",
-    "lastDump": "2013-07-16T16:39:22.729Z",
+    "lastDump": "2013-07-30T12:05:53.475Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-padding-start"
+    },
+    "lastParsed": "2013-07-30T12:05:53.433Z",
+    "contentLength": 843,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-spinning": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:38:25-07:00",
-    "lastDump": "2013-07-16T16:39:24.030Z",
+    "lastDump": "2013-07-30T12:05:52.173Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/-moz-spinning"
+    },
+    "lastParsed": "2013-07-30T12:05:52.123Z",
+    "contentLength": 1233,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-user-input": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T06:59:10-07:00",
-    "lastDump": "2013-07-16T16:39:25.263Z",
+    "lastDump": "2013-07-30T12:05:31.481Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-user-input"
+    },
+    "lastParsed": "2013-07-30T12:05:31.382Z",
+    "contentLength": 1774,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 8,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-zoom-in": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:41:03-07:00",
-    "lastDump": "2013-07-16T16:39:26.545Z",
+    "lastDump": "2013-07-30T12:05:29.787Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-zoom-in"
+    },
+    "lastParsed": "2013-07-30T12:05:29.741Z",
+    "contentLength": 960,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/-moz-zoom-out": {
     "lastEditor": "Kyodev",
     "lastUpdated": "2007-03-28T10:42:38-07:00",
-    "lastDump": "2013-07-16T16:39:28.130Z",
+    "lastDump": "2013-07-30T12:05:25.720Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/-moz-zoom-out"
+    },
+    "lastParsed": "2013-07-30T12:05:25.675Z",
+    "contentLength": 965,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-first-node": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:00:52-07:00",
-    "lastDump": "2013-07-16T16:39:29.148Z",
+    "lastDump": "2013-07-30T12:05:24.938Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-09"
+    "lastmod": "2012-08-09",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-first-node"
+    },
+    "lastParsed": "2013-07-30T12:05:24.888Z",
+    "contentLength": 893,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-twisty": {
     "lastEditor": "Mgjbot",
@@ -25183,78 +26572,155 @@
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-row": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:01:22-07:00",
-    "lastDump": "2013-07-16T16:39:36.963Z",
+    "lastDump": "2013-07-30T12:04:48.195Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-row"
+    },
+    "lastParsed": "2013-07-30T12:04:48.151Z",
+    "contentLength": 879,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-drop-feedback": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:04:22-07:00",
-    "lastDump": "2013-07-16T16:39:38.871Z",
+    "lastDump": "2013-07-30T12:05:01.388Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-drop-feedback"
+    },
+    "lastParsed": "2013-07-30T12:05:01.344Z",
+    "contentLength": 491,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-progressmeter": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:04:42-07:00",
-    "lastDump": "2013-07-16T16:39:40.294Z",
+    "lastDump": "2013-07-30T12:04:49.433Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-progressmeter"
+    },
+    "lastParsed": "2013-07-30T12:04:49.388Z",
+    "contentLength": 487,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-image": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:03:42-07:00",
-    "lastDump": "2013-07-16T16:39:40.834Z",
+    "lastDump": "2013-07-30T12:04:58.646Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-image"
+    },
+    "lastParsed": "2013-07-30T12:04:58.561Z",
+    "contentLength": 512,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-indentation": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:03:02-07:00",
-    "lastDump": "2013-07-16T16:39:42.298Z",
+    "lastDump": "2013-07-30T12:04:57.407Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-indentation"
+    },
+    "lastParsed": "2013-07-30T12:04:57.371Z",
+    "contentLength": 482,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:-moz-tree-line": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-04T15:03:22-07:00",
-    "lastDump": "2013-07-16T16:39:42.877Z",
+    "lastDump": "2013-07-30T12:04:50.731Z",
     "tags": [
       "css",
       "CSS:Extensions_Mozilla",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/CSS/:-moz-tree-line"
+    },
+    "lastParsed": "2013-07-30T12:04:50.681Z",
+    "contentLength": 492,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:lang": {
     "lastEditor": "FredB",
     "lastUpdated": "2012-12-02T13:48:39-08:00",
-    "lastDump": "2013-07-16T16:39:47.502Z",
+    "lastDump": "2013-07-30T12:03:54.161Z",
     "tags": [
       "Référence_CSS",
       "Sélecteurs"
     ],
-    "lastmod": "2012-12-02"
+    "lastmod": "2012-12-02",
+    "locales": {
+      "en-US": "Web/CSS/:lang"
+    },
+    "lastParsed": "2013-07-30T12:03:54.080Z",
+    "contentLength": 2338,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 5,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/CSS_Reference": {
     "lastEditor": "FredB",
@@ -25333,7 +26799,7 @@
       "css",
       "Référence CSS"
     ],
-    "lastmod": "2012-12-14",
+    "lastmod": "2013-07-30",
     "locales": {
       "en-US": "Web/Guide/CSS/Counters"
     },
@@ -25760,20 +27226,42 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.getElementsByTagNameNS": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-02-27T15:13:12-08:00",
-    "lastDump": "2013-07-16T16:40:48.195Z",
+    "lastDump": "2013-07-30T12:19:07.083Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.getElementsByTagNameNS"
+    },
+    "lastParsed": "2013-07-30T12:19:07.034Z",
+    "contentLength": 1820,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getAttributeNodeNS": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-01T09:02:00-07:00",
-    "lastDump": "2013-07-16T16:40:49.008Z",
+    "lastDump": "2013-07-30T12:17:54.943Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/API/element.getAttributeNodeNS"
+    },
+    "lastParsed": "2013-07-30T12:17:54.878Z",
+    "contentLength": 1750,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.clientLeft": {
     "lastEditor": "Mgjbot",
@@ -26390,34 +27878,67 @@
   "https://developer.mozilla.org/fr/docs/CSS/:only-of-type": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:49:03-08:00",
-    "lastDump": "2013-07-16T16:41:36.660Z",
+    "lastDump": "2013-07-30T12:03:32.859Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:only-of-type"
+    },
+    "lastParsed": "2013-07-30T12:03:32.807Z",
+    "contentLength": 810,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:invalid": {
     "lastEditor": "FredB",
     "lastUpdated": "2012-12-02T14:17:52-08:00",
-    "lastDump": "2013-07-16T16:41:38.453Z",
+    "lastDump": "2013-07-30T12:04:07.294Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2012-12-02"
+    "lastmod": "2012-12-02",
+    "locales": {
+      "en-US": "Web/CSS/:invalid"
+    },
+    "lastParsed": "2013-07-30T12:04:07.254Z",
+    "contentLength": 3034,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 14,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:disabled": {
     "lastEditor": "FredB",
     "lastUpdated": "2012-03-07T22:05:16-08:00",
-    "lastDump": "2013-07-16T16:41:40.452Z",
+    "lastDump": "2013-07-30T12:04:23.389Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/CSS/:disabled"
+    },
+    "lastParsed": "2013-07-30T12:04:23.318Z",
+    "contentLength": 2655,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.removeAttribute": {
     "lastEditor": "Mgjbot",
@@ -26491,20 +28012,42 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.hasAttribute": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:18:22-07:00",
-    "lastDump": "2013-07-16T16:42:05.931Z",
+    "lastDump": "2013-07-30T12:19:06.086Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.hasAttribute"
+    },
+    "lastParsed": "2013-07-30T12:19:06.038Z",
+    "contentLength": 1438,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getAttributeNode": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:20:22-07:00",
-    "lastDump": "2013-07-16T16:42:08.279Z",
+    "lastDump": "2013-07-30T12:17:54.034Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/API/element.getAttributeNode"
+    },
+    "lastParsed": "2013-07-30T12:17:53.982Z",
+    "contentLength": 1835,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.blur": {
     "lastEditor": "tregagnon",
@@ -27117,39 +28660,83 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.firstChild": {
     "lastEditor": "Sheppy",
     "lastUpdated": "2013-05-18T06:32:22-07:00",
-    "lastDump": "2013-07-16T16:43:27.586Z",
+    "lastDump": "2013-07-30T12:17:48.759Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-05-18"
+    "lastmod": "2013-05-18",
+    "locales": {
+      "en-US": "Web/API/Node.firstChild"
+    },
+    "lastParsed": "2013-07-30T12:17:48.716Z",
+    "contentLength": 2539,
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 4,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.focus": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-05-11T14:00:44-07:00",
-    "lastDump": "2013-07-16T16:43:29.266Z",
+    "lastDump": "2013-07-30T12:17:49.621Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-05-11"
+    "lastmod": "2013-05-11",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.focus"
+    },
+    "lastParsed": "2013-07-30T12:17:49.543Z",
+    "contentLength": 906,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getAttribute": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:17:02-07:00",
-    "lastDump": "2013-07-16T16:43:30.499Z",
+    "lastDump": "2013-07-30T12:17:51.891Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/API/element.getAttribute"
+    },
+    "lastParsed": "2013-07-30T12:17:51.807Z",
+    "contentLength": 2296,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getAttributeNS": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:19:42-07:00",
-    "lastDump": "2013-07-16T16:43:31.016Z",
+    "lastDump": "2013-07-30T12:17:53.072Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.getAttributeNS"
+    },
+    "lastParsed": "2013-07-30T12:17:53.022Z",
+    "contentLength": 2507,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/document.write": {
     "lastEditor": "Delapouite",
@@ -27409,11 +28996,22 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.hasAttributeNS": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:23:02-07:00",
-    "lastDump": "2013-07-16T16:44:05.387Z",
+    "lastDump": "2013-07-30T12:19:04.391Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/API/element.hasAttributeNS"
+    },
+    "lastParsed": "2013-07-30T12:19:04.320Z",
+    "contentLength": 1599,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.nodeValue": {
     "lastEditor": "dextra",
@@ -28031,13 +29629,24 @@
   "https://developer.mozilla.org/fr/docs/CSS/:optional": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T12:49:18-08:00",
-    "lastDump": "2013-07-16T16:45:37.324Z",
+    "lastDump": "2013-07-30T12:03:31.694Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:optional"
+    },
+    "lastParsed": "2013-07-30T12:03:31.644Z",
+    "contentLength": 1503,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 10,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:read-write": {
     "lastEditor": "FredB",
@@ -28606,12 +30215,23 @@
   "https://developer.mozilla.org/fr/docs/CSS/:indeterminate": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:48:16-08:00",
-    "lastDump": "2013-07-16T16:47:00.123Z",
+    "lastDump": "2013-07-30T12:04:08.858Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:indeterminate"
+    },
+    "lastParsed": "2013-07-30T12:04:08.816Z",
+    "contentLength": 2117,
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:hover": {
     "lastEditor": "FredB",
@@ -28638,53 +30258,108 @@
   "https://developer.mozilla.org/fr/docs/CSS/:empty": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-07T05:15:56-08:00",
-    "lastDump": "2013-07-16T16:47:02.428Z",
+    "lastDump": "2013-07-30T12:04:22.142Z",
     "tags": [
       "css",
       "Sélecteurs",
       "Référence_CSS"
     ],
-    "lastmod": "2012-12-07"
+    "lastmod": "2012-12-07",
+    "locales": {
+      "en-US": "Web/CSS/:empty"
+    },
+    "lastParsed": "2013-07-30T12:04:22.088Z",
+    "contentLength": 1680,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:enabled": {
     "lastEditor": "FredB",
     "lastUpdated": "2012-03-14T18:25:31-07:00",
-    "lastDump": "2013-07-16T16:47:03.003Z",
+    "lastDump": "2013-07-30T12:04:20.067Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/CSS/:enabled"
+    },
+    "lastParsed": "2013-07-30T12:04:20.008Z",
+    "contentLength": 1172,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:first": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:34:08-08:00",
-    "lastDump": "2013-07-16T16:47:03.853Z",
+    "lastDump": "2013-07-30T12:04:18.587Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:first"
+    },
+    "lastParsed": "2013-07-30T12:04:18.518Z",
+    "contentLength": 1736,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 8,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:first-child": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:34:20-08:00",
-    "lastDump": "2013-07-16T16:47:04.561Z",
+    "lastDump": "2013-07-30T12:04:16.773Z",
     "tags": [
       "Référence_CSS",
       "Sélecteurs"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:first-child"
+    },
+    "lastParsed": "2013-07-30T12:04:16.720Z",
+    "contentLength": 1356,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/:first-of-type": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-02-15T11:35:27-08:00",
-    "lastDump": "2013-07-16T16:47:05.468Z",
+    "lastDump": "2013-07-30T12:04:14.631Z",
     "tags": [
       "Référence_CSS",
       "Sélecteurs"
     ],
-    "lastmod": "2013-02-15"
+    "lastmod": "2013-02-15",
+    "locales": {
+      "en-US": "Web/CSS/:first-of-type"
+    },
+    "lastParsed": "2013-07-30T12:04:14.560Z",
+    "contentLength": 873,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/CSS/Sélecteurs_de_classe": {
     "lastEditor": "FredB",
@@ -29290,15 +30965,15 @@
     }
   },
   "https://developer.mozilla.org/fr/docs/CSS/outline": {
-    "lastEditor": "FredB",
-    "lastUpdated": "2013-02-15T12:46:26-08:00",
+    "lastEditor": "Blackhole",
+    "lastUpdated": "2013-07-29T05:11:04-07:00",
     "lastDump": "2013-07-24T14:02:08.979Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
-    "lastmod": "2013-02-15",
-    "lastParsed": "2013-07-24T14:02:08.920Z",
+    "lastmod": "2013-07-29",
+    "lastParsed": "2013-07-31T07:02:10.320Z",
     "contentLength": 2961,
     "locales": {
       "en-US": "Web/CSS/outline"
@@ -30508,39 +32183,83 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.lastChild": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-01T09:03:30-07:00",
-    "lastDump": "2013-07-16T16:52:17.921Z",
+    "lastDump": "2013-07-30T12:18:32.187Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.lastChild"
+    },
+    "lastParsed": "2013-07-30T12:18:32.131Z",
+    "contentLength": 853,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.hasAttributes": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-02-05T16:31:44-08:00",
-    "lastDump": "2013-07-16T16:52:18.935Z",
+    "lastDump": "2013-07-30T12:19:02.815Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.hasAttributes"
+    },
+    "lastParsed": "2013-07-30T12:19:02.749Z",
+    "contentLength": 735,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.hasChildNodes": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-08-01T09:03:00-07:00",
-    "lastDump": "2013-07-16T16:52:19.202Z",
+    "lastDump": "2013-07-30T12:19:01.391Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.hasChildNodes"
+    },
+    "lastParsed": "2013-07-30T12:19:01.340Z",
+    "contentLength": 931,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.id": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-05-11T12:13:52-07:00",
-    "lastDump": "2013-07-16T16:52:19.766Z",
+    "lastDump": "2013-07-30T12:18:59.754Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-05-11"
+    "lastmod": "2013-05-11",
+    "locales": {
+      "en-US": "Web/API/element.id"
+    },
+    "lastParsed": "2013-07-30T12:18:59.709Z",
+    "contentLength": 1661,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 7,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/document.execCommand": {
     "lastEditor": "bfn",
@@ -30663,49 +32382,104 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.innerHTML": {
     "lastEditor": "ethertank",
     "lastUpdated": "2012-11-07T05:56:02-08:00",
-    "lastDump": "2013-07-16T16:53:01.677Z",
+    "lastDump": "2013-07-30T12:18:58.370Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-11-07"
+    "lastmod": "2012-11-07",
+    "locales": {
+      "en-US": "Web/API/element.innerHTML"
+    },
+    "lastParsed": "2013-07-30T12:18:58.322Z",
+    "contentLength": 2409,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.insertAdjacentHTML": {
     "lastEditor": "JeanDavidDaviet",
     "lastUpdated": "2013-01-16T05:38:53-08:00",
-    "lastDump": "2013-07-16T16:53:02.397Z",
+    "lastDump": "2013-07-30T12:18:53.539Z",
     "tags": [],
-    "lastmod": "2013-01-16"
+    "lastmod": "2013-01-16",
+    "locales": {
+      "en-US": "Web/API/element.insertAdjacentHTML"
+    },
+    "lastParsed": "2013-07-30T12:18:53.465Z",
+    "contentLength": 2562,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.insertBefore": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-01-25T05:03:42-08:00",
-    "lastDump": "2013-07-16T16:53:03.030Z",
+    "lastDump": "2013-07-30T12:18:53.080Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-01-25"
+    "lastmod": "2013-01-25",
+    "locales": {
+      "en-US": "Web/API/Node.insertBefore"
+    },
+    "lastParsed": "2013-07-30T12:18:53.007Z",
+    "contentLength": 2745,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.isSupported": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2008-05-01T21:56:46-07:00",
-    "lastDump": "2013-07-16T16:53:03.934Z",
+    "lastDump": "2013-07-30T12:18:49.817Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/API/Node.isSupported"
+    },
+    "lastParsed": "2013-07-30T12:18:49.744Z",
+    "contentLength": 1502,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.lang": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-05-12T02:58:40-07:00",
-    "lastDump": "2013-07-16T16:53:04.524Z",
+    "lastDump": "2013-07-30T12:18:49.279Z",
     "tags": [
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-05-12"
+    "lastmod": "2013-05-12",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.lang"
+    },
+    "lastParsed": "2013-07-30T12:18:49.202Z",
+    "contentLength": 1847,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Templates_dans_Firefox_3": {
     "lastEditor": "Elchi3",
@@ -31138,23 +32912,41 @@
   "https://developer.mozilla.org/fr/docs/Project:Pour_commencer": {
     "lastEditor": "Sheppy",
     "lastUpdated": "2012-07-10T13:48:29-07:00",
-    "lastDump": "2013-07-16T16:53:59.089Z",
+    "lastDump": "2013-07-31T07:08:09.797Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2013-06-07"
+    "lastmod": "2013-06-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:08:09.754Z",
+    "contentLength": 9175,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 16,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Projets_de_localisation": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-19T18:05:24-08:00",
-    "lastDump": "2013-07-16T16:53:59.473Z",
+    "lastDump": "2013-07-31T07:08:08.242Z",
     "tags": [
       "Traduction_en_cours",
       "Aide_pour_les_éditeurs_de_MDC",
       "Localisation",
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:08:08.192Z",
+    "contentLength": 2241,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 13,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/RDF_en_cinquante_mots": {
     "lastEditor": "BenoitL",
@@ -31169,11 +32961,20 @@
   "https://developer.mozilla.org/fr/docs/Project:Comment_aider": {
     "lastEditor": "Goofy",
     "lastUpdated": "2013-01-10T22:07:20-08:00",
-    "lastDump": "2013-07-16T16:54:01.161Z",
+    "lastDump": "2013-07-31T07:07:41.970Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:41.925Z",
+    "contentLength": 2950,
+    "links": {
+      "404": 0,
+      "external": 11,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Préalables_à_la_localisation": {
     "lastEditor": "Elchi3",
@@ -31234,16 +33035,38 @@
   "https://developer.mozilla.org/fr/docs/NPP": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T21:43:10-07:00",
-    "lastDump": "2013-07-16T16:54:06.383Z",
+    "lastDump": "2013-07-31T07:06:01.174Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "NPP"
+    },
+    "lastParsed": "2013-07-31T07:06:01.125Z",
+    "contentLength": 1662,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 13,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/NP_Shutdown": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T22:38:42-07:00",
-    "lastDump": "2013-07-16T16:54:07.182Z",
+    "lastDump": "2013-07-31T07:06:15.249Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "NP_Shutdown"
+    },
+    "lastParsed": "2013-07-31T07:06:15.204Z",
+    "contentLength": 1588,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 11,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mise_à_jour_des_applications_Web_pour_Firefox_3": {
     "lastEditor": "Sheppy",
@@ -31585,14 +33408,23 @@
   "https://developer.mozilla.org/fr/docs/Modification_dynamique_d'interfaces_utilisateur_en_XUL": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-07-01T18:06:11-07:00",
-    "lastDump": "2013-07-16T16:55:30.128Z",
+    "lastDump": "2013-07-30T12:26:27.521Z",
     "tags": [
       "Extensions",
       "XUL",
       "DOM",
       "À_mettre_à_jour"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {},
+    "lastParsed": "2013-07-30T12:26:27.447Z",
+    "contentLength": 6787,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Guide_de_migration_vers_Places": {
     "lastEditor": "Mgjbot",
@@ -31741,9 +33573,18 @@
   "https://developer.mozilla.org/fr/docs/NPWindow_(en_cours_de_traduction)": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T22:54:39-07:00",
-    "lastDump": "2013-07-16T16:55:39.433Z",
+    "lastDump": "2013-07-31T07:06:13.272Z",
     "tags": [],
-    "lastmod": "2013-06-26"
+    "lastmod": "2013-06-26",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:06:13.207Z",
+    "contentLength": 38,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Préalables_à_la_compilation_sous_Windows_avec_cygwin": {
     "lastEditor": "Mgjbot",
@@ -31769,9 +33610,18 @@
   "https://developer.mozilla.org/fr/docs/Project:Documentation_demandée": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-06-14T12:40:23-07:00",
-    "lastDump": "2013-07-16T16:55:41.135Z",
+    "lastDump": "2013-07-31T07:07:55.303Z",
     "tags": [],
-    "lastmod": "2012-09-07"
+    "lastmod": "2012-09-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:55.232Z",
+    "contentLength": 216,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Pages_à_supprimer": {
     "lastEditor": "Delapouite",
@@ -31795,25 +33645,54 @@
   "https://developer.mozilla.org/fr/docs/Project:Pages_à_traduire": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-16T20:14:02-08:00",
-    "lastDump": "2013-07-16T16:55:45.146Z",
+    "lastDump": "2013-07-31T07:08:22.891Z",
     "tags": [],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:08:22.839Z",
+    "contentLength": 3844,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 29,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Promotion_de_MDC": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-10-26T17:30:26-07:00",
-    "lastDump": "2013-07-16T16:55:46.043Z",
+    "lastDump": "2013-07-31T07:08:06.721Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:08:06.670Z",
+    "contentLength": 1336,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Pour_bien_débuter": {
     "lastEditor": "Beatrice",
     "lastUpdated": "2013-06-08T06:54:04-07:00",
-    "lastDump": "2013-07-16T16:55:46.184Z",
+    "lastDump": "2013-07-31T07:08:22.529Z",
     "tags": [],
-    "lastmod": "2013-06-08"
+    "lastmod": "2013-06-08",
+    "locales": {
+      "en-US": "Project:Getting_started"
+    },
+    "lastParsed": "2013-07-31T07:08:22.443Z",
+    "contentLength": 10215,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 13,
+      "en-US": 4
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Référence_des_balises_wiki": {
     "lastEditor": "Elchi3",
@@ -32030,9 +33909,20 @@
   "https://developer.mozilla.org/fr/docs/Modifier_le_fichier_hosts": {
     "lastEditor": "SphinxKnight",
     "lastUpdated": "2013-05-24T09:42:01-07:00",
-    "lastDump": "2013-07-16T16:56:04.611Z",
+    "lastDump": "2013-07-30T12:26:29.061Z",
     "tags": [],
-    "lastmod": "2013-05-24"
+    "lastmod": "2013-05-24",
+    "locales": {
+      "en-US": "Mozilla/Firefox_OS/Tips_and_tricks/modifying_hosts_file"
+    },
+    "lastParsed": "2013-07-30T12:26:29.009Z",
+    "contentLength": 1667,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mobile-tab": {
     "lastEditor": "BenoitL",
@@ -32089,9 +33979,20 @@
   "https://developer.mozilla.org/fr/docs/NPWindow": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T23:06:21-07:00",
-    "lastDump": "2013-07-16T16:56:06.938Z",
+    "lastDump": "2013-07-31T07:06:08.577Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "NPWindow"
+    },
+    "lastParsed": "2013-07-31T07:06:08.532Z",
+    "contentLength": 4163,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 21,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Créer_un_thème_pour_Firefox": {
     "lastEditor": "Delapouite",
@@ -32255,11 +34156,22 @@
   "https://developer.mozilla.org/fr/docs/Modifications_XUL_pour_Firefox_1.5": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-02-05T16:16:10-08:00",
-    "lastDump": "2013-07-16T16:56:15.243Z",
+    "lastDump": "2013-07-30T12:26:28.021Z",
     "tags": [
       "XUL"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "XUL_Changes_for_Firefox_1.5"
+    },
+    "lastParsed": "2013-07-30T12:26:27.965Z",
+    "contentLength": 4561,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction": {
     "lastEditor": "lomalick@gmail.com",
@@ -32284,21 +34196,43 @@
   "https://developer.mozilla.org/fr/docs/NPP_New": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T22:00:14-07:00",
-    "lastDump": "2013-07-16T16:56:15.743Z",
+    "lastDump": "2013-07-31T07:06:02.297Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "NPP_New"
+    },
+    "lastParsed": "2013-07-31T07:06:02.231Z",
+    "contentLength": 3219,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 18,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/NP_Initialize": {
     "lastEditor": "Demos",
     "lastUpdated": "2010-04-03T22:12:33-07:00",
-    "lastDump": "2013-07-16T16:56:17.509Z",
+    "lastDump": "2013-07-31T07:06:14.342Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "NP_Initialize"
+    },
+    "lastParsed": "2013-07-31T07:06:14.303Z",
+    "contentLength": 1563,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 12,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/NPP_SetWindow": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-07-16T11:51:52-07:00",
-    "lastDump": "2013-07-18T10:50:36.402Z",
+    "lastDump": "2013-07-31T07:06:03.200Z",
     "tags": [
       "Plugin",
       "Fenêtre",
@@ -32309,7 +34243,14 @@
       "en-US": "NPP_SetWindow"
     },
     "contentLength": 3474,
-    "lastmod": "2013-07-16"
+    "lastmod": "2013-07-16",
+    "lastParsed": "2013-07-31T07:06:03.144Z",
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 15,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Places": {
     "lastEditor": "Elchi3",
@@ -32337,38 +34278,74 @@
   "https://developer.mozilla.org/fr/docs/Project:Désambiguation": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-05-17T20:46:31-07:00",
-    "lastDump": "2013-07-16T16:56:19.697Z",
+    "lastDump": "2013-07-31T07:07:56.969Z",
     "tags": [
       "Projet_MDC",
       "Désambiguation"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:56.922Z",
+    "contentLength": 6390,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 13,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Création_de_FAQ": {
     "lastEditor": "MookyMa",
     "lastUpdated": "2008-04-08T12:06:41-07:00",
-    "lastDump": "2013-07-16T16:56:20.005Z",
+    "lastDump": "2013-07-31T07:07:58.315Z",
     "tags": [],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:58.272Z",
+    "contentLength": 338,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Copyright": {
     "lastEditor": "Sheppy",
     "lastUpdated": "2007-07-20T12:39:47-07:00",
-    "lastDump": "2013-07-16T16:56:20.620Z",
+    "lastDump": "2013-07-31T07:07:59.937Z",
     "tags": [
       "Projet_MDC"
     ],
-    "lastmod": "2012-08-12"
+    "lastmod": "2012-08-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:07:59.865Z",
+    "contentLength": 2483,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Communauté": {
     "lastEditor": "Leandro Mercês Xavier",
     "lastUpdated": "2006-02-25T16:15:00-08:00",
-    "lastDump": "2013-07-16T16:56:21.189Z",
+    "lastDump": "2013-07-31T07:08:01.154Z",
     "tags": [
       "Projet_MDC",
       "Communauté"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T07:08:01.088Z",
+    "contentLength": 1237,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Persona": {
     "lastEditor": "Kyodev",
@@ -32513,7 +34490,7 @@
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux/Date/now": {
     "lastEditor": "Goofy",
     "lastUpdated": "2013-07-03T15:41:50-07:00",
-    "lastDump": "2013-07-17T10:55:10.688Z",
+    "lastDump": "2013-07-30T12:20:50.886Z",
     "tags": [
       "JavaScript Reference",
       "NeedsMobileBrowserCompatibility",
@@ -32524,7 +34501,14 @@
       "en-US": "Web/JavaScript/Reference/Global_Objects/Date/now"
     },
     "contentLength": 1852,
-    "lastmod": "2013-07-03"
+    "lastmod": "2013-07-03",
+    "lastParsed": "2013-07-30T12:20:50.844Z",
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 2
+    }
   },
   "https://developer.mozilla.org/fr/docs/Web/Reference": {
     "lastEditor": "naar",
