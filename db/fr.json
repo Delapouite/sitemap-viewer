@@ -1692,7 +1692,7 @@
   "https://developer.mozilla.org/fr/docs/SVG_dans_Firefox": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-12-08T05:37:59-08:00",
-    "lastDump": "2013-07-16T11:48:43.323Z",
+    "lastDump": "2013-07-31T11:40:16.957Z",
     "tags": [
       "SVG"
     ],
@@ -5113,11 +5113,22 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.prefix": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-27T15:32:05-07:00",
-    "lastDump": "2013-07-16T12:10:07.447Z",
+    "lastDump": "2013-07-31T11:42:35.379Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.prefix"
+    },
+    "lastParsed": "2013-07-31T11:42:35.330Z",
+    "contentLength": 915,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/event": {
     "lastEditor": "Mgjbot",
@@ -6341,7 +6352,7 @@
   "https://developer.mozilla.org/fr/docs/EXSLT/regexp/test": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:11:23-08:00",
-    "lastDump": "2013-07-16T12:16:19.004Z",
+    "lastDump": "2013-07-31T11:43:22.540Z",
     "tags": [
       "Traduction_en_cours",
       "XSLT",
@@ -6349,12 +6360,23 @@
       "EXSLT",
       "Référence_XSLT"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/regexp/test"
+    },
+    "lastParsed": "2013-07-31T11:43:22.491Z",
+    "contentLength": 1409,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/regexp/replace": {
     "lastEditor": "sylvain.spinelli",
     "lastUpdated": "2008-12-18T08:10:09-08:00",
-    "lastDump": "2013-07-16T12:16:19.450Z",
+    "lastDump": "2013-07-31T11:43:21.457Z",
     "tags": [
       "Traduction_en_cours",
       "XSLT",
@@ -6362,12 +6384,23 @@
       "EXSLT",
       "Référence_XSLT"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/regexp/replace"
+    },
+    "lastParsed": "2013-07-31T11:43:21.408Z",
+    "contentLength": 1630,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/regexp/match": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:10:43-08:00",
-    "lastDump": "2013-07-16T12:16:19.462Z",
+    "lastDump": "2013-07-31T11:43:21.047Z",
     "tags": [
       "Traduction_en_cours",
       "XSLT",
@@ -6375,7 +6408,18 @@
       "EXSLT",
       "Référence_XSLT"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/regexp/match"
+    },
+    "lastParsed": "2013-07-31T11:43:21.002Z",
+    "contentLength": 2266,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/window.onbeforeunload": {
     "lastEditor": "Delapouite",
@@ -6396,13 +6440,24 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetTop": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-09-03T06:15:48-07:00",
-    "lastDump": "2013-07-16T12:16:27.601Z",
+    "lastDump": "2013-07-31T11:43:10.141Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.offsetTop"
+    },
+    "lastParsed": "2013-07-31T11:43:10.073Z",
+    "contentLength": 888,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.getClientRects": {
     "lastEditor": "BenoitL",
@@ -13284,84 +13339,161 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Accès_au_registre_Windows_en_utilisant_les_XPCOM": {
     "lastEditor": "Angevoyageur",
     "lastUpdated": "2007-10-01T20:08:07-07:00",
-    "lastDump": "2013-07-16T13:54:53.749Z",
+    "lastDump": "2013-07-31T11:43:57.963Z",
     "tags": [
       "Extensions",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Accessing_the_Windows_Registry_Using_XPCOM"
+    },
+    "lastParsed": "2013-07-31T11:43:57.912Z",
+    "contentLength": 15170,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/trailing": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:13:23-08:00",
-    "lastDump": "2013-07-16T13:54:56.186Z",
+    "lastDump": "2013-07-31T11:43:49.763Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/trailing"
+    },
+    "lastParsed": "2013-07-31T11:43:49.703Z",
+    "contentLength": 1533,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/leading": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:13:03-08:00",
-    "lastDump": "2013-07-16T13:54:57.769Z",
+    "lastDump": "2013-07-31T11:43:50.353Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/leading"
+    },
+    "lastParsed": "2013-07-31T11:43:50.278Z",
+    "contentLength": 1533,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/intersection": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:12:23-08:00",
-    "lastDump": "2013-07-16T13:54:58.366Z",
+    "lastDump": "2013-07-31T11:43:50.754Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/intersection"
+    },
+    "lastParsed": "2013-07-31T11:43:50.705Z",
+    "contentLength": 1291,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/has-same-node": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:12:43-08:00",
-    "lastDump": "2013-07-16T13:54:59.130Z",
+    "lastDump": "2013-07-31T11:43:51.387Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/has-same-node"
+    },
+    "lastParsed": "2013-07-31T11:43:51.338Z",
+    "contentLength": 1196,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/distinct": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:12:03-08:00",
-    "lastDump": "2013-07-16T13:54:59.610Z",
+    "lastDump": "2013-07-31T11:43:51.942Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/distinct"
+    },
+    "lastParsed": "2013-07-31T11:43:51.890Z",
+    "contentLength": 1190,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/set/difference": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-01-04T13:11:43-08:00",
-    "lastDump": "2013-07-16T13:55:00.169Z",
+    "lastDump": "2013-07-31T11:43:52.674Z",
     "tags": [
       "XSLT",
       "EXSLT",
       "Référence_XSLT",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "EXSLT/set/difference"
+    },
+    "lastParsed": "2013-07-31T11:43:52.605Z",
+    "contentLength": 1505,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/EXSLT/math/max": {
     "lastEditor": "Mgjbot",
@@ -14000,31 +14132,64 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetParent": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-27T14:28:30-07:00",
-    "lastDump": "2013-07-16T13:56:39.566Z",
+    "lastDump": "2013-07-31T11:43:11.265Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.offsetParent"
+    },
+    "lastParsed": "2013-07-31T11:43:11.173Z",
+    "contentLength": 862,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetWidth": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-27T14:41:02-07:00",
-    "lastDump": "2013-07-16T13:56:40.495Z",
+    "lastDump": "2013-07-31T11:43:09.197Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.offsetWidth"
+    },
+    "lastParsed": "2013-07-31T11:43:09.154Z",
+    "contentLength": 2801,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.previousSibling": {
     "lastEditor": "Sheppy",
     "lastUpdated": "2013-05-18T06:32:40-07:00",
-    "lastDump": "2013-07-16T13:56:46.852Z",
+    "lastDump": "2013-07-31T11:42:34.811Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-05-18"
+    "lastmod": "2013-05-18",
+    "locales": {
+      "en-US": "Web/API/Node.previousSibling"
+    },
+    "lastParsed": "2013-07-31T11:42:34.761Z",
+    "contentLength": 1471,
+    "links": {
+      "404": 0,
+      "external": 5,
+      "fr": 3,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/window.onpopstate": {
     "lastEditor": "m@tteo78",
@@ -14407,11 +14572,20 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Barre_d'outils": {
     "lastEditor": "VincentN",
     "lastUpdated": "2007-06-12T14:25:41-07:00",
-    "lastDump": "2013-07-16T13:59:27.605Z",
+    "lastDump": "2013-07-31T11:43:56.565Z",
     "tags": [
       "Extensions"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:43:56.495Z",
+    "contentLength": 2757,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Canvas": {
     "lastEditor": "Delapouite",
@@ -14437,9 +14611,20 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Chargement_de_page": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-04-24T18:01:14-07:00",
-    "lastDump": "2013-07-16T13:59:37.465Z",
+    "lastDump": "2013-07-31T11:56:32.167Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Code_snippets/Page_Loading"
+    },
+    "lastParsed": "2013-07-31T11:56:32.148Z",
+    "contentLength": 763,
+    "links": {
+      "404": 3,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Cookies": {
     "lastEditor": "Mgjbot",
@@ -18844,9 +19029,18 @@
   "https://developer.mozilla.org/fr/docs/RDF_API": {
     "lastEditor": "Anonymous",
     "lastUpdated": "2008-08-15T19:45:04-07:00",
-    "lastDump": "2013-07-16T15:45:14.678Z",
+    "lastDump": "2013-07-31T11:41:30.163Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:41:30.082Z",
+    "contentLength": 76,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Extraits_de_code/Sur_un_chargement_de_page": {
     "lastEditor": "Elethiomel",
@@ -27485,29 +27679,62 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.parentNode": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-10T04:38:15-07:00",
-    "lastDump": "2013-07-16T16:40:42.347Z",
+    "lastDump": "2013-07-31T11:42:42.190Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.parentNode"
+    },
+    "lastParsed": "2013-07-31T11:42:42.146Z",
+    "contentLength": 1108,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.ownerDocument": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-06-09T23:42:11-07:00",
-    "lastDump": "2013-07-16T16:40:43.321Z",
+    "lastDump": "2013-07-31T11:42:43.135Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/Node.ownerDocument"
+    },
+    "lastParsed": "2013-07-31T11:42:43.046Z",
+    "contentLength": 1055,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetLeft": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-27T14:10:17-07:00",
-    "lastDump": "2013-07-16T16:40:45.727Z",
+    "lastDump": "2013-07-31T11:42:29.186Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.offsetLeft"
+    },
+    "lastParsed": "2013-07-31T11:42:29.119Z",
+    "contentLength": 2654,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.nextSibling": {
     "lastEditor": "Sheppy",
@@ -28288,31 +28515,64 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.onscroll": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-11-03T10:32:46-07:00",
-    "lastDump": "2013-07-16T16:41:59.975Z",
+    "lastDump": "2013-07-31T11:42:44.901Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onscroll"
+    },
+    "lastParsed": "2013-07-31T11:42:44.859Z",
+    "contentLength": 679,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onblur": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-06-30T21:43:35-07:00",
-    "lastDump": "2013-07-16T16:42:01.533Z",
+    "lastDump": "2013-07-31T11:43:07.848Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onblur"
+    },
+    "lastParsed": "2013-07-31T11:43:07.799Z",
+    "contentLength": 1716,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.offsetHeight": {
     "lastEditor": "Julien STUBY",
     "lastUpdated": "2010-11-08T18:33:35-08:00",
-    "lastDump": "2013-07-16T16:42:02.674Z",
+    "lastDump": "2013-07-31T11:42:28.333Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/HTMLElement.offsetHeight"
+    },
+    "lastParsed": "2013-07-31T11:42:28.258Z",
+    "contentLength": 3095,
+    "links": {
+      "404": 0,
+      "external": 3,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.hasAttribute": {
     "lastEditor": "Mgjbot",
@@ -28640,33 +28900,66 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.onchange": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-28T16:00:25-07:00",
-    "lastDump": "2013-07-16T16:42:42.155Z",
+    "lastDump": "2013-07-31T11:43:07.137Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onchange"
+    },
+    "lastParsed": "2013-07-31T11:43:07.087Z",
+    "contentLength": 1415,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.normalize": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-24T09:19:57-07:00",
-    "lastDump": "2013-07-16T16:42:44.279Z",
+    "lastDump": "2013-07-31T11:42:27.254Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/API/Node.normalize"
+    },
+    "lastParsed": "2013-07-31T11:42:27.191Z",
+    "contentLength": 672,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onresize": {
     "lastEditor": "Chbok",
     "lastUpdated": "2007-08-02T15:16:56-07:00",
-    "lastDump": "2013-07-16T16:42:45.016Z",
+    "lastDump": "2013-07-31T11:42:47.675Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/element.onresize"
+    },
+    "lastParsed": "2013-07-31T11:42:47.626Z",
+    "contentLength": 1877,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.removeAttributeNode": {
     "lastEditor": "Mgjbot",
@@ -31354,13 +31647,13 @@
   "https://developer.mozilla.org/fr/docs/CSS/outline": {
     "lastEditor": "Blackhole",
     "lastUpdated": "2013-07-29T05:11:04-07:00",
-    "lastDump": "2013-07-24T14:02:08.979Z",
+    "lastDump": "2013-07-31T11:42:12.304Z",
     "tags": [
       "css",
       "Référence_CSS"
     ],
     "lastmod": "2013-07-29",
-    "lastParsed": "2013-07-31T07:02:10.320Z",
+    "lastParsed": "2013-07-31T11:42:12.229Z",
     "contentLength": 2961,
     "locales": {
       "en-US": "Web/CSS/outline"
@@ -32455,117 +32748,238 @@
   "https://developer.mozilla.org/fr/docs/DOM/element.onmouseup": {
     "lastEditor": "Chbok",
     "lastUpdated": "2007-08-02T15:00:23-07:00",
-    "lastDump": "2013-07-16T16:52:10.444Z",
+    "lastDump": "2013-07-31T11:42:49.212Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onmouseup"
+    },
+    "lastParsed": "2013-07-31T11:42:49.165Z",
+    "contentLength": 719,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onmouseover": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2007-08-02T15:02:00-07:00",
-    "lastDump": "2013-07-16T16:52:11.096Z",
+    "lastDump": "2013-07-31T11:42:51.054Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onmouseover"
+    },
+    "lastParsed": "2013-07-31T11:42:51.009Z",
+    "contentLength": 705,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onmouseout": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-28T16:36:55-07:00",
-    "lastDump": "2013-07-16T16:52:11.379Z",
+    "lastDump": "2013-07-31T11:42:56.029Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onmouseout"
+    },
+    "lastParsed": "2013-07-31T11:42:55.948Z",
+    "contentLength": 853,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onclick": {
     "lastEditor": "Priam",
     "lastUpdated": "2013-02-09T08:17:40-08:00",
-    "lastDump": "2013-07-16T16:52:12.345Z",
+    "lastDump": "2013-07-31T11:43:06.191Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-02-09"
+    "lastmod": "2013-02-09",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onclick"
+    },
+    "lastParsed": "2013-07-31T11:43:06.144Z",
+    "contentLength": 2005,
+    "links": {
+      "404": 0,
+      "external": 1,
+      "fr": 3,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.ondblclick": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-06-30T22:20:33-07:00",
-    "lastDump": "2013-07-16T16:52:12.622Z",
+    "lastDump": "2013-07-31T11:43:05.168Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-08"
+    "lastmod": "2012-08-08",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.ondblclick"
+    },
+    "lastParsed": "2013-07-31T11:43:05.088Z",
+    "contentLength": 1568,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onfocus": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-28T16:22:20-07:00",
-    "lastDump": "2013-07-16T16:52:13.238Z",
+    "lastDump": "2013-07-31T11:43:04.441Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-09"
+    "lastmod": "2012-08-09",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onfocus"
+    },
+    "lastParsed": "2013-07-31T11:43:04.375Z",
+    "contentLength": 907,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onkeydown": {
     "lastEditor": "Julien.stuby",
     "lastUpdated": "2009-11-26T22:03:12-08:00",
-    "lastDump": "2013-07-16T16:52:13.527Z",
+    "lastDump": "2013-07-31T11:43:02.768Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onkeydown"
+    },
+    "lastParsed": "2013-07-31T11:43:02.721Z",
+    "contentLength": 920,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onkeypress": {
     "lastEditor": "Julien.stuby",
     "lastUpdated": "2009-11-26T22:04:04-08:00",
-    "lastDump": "2013-07-16T16:52:13.943Z",
+    "lastDump": "2013-07-31T11:43:00.301Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onkeypress"
+    },
+    "lastParsed": "2013-07-31T11:43:00.252Z",
+    "contentLength": 922,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 4,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onkeyup": {
     "lastEditor": "Julien.stuby",
     "lastUpdated": "2009-11-26T22:05:25-08:00",
-    "lastDump": "2013-07-16T16:52:14.582Z",
+    "lastDump": "2013-07-31T11:42:58.347Z",
     "tags": [
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onkeyup"
+    },
+    "lastParsed": "2013-07-31T11:42:58.301Z",
+    "contentLength": 822,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onmousedown": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-07-28T16:26:27-07:00",
-    "lastDump": "2013-07-16T16:52:14.906Z",
+    "lastDump": "2013-07-31T11:42:57.410Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onmousedown"
+    },
+    "lastParsed": "2013-07-31T11:42:57.364Z",
+    "contentLength": 730,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.onmousemove": {
     "lastEditor": "Priam",
     "lastUpdated": "2013-02-09T08:35:56-08:00",
-    "lastDump": "2013-07-16T16:52:15.602Z",
+    "lastDump": "2013-07-31T11:42:56.029Z",
     "tags": [
       "DOM_0",
       "DOM",
       "Référence_du_DOM_Gecko"
     ],
-    "lastmod": "2013-02-09"
+    "lastmod": "2013-02-09",
+    "locales": {
+      "en-US": "Web/API/GlobalEventHandlers.onmousemove"
+    },
+    "lastParsed": "2013-07-31T11:42:55.866Z",
+    "contentLength": 1137,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/element.lastChild": {
     "lastEditor": "Mgjbot",
@@ -33472,11 +33886,22 @@
   "https://developer.mozilla.org/fr/docs/RSS": {
     "lastEditor": "Delapouite",
     "lastUpdated": "2013-06-25T14:46:35-07:00",
-    "lastDump": "2013-07-16T16:53:57.281Z",
+    "lastDump": "2013-07-31T11:41:32.215Z",
     "tags": [
       "RSS"
     ],
-    "lastmod": "2013-06-25"
+    "lastmod": "2013-06-25",
+    "locales": {
+      "en-US": "RSS"
+    },
+    "lastParsed": "2013-07-31T11:41:32.156Z",
+    "contentLength": 2077,
+    "links": {
+      "404": 0,
+      "external": 4,
+      "fr": 10,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Pour_commencer": {
     "lastEditor": "Sheppy",
@@ -33520,12 +33945,23 @@
   "https://developer.mozilla.org/fr/docs/RDF_en_cinquante_mots": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2008-05-11T23:03:17-07:00",
-    "lastDump": "2013-07-16T16:53:59.941Z",
+    "lastDump": "2013-07-31T11:41:31.176Z",
     "tags": [
       "Traduction_à_relire",
       "RDF"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {
+      "en-US": "RDF_in_Fifty_Words_or_Less"
+    },
+    "lastParsed": "2013-07-31T11:41:31.112Z",
+    "contentLength": 5602,
+    "links": {
+      "404": 0,
+      "external": 7,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:Comment_aider": {
     "lastEditor": "Goofy",
@@ -33865,36 +34301,76 @@
   "https://developer.mozilla.org/fr/docs/Recommandations_pour_l'écriture_d'un_bug": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-04T05:47:57-07:00",
-    "lastDump": "2013-07-16T16:55:19.562Z",
+    "lastDump": "2013-07-31T11:41:35.118Z",
     "tags": [
       "QA"
     ],
-    "lastmod": "2013-06-04"
+    "lastmod": "2013-06-04",
+    "locales": {
+      "en-US": "Mozilla/QA/Bug_writing_guidelines"
+    },
+    "lastParsed": "2013-07-31T11:41:35.076Z",
+    "contentLength": 7640,
+    "links": {
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Rapports_de_plantage": {
     "lastEditor": "tcit",
     "lastUpdated": "2010-05-18T18:19:48-07:00",
-    "lastDump": "2013-07-16T16:55:21.269Z",
+    "lastDump": "2013-07-31T11:41:33.792Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:41:33.718Z",
+    "contentLength": 235,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Recommandations_d'accessibilité_pour_XUL": {
     "lastEditor": "FredB",
     "lastUpdated": "2013-05-02T10:16:12-07:00",
-    "lastDump": "2013-07-16T16:55:21.325Z",
+    "lastDump": "2013-07-31T11:41:35.000Z",
     "tags": [
       "Accessibilité",
       "XUL",
       "Traduction_à_relire"
     ],
-    "lastmod": "2013-05-02"
+    "lastmod": "2013-05-02",
+    "locales": {
+      "en-US": "XUL_accessibility_guidelines"
+    },
+    "lastParsed": "2013-07-31T11:41:34.928Z",
+    "contentLength": 33058,
+    "links": {
+      "404": 0,
+      "external": 14,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Raccourcis_vers_la_documentation": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2009-06-01T21:39:49-07:00",
-    "lastDump": "2013-07-16T16:55:22.544Z",
+    "lastDump": "2013-07-31T11:41:32.828Z",
     "tags": [],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-07-31T11:41:32.781Z",
+    "contentLength": 1510,
+    "links": {
+      "404": 0,
+      "external": 0,
+      "fr": 35,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Project:fr": {
     "lastEditor": "Chbok",

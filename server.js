@@ -19,7 +19,7 @@ var parserOptions = {
 	tags: true,
 	locales: true,
 	links: true,
-	'404': false
+	'404': true
 };
 
 var db = jsonfile.readFileSync(dbFileName);
@@ -132,13 +132,20 @@ function parseLinks($) {
 	return links;
 }
 
-function parse404($) {
+function parse404($, uri) {
 	var promises = [];
 	if ($('#wikiArticle a').length) {
 		$('#wikiArticle a').each(function() {
 			var href = $(this).attr('href');
-			if (href && href.substring(0, 3) === '/fr') {
+			if (!href) {
+				return;
+			}
+			if (href.substring(0, 3) === '/fr') {
 				promises.push(QHTTP.request(MDN + href));
+			}
+			// relative links
+			if (href.substring(0, 3) === 'fr/') {
+				promises.push(QHTTP.request(path.dirname(uri) + '/' + href));
 			}
 		});
 	}
@@ -176,15 +183,18 @@ function parseBody(body, uri) {
 	}
 
 	if (parserOptions['404']) {
-		var promises = parse404($);
+		var promises = parse404($, uri);
 		Q.all(promises).then(function(responses) {
 			responses.forEach(function(res) {
+				console.log('status', res.status);
 				if (res.status === 404) {
 					console.log('404 ', res.nodeResponse.req.path);
 					db[uri].links['404']++;
 				}
 			});
 			save();
+		}, function() {
+			console.log('Q error', arguments);
 		});
 	} else {
 		save();
