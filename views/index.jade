@@ -39,11 +39,11 @@ html
 						td(class='lastUpdated d' + displayDate(savedUrl.lastUpdated, 'YY')) #{displayDate(savedUrl.lastUpdated)}
 						td.lastDump
 							if savedUrl.lastDump && savedUrl.lastDump < savedUrl.lastmod
-								a(rel='nofollow', href='/dump?uriPath=' + uri.path(), class='d05', title=displayDate(savedUrl.lastDump)) outdated
+								button.dump(data-uri-path= uri.path(), class='d05', title=displayDate(savedUrl.lastDump)) outdated
 							else
-								a(rel='nofollow', href='/dump?uriPath=' + uri.path()) #{displayDate(savedUrl.lastDump)}
+								button.dump(data-uri-path= uri.path()) #{displayDate(savedUrl.lastDump)}
 						td.lastParsed
-							a(rel='nofollow', href='/parse?uriPath=' + uri.path()) #{displayDate(savedUrl.lastParsed)}
+							button.parse(data-uri-path=uri.path()) #{displayDate(savedUrl.lastParsed)}
 						td.url
 							a(rel='nofollow', href= uri.href(), title= uri.filename(true)) #{uri.filename(true)}
 						td.locales
