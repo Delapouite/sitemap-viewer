@@ -234,7 +234,8 @@ app.get('/', function(req, res) {
 		sitemap: sitemap,
 		urls: urls,
 		paths: _.sortBy(Object.keys(urls)),
-		displayDate: displayDate
+		displayDate: displayDate,
+		parserOptions: parserOptions
 	});
 });
 
@@ -268,6 +269,13 @@ app.get('/parse', function(req, res) {
 			parseBody(data, MDN + uriPath);
 		}
 	});
+	res.send(200);
+});
+
+app.get('/options', function(req, res) {
+	if (parserOptions[req.query.option] !== undefined) {
+		parserOptions[req.query.option] = req.query.enabled === 'true';
+	}
 	res.send(200);
 });
 

@@ -31,3 +31,12 @@ document.body.addEventListener('click', function(evt) {
 document.body.addEventListener('click', function(evt) {
 	remoteAction(evt, 'parse');
 });
+
+// parse checkboxes
+document.getElementById('parserOptions').addEventListener('click', function(evt) {
+	if(evt.target.tagName.toLowerCase() === 'input') {
+		var xhr = new XMLHttpRequest();
+		xhr.open('GET', '/options?option=' + evt.target.name.substr(6) + '&enabled=' + evt.target.checked);
+		xhr.send(null);
+	}
+});

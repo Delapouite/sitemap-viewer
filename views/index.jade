@@ -15,6 +15,20 @@ html
 					| ) | 
 					a(href='#tags') Tags (#{tags.length})
 			tr
+				th#parserOptions(colspan='10') Parser options
+					label
+						input(type='checkbox', name='parse-tags', checked=parserOptions.tags)
+						| Tags
+					label
+						input(type='checkbox', name='parse-locales', checked=parserOptions.locales)
+						| Locales
+					label
+						input(type='checkbox', name='parse-links', checked=parserOptions.links)
+						| Links
+					label
+						input(type='checkbox', name='parse-404', checked=parserOptions['404'])
+						| 404
+			tr
 				th Sitemap lastmod (MDN)
 				th Last updated (MDN)
 				th Last dump (local)
@@ -45,7 +59,7 @@ html
 						td.lastParsed
 							button.parse(data-uri-path=uri.path()) #{displayDate(savedUrl.lastParsed)}
 						td.url
-							a(rel='nofollow', href= uri.href(), title= uri.filename(true)) #{uri.filename(true)}
+							a(rel='nofollow', href= uri.href()) #{uri.filename(true)}
 						td.locales
 							if savedUrl.locales && savedUrl.locales['en-US']
 								a(rel='nofollow', href= MDN + '/en-US/docs/' + savedUrl.locales['en-US']) #{savedUrl.locales['en-US']}
