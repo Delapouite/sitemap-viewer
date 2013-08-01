@@ -98,35 +98,75 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/callee": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-03-27T13:00:58-07:00",
-    "lastDump": "2013-07-16T11:27:17.709Z",
+    "lastDump": "2013-08-01T12:00:41.272Z",
     "tags": [],
-    "lastmod": "2012-08-25"
+    "lastmod": "2012-08-25",
+    "locales": {},
+    "lastParsed": "2013-08-01T12:00:41.239Z",
+    "contentLength": 2290,
+    "links": {
+      "301": 0,
+      "404": 5,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/caller": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-02T17:00:54-07:00",
-    "lastDump": "2013-07-16T11:17:29.970Z",
+    "lastDump": "2013-08-01T12:00:42.432Z",
     "tags": [],
-    "lastmod": "2012-08-25"
+    "lastmod": "2012-08-25",
+    "locales": {},
+    "lastParsed": "2013-08-01T12:00:42.428Z",
+    "contentLength": 1077,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments/length": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-02T17:01:34-07:00",
-    "lastDump": "2013-07-16T11:17:30.917Z",
+    "lastDump": "2013-08-01T12:00:43.381Z",
     "tags": [],
-    "lastmod": "2012-09-04"
+    "lastmod": "2012-09-04",
+    "locales": {},
+    "lastParsed": "2013-08-01T12:00:43.348Z",
+    "contentLength": 1689,
+    "links": {
+      "301": 0,
+      "404": 4,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Fonctions/arguments": {
     "lastEditor": "cjean",
     "lastUpdated": "2013-04-25T11:12:09-07:00",
-    "lastDump": "2013-07-16T11:30:15.459Z",
+    "lastDump": "2013-08-01T11:53:17.817Z",
     "tags": [
       "Array",
       "Fonctions",
       "arguments",
       "JavaScript"
     ],
-    "lastmod": "2013-04-25"
+    "lastmod": "2013-04-25",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:53:17.777Z",
+    "contentLength": 6257,
+    "links": {
+      "301": 0,
+      "404": 17,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Objets_globaux/Boolean/prototype": {
     "lastEditor": "Delapouite",
@@ -293,7 +333,7 @@
       "DOM"
     ],
     "lastmod": "2012-08-03",
-    "lastParsed": "2013-08-01T11:41:46.832Z",
+    "lastParsed": "2013-08-01T11:47:23.544Z",
     "contentLength": 2749,
     "locales": {
       "en-US": "DOM/About_the_Document_Object_Model"
@@ -937,19 +977,43 @@
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux/String/lastIndexOf": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-31T10:07:01-08:00",
-    "lastDump": "2013-07-16T11:43:49.910Z",
+    "lastDump": "2013-08-01T11:55:32.780Z",
     "tags": [],
-    "lastmod": "2012-12-31"
+    "lastmod": "2012-12-31",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/String/lastIndexOf"
+    },
+    "lastParsed": "2013-08-01T11:55:32.776Z",
+    "contentLength": 2519,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 3
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux/String/indexOf": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-31T10:03:44-08:00",
-    "lastDump": "2013-07-16T11:43:50.583Z",
+    "lastDump": "2013-08-01T11:55:31.418Z",
     "tags": [
       "String",
       "JavaScript"
     ],
-    "lastmod": "2012-12-31"
+    "lastmod": "2012-12-31",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/String/indexOf"
+    },
+    "lastParsed": "2013-08-01T11:55:31.413Z",
+    "contentLength": 4121,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 3
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Instructions/throw": {
     "lastEditor": "Delapouite",
@@ -1186,9 +1250,19 @@
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Instructions": {
     "lastEditor": "Findel",
     "lastUpdated": "2012-06-01T14:55:01-07:00",
-    "lastDump": "2013-07-16T11:45:06.512Z",
+    "lastDump": "2013-08-01T11:55:27.177Z",
     "tags": [],
-    "lastmod": "2012-08-14"
+    "lastmod": "2012-08-14",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:55:27.125Z",
+    "contentLength": 76,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux": {
     "lastEditor": "m@tteo78",
@@ -3163,9 +3237,19 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Fonctions/arguments": {
     "lastEditor": "daniel35310",
     "lastUpdated": "2011-11-09T19:59:52-08:00",
-    "lastDump": "2013-07-16T11:56:05.907Z",
+    "lastDump": "2013-08-01T11:50:31.032Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:50:30.837Z",
+    "contentLength": 4521,
+    "links": {
+      "301": 6,
+      "404": 0,
+      "external": 0,
+      "fr": 6,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Objets_globaux/SyntaxError/prototype": {
     "lastEditor": "m@tteo78",
@@ -3571,11 +3655,21 @@
   "https://developer.mozilla.org/fr/docs/Mozilla_embarqué/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T20:50:18-08:00",
-    "lastDump": "2013-07-16T12:00:30.290Z",
+    "lastDump": "2013-08-01T11:55:20.491Z",
     "tags": [
       "Mozilla_embarqué"
     ],
-    "lastmod": "2012-08-11"
+    "lastmod": "2012-08-11",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:55:20.408Z",
+    "contentLength": 246,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 1,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS/Tips_and_tricks/faire_des_captures_ecran": {
     "lastEditor": "GeekShadow",
@@ -3681,14 +3775,26 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Operators/instanceof": {
     "lastEditor": "Slagt",
     "lastUpdated": "2013-04-01T01:21:01-07:00",
-    "lastDump": "2013-07-16T12:01:17.332Z",
+    "lastDump": "2013-08-01T11:51:01.515Z",
     "tags": [],
-    "lastmod": "2013-04-01"
+    "lastmod": "2013-04-01",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Operators/instanceof"
+    },
+    "lastParsed": "2013-08-01T11:51:01.473Z",
+    "contentLength": 4591,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Operators/Précédence_des_opérateurs": {
     "lastEditor": "Blackhole",
     "lastUpdated": "2013-04-30T14:52:53-07:00",
-    "lastDump": "2013-07-17T11:48:53.442Z",
+    "lastDump": "2013-08-01T11:51:02.258Z",
     "tags": [
       "Fixit"
     ],
@@ -3696,19 +3802,39 @@
       "en-US": "Web/JavaScript/Reference/Operators/Operator_Precedence"
     },
     "contentLength": 3596,
-    "lastmod": "2013-04-30"
+    "lastmod": "2013-04-30",
+    "lastParsed": "2013-08-01T11:51:02.211Z",
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 31
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Global_Objects/Math": {
     "lastEditor": "guymage",
     "lastUpdated": "2013-01-29T18:13:13-08:00",
-    "lastDump": "2013-07-16T12:01:22.385Z",
+    "lastDump": "2013-08-01T11:51:09.572Z",
     "tags": [],
-    "lastmod": "2013-01-29"
+    "lastmod": "2013-01-29",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/Math"
+    },
+    "lastParsed": "2013-08-01T11:51:09.520Z",
+    "contentLength": 3555,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 19,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Global_Objects/Array": {
     "lastEditor": "ethertank",
     "lastUpdated": "2012-10-30T07:33:11-07:00",
-    "lastDump": "2013-07-16T12:01:23.649Z",
+    "lastDump": "2013-08-01T11:51:10.744Z",
     "tags": [
       "NeedsTranslation",
       "Array",
@@ -3716,34 +3842,82 @@
       "TopicStub",
       "JavaScript"
     ],
-    "lastmod": "2012-11-25"
+    "lastmod": "2012-11-25",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/Array"
+    },
+    "lastParsed": "2013-08-01T11:51:10.668Z",
+    "contentLength": 13018,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 2,
+      "fr": 0,
+      "en-US": 43
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Global_Objects/Array/indexOf": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-30T13:50:13-08:00",
-    "lastDump": "2013-07-16T12:01:24.494Z",
+    "lastDump": "2013-08-01T11:51:07.175Z",
     "tags": [
       "Array",
       "JavaScript"
     ],
-    "lastmod": "2012-12-30"
+    "lastmod": "2012-12-30",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/Array/indexOf"
+    },
+    "lastParsed": "2013-08-01T11:51:07.169Z",
+    "contentLength": 4216,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 2
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Global_Objects/Array/lastIndexOf": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-29T13:20:20-08:00",
-    "lastDump": "2013-07-16T12:01:25.259Z",
+    "lastDump": "2013-08-01T11:51:06.751Z",
     "tags": [],
-    "lastmod": "2012-12-29"
+    "lastmod": "2012-12-29",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf"
+    },
+    "lastParsed": "2013-08-01T11:51:06.744Z",
+    "contentLength": 4898,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Global_Objects/Array/splice": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2012-12-29T12:12:47-08:00",
-    "lastDump": "2013-07-16T12:01:26.448Z",
+    "lastDump": "2013-08-01T11:51:06.098Z",
     "tags": [
       "Array",
       "JavaScript"
     ],
-    "lastmod": "2012-12-29"
+    "lastmod": "2012-12-29",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Global_Objects/Array/splice"
+    },
+    "lastParsed": "2013-08-01T11:51:06.019Z",
+    "contentLength": 3357,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 1
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Reference/Operators": {
     "lastEditor": "ethertank",
@@ -4358,23 +4532,57 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Annexes/Mots_réservés": {
     "lastEditor": "SphinxKnight",
     "lastUpdated": "2013-06-07T09:14:17-07:00",
-    "lastDump": "2013-07-16T12:04:01.981Z",
+    "lastDump": "2013-08-01T11:50:32.722Z",
     "tags": [],
-    "lastmod": "2013-07-12"
+    "lastmod": "2013-07-12",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Reserved_Words"
+    },
+    "lastParsed": "2013-08-01T11:50:32.716Z",
+    "contentLength": 3009,
+    "links": {
+      "301": 1,
+      "404": 0,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Annexes/Fonctionnalités_dépréciées": {
     "lastEditor": "SphinxKnight",
     "lastUpdated": "2013-06-07T09:15:12-07:00",
-    "lastDump": "2013-07-16T12:04:02.919Z",
+    "lastDump": "2013-08-01T11:50:45.518Z",
     "tags": [],
-    "lastmod": "2013-06-07"
+    "lastmod": "2013-06-07",
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Deprecated_and_obsolete_features"
+    },
+    "lastParsed": "2013-08-01T11:50:45.449Z",
+    "contentLength": 4258,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Annexes/Annexe_-_Mots_réservés": {
     "lastEditor": "m@tteo78",
     "lastUpdated": "2011-06-30T13:45:28-07:00",
-    "lastDump": "2013-07-16T12:04:03.563Z",
+    "lastDump": "2013-08-01T11:50:47.789Z",
     "tags": [],
-    "lastmod": "2012-08-25"
+    "lastmod": "2012-08-25",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:50:47.783Z",
+    "contentLength": 72,
+    "links": {
+      "301": 1,
+      "404": 0,
+      "external": 0,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Objets_globaux/String/split": {
     "lastEditor": "Mgjbot",
@@ -5497,48 +5705,98 @@
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique/Les_problèmes_de_sécurité_sur_Internet": {
     "lastEditor": "CedricP",
     "lastUpdated": "2007-08-27T11:30:02-07:00",
-    "lastDump": "2013-07-16T12:11:40.332Z",
+    "lastDump": "2013-08-01T11:51:44.487Z",
     "tags": [
       "Sécurité"
     ],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:44.483Z",
+    "contentLength": 3930,
+    "links": {
+      "301": 1,
+      "404": 0,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique/Signatures_numériques": {
     "lastEditor": "CedricP",
     "lastUpdated": "2007-08-27T11:45:47-07:00",
-    "lastDump": "2013-07-16T12:11:41.294Z",
+    "lastDump": "2013-08-01T11:51:25.586Z",
     "tags": [
       "Sécurité"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:25.551Z",
+    "contentLength": 4226,
+    "links": {
+      "301": 0,
+      "404": 5,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique/Gestion_des_certificats": {
     "lastEditor": "CedricP",
     "lastUpdated": "2007-09-02T11:01:12-07:00",
-    "lastDump": "2013-07-16T12:11:42.323Z",
+    "lastDump": "2013-08-01T11:51:45.417Z",
     "tags": [
       "Sécurité"
     ],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:45.413Z",
+    "contentLength": 10974,
+    "links": {
+      "301": 0,
+      "404": 1,
+      "external": 1,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique/Chiffrement_et_déchiffrement": {
     "lastEditor": "CedricP",
     "lastUpdated": "2007-08-27T11:40:26-07:00",
-    "lastDump": "2013-07-16T12:11:43.351Z",
+    "lastDump": "2013-08-01T11:51:45.911Z",
     "tags": [
       "Sécurité"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:45.900Z",
+    "contentLength": 8853,
+    "links": {
+      "301": 0,
+      "404": 6,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Introduction_à_la_cryptographie_à_clef_publique/Certificats_et_authentification": {
     "lastEditor": "nterray",
     "lastUpdated": "2011-11-04T10:59:52-07:00",
-    "lastDump": "2013-07-16T12:11:44.651Z",
+    "lastDump": "2013-08-01T11:51:47.361Z",
     "tags": [
       "Sécurité",
       "Traduction_à_relire"
     ],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:47.327Z",
+    "contentLength": 39750,
+    "links": {
+      "301": 6,
+      "404": 2,
+      "external": 1,
+      "fr": 8,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/DOM/window.closed": {
     "lastEditor": "Mgjbot",
@@ -5886,22 +6144,46 @@
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/9": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-24T12:10:15-07:00",
-    "lastDump": "2013-07-16T12:12:56.322Z",
+    "lastDump": "2013-08-01T11:54:13.480Z",
     "tags": [
       "Firefox",
       "Firefox 9"
     ],
-    "lastmod": "2013-06-25"
+    "lastmod": "2013-06-25",
+    "locales": {
+      "en-US": "Mozilla/Firefox/Releases/9"
+    },
+    "lastParsed": "2013-08-01T11:54:13.423Z",
+    "contentLength": 13255,
+    "links": {
+      "301": 9,
+      "404": 0,
+      "external": 0,
+      "fr": 49,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/8": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-24T12:11:24-07:00",
-    "lastDump": "2013-07-16T12:12:56.706Z",
+    "lastDump": "2013-08-01T11:54:26.168Z",
     "tags": [
       "Firefox",
       "Firefox 8"
     ],
-    "lastmod": "2013-06-25"
+    "lastmod": "2013-06-25",
+    "locales": {
+      "en-US": "Mozilla/Firefox/Releases/8"
+    },
+    "lastParsed": "2013-08-01T11:54:26.147Z",
+    "contentLength": 13445,
+    "links": {
+      "301": 15,
+      "404": 0,
+      "external": 2,
+      "fr": 46,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Ajout_de_méthodes": {
     "lastEditor": "E.cg",
@@ -11351,20 +11633,40 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Autres_ressources": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T21:39:37-08:00",
-    "lastDump": "2013-07-16T13:21:30.453Z",
+    "lastDump": "2013-08-01T11:51:25.506Z",
     "tags": [
       "JavaScript"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:25.457Z",
+    "contentLength": 514,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 4,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Communauté": {
     "lastEditor": "Fredchat",
     "lastUpdated": "2007-01-06T20:51:35-08:00",
-    "lastDump": "2013-07-16T13:21:31.473Z",
+    "lastDump": "2013-08-01T11:51:19.228Z",
     "tags": [
       "JavaScript"
     ],
-    "lastmod": "2012-08-07"
+    "lastmod": "2012-08-07",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:51:19.138Z",
+    "contentLength": 189,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript": {
     "lastEditor": "SphinxKnight",
@@ -11387,32 +11689,80 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Guide": {
     "lastEditor": "Ame_Nomade",
     "lastUpdated": "2011-05-26T14:30:58-07:00",
-    "lastDump": "2013-07-16T13:21:35.826Z",
+    "lastDump": "2013-08-01T11:51:18.375Z",
     "tags": [
       "JavaScript"
     ],
-    "lastmod": "2013-04-30"
+    "lastmod": "2013-04-30",
+    "locales": {
+      "en-US": "Web/JavaScript/Guide"
+    },
+    "lastParsed": "2013-08-01T11:51:18.329Z",
+    "contentLength": 4804,
+    "links": {
+      "301": 132,
+      "404": 2,
+      "external": 0,
+      "fr": 134,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Same_origin_policy_for_JavaScript": {
     "lastEditor": "dwogsi",
     "lastUpdated": "2013-03-22T02:02:52-07:00",
-    "lastDump": "2013-07-16T13:28:49.398Z",
+    "lastDump": "2013-08-01T11:51:15.929Z",
     "tags": [],
-    "lastmod": "2013-03-22"
+    "lastmod": "2013-03-22",
+    "locales": {
+      "en-US": "Web/JavaScript/Same_origin_policy_for_JavaScript"
+    },
+    "lastParsed": "2013-08-01T11:51:15.878Z",
+    "contentLength": 5734,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 9,
+      "fr": 0,
+      "en-US": 19
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Structures_de_données": {
     "lastEditor": "bfn",
     "lastUpdated": "2013-01-28T10:20:27-08:00",
-    "lastDump": "2013-07-16T13:28:50.920Z",
+    "lastDump": "2013-08-01T11:51:14.275Z",
     "tags": [],
-    "lastmod": "2013-01-28"
+    "lastmod": "2013-01-28",
+    "locales": {
+      "en-US": "Web/JavaScript/Data_structures"
+    },
+    "lastParsed": "2013-08-01T11:51:14.270Z",
+    "contentLength": 8332,
+    "links": {
+      "301": 1,
+      "404": 0,
+      "external": 4,
+      "fr": 1,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Shells": {
     "lastEditor": "ziyunfei",
     "lastUpdated": "2012-03-21T02:58:57-07:00",
-    "lastDump": "2013-07-16T13:28:51.745Z",
+    "lastDump": "2013-08-01T11:51:15.237Z",
     "tags": [],
-    "lastmod": "2012-08-03"
+    "lastmod": "2012-08-03",
+    "locales": {
+      "en-US": "Web/JavaScript/Shells"
+    },
+    "lastParsed": "2013-08-01T11:51:15.117Z",
+    "contentLength": 2977,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 12,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Instructions/break": {
     "lastEditor": "SphinxKnight",
@@ -14371,9 +14721,21 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/ArrayBuffer": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-23T07:39:23-07:00",
-    "lastDump": "2013-07-16T13:57:15.926Z",
+    "lastDump": "2013-08-01T11:53:01.282Z",
     "tags": [],
-    "lastmod": "2013-06-23"
+    "lastmod": "2013-06-23",
+    "locales": {
+      "en-US": "Web/JavaScript/Typed_arrays/ArrayBuffer"
+    },
+    "lastParsed": "2013-08-01T11:53:01.276Z",
+    "contentLength": 2263,
+    "links": {
+      "301": 3,
+      "404": 0,
+      "external": 0,
+      "fr": 3,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales": {
     "lastEditor": "BenoitL",
@@ -15382,9 +15744,19 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Boolean": {
     "lastEditor": "LaBoumerde",
     "lastUpdated": "2013-02-09T13:11:22-08:00",
-    "lastDump": "2013-07-16T14:02:25.386Z",
+    "lastDump": "2013-08-01T11:53:13.707Z",
     "tags": [],
-    "lastmod": "2013-02-09"
+    "lastmod": "2013-02-09",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:53:13.628Z",
+    "contentLength": 6154,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 0,
+      "fr": 0,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Date": {
     "lastEditor": "LaBoumerde",
@@ -15480,44 +15852,104 @@
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_break": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-30T18:03:52-07:00",
-    "lastDump": "2013-07-16T14:03:39.655Z",
+    "lastDump": "2013-08-01T11:59:27.147Z",
     "tags": [],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:27.142Z",
+    "contentLength": 1231,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_continue": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-31T18:02:55-07:00",
-    "lastDump": "2013-07-16T14:03:40.638Z",
+    "lastDump": "2013-08-01T11:59:25.956Z",
     "tags": [],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:25.948Z",
+    "contentLength": 2462,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_for": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-30T18:02:52-07:00",
-    "lastDump": "2013-07-16T14:03:42.747Z",
+    "lastDump": "2013-08-01T11:59:22.633Z",
     "tags": [],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:22.627Z",
+    "contentLength": 2839,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_label": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-30T18:02:22-07:00",
-    "lastDump": "2013-07-16T14:03:43.322Z",
+    "lastDump": "2013-08-01T11:59:19.872Z",
     "tags": [],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:19.865Z",
+    "contentLength": 1093,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_while": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-30T18:01:47-07:00",
-    "lastDump": "2013-07-16T14:03:43.778Z",
+    "lastDump": "2013-08-01T11:59:06.415Z",
     "tags": [],
-    "lastmod": "2012-08-04"
+    "lastmod": "2012-08-04",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:06.410Z",
+    "contentLength": 1884,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Boucles/L'instruction_do...while": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2006-07-30T18:03:22-07:00",
-    "lastDump": "2013-07-16T14:03:44.102Z",
+    "lastDump": "2013-08-01T11:59:24.642Z",
     "tags": [],
-    "lastmod": "2012-08-05"
+    "lastmod": "2012-08-05",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:59:24.637Z",
+    "contentLength": 1168,
+    "links": {
+      "301": 0,
+      "404": 2,
+      "external": 0,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Le_principe_de_fermeture_en_JavaScript/Introduction": {
     "lastEditor": "FredB",
@@ -18865,12 +19297,24 @@
   "https://developer.mozilla.org/fr/docs/Mozilla/Firefox/Versions/7": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-24T12:12:02-07:00",
-    "lastDump": "2013-07-16T15:27:52.122Z",
+    "lastDump": "2013-08-01T11:54:26.356Z",
     "tags": [
       "Firefox 7",
       "Firefox"
     ],
-    "lastmod": "2013-06-25"
+    "lastmod": "2013-06-25",
+    "locales": {
+      "en-US": "Mozilla/Firefox/Releases/7"
+    },
+    "lastParsed": "2013-08-01T11:54:26.325Z",
+    "contentLength": 13569,
+    "links": {
+      "301": 23,
+      "404": 1,
+      "external": 8,
+      "fr": 53,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/L'interface_XSLT_JavaScript_dans_Gecko/Ressources": {
     "lastEditor": "Fredchat",
@@ -19940,9 +20384,19 @@
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Float32Array": {
     "lastEditor": "daniel35310",
     "lastUpdated": "2012-04-21T20:42:03-07:00",
-    "lastDump": "2013-07-16T15:52:38.993Z",
+    "lastDump": "2013-08-01T12:00:27.438Z",
     "tags": [],
-    "lastmod": "2012-08-09"
+    "lastmod": "2012-08-09",
+    "locales": {},
+    "lastParsed": "2013-08-01T12:00:27.387Z",
+    "contentLength": 6159,
+    "links": {
+      "301": 17,
+      "404": 0,
+      "external": 0,
+      "fr": 17,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Objets_globaux/Opérateurs": {
     "lastEditor": "Mortys",
@@ -24467,9 +24921,19 @@
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/À_propos": {
     "lastEditor": "BenoitL",
     "lastUpdated": "2007-08-11T20:30:01-07:00",
-    "lastDump": "2013-07-16T16:21:33.693Z",
+    "lastDump": "2013-08-01T11:53:32.535Z",
     "tags": [],
-    "lastmod": "2012-08-06"
+    "lastmod": "2012-08-06",
+    "locales": {},
+    "lastParsed": "2013-08-01T11:53:32.479Z",
+    "contentLength": 9199,
+    "links": {
+      "301": 0,
+      "404": 21,
+      "external": 1,
+      "fr": 2,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Écriture_d'un_masque_d'expression_rationnelle": {
     "lastEditor": "Mgjbot",
@@ -26928,18 +27392,19 @@
   "https://developer.mozilla.org/fr/docs/Extraits_de_code": {
     "lastEditor": "Chbok",
     "lastUpdated": "2008-08-23T19:20:29-07:00",
-    "lastDump": "2013-07-25T11:11:27.239Z",
+    "lastDump": "2013-08-01T11:56:21.007Z",
     "tags": [
       "Extensions"
     ],
     "lastmod": "2012-08-04",
-    "lastParsed": "2013-07-25T11:11:27.170Z",
+    "lastParsed": "2013-08-01T11:56:20.961Z",
     "contentLength": 2781,
     "locales": {
       "en-US": "Code_snippets"
     },
     "links": {
-      "404": 0,
+      "301": 21,
+      "404": 1,
       "external": 2,
       "fr": 13,
       "en-US": 0
@@ -36357,9 +36822,49 @@
     "lastDump": "2013-07-24T14:35:02.776Z"
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Instructions/for": {
-    "lastmod": "2013-07-27"
+    "lastmod": "2013-07-27",
+    "tags": [
+      "Référence",
+      "Reference",
+      "JavaScript"
+    ],
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Statements/for"
+    },
+    "lastEditor": "SphinxKnight",
+    "lastUpdated": "2013-07-27T06:45:15-07:00",
+    "lastParsed": "2013-08-01T11:50:04.087Z",
+    "contentLength": 3462,
+    "links": {
+      "301": 0,
+      "404": 7,
+      "external": 0,
+      "fr": 7,
+      "en-US": 0
+    },
+    "lastDump": "2013-08-01T11:50:04.143Z"
   },
   "https://developer.mozilla.org/fr/docs/JavaScript/Référence_JavaScript/Instructions/for_each...in": {
-    "lastmod": "2013-07-27"
+    "lastmod": "2013-07-27",
+    "tags": [
+      "Référence",
+      "Reference",
+      "JavaScript"
+    ],
+    "locales": {
+      "en-US": "Web/JavaScript/Reference/Statements/for_each...in"
+    },
+    "lastEditor": "SphinxKnight",
+    "lastUpdated": "2013-07-27T07:13:29-07:00",
+    "lastParsed": "2013-08-01T11:50:07.194Z",
+    "contentLength": 2782,
+    "links": {
+      "301": 0,
+      "404": 5,
+      "external": 1,
+      "fr": 8,
+      "en-US": 1
+    },
+    "lastDump": "2013-08-01T11:50:07.247Z"
   }
 }
