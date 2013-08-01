@@ -18,7 +18,7 @@ var parserOptions = {
 	tags: true,
 	locales: true,
 	links: true,
-	'404': true
+	brokenLinks: true
 };
 
 // only parse db and sitemap at server launch
@@ -122,7 +122,8 @@ function parseLinks($) {
 		external: 0,
 		fr: 0,
 		'en-US': 0,
-		'404': 0
+		'404': 0,
+		'301': 0
 	};
 	if ($('#wikiArticle a').length) {
 		$('#wikiArticle a').each(function() {
@@ -144,7 +145,7 @@ function parseLinks($) {
 	return links;
 }
 
-function parse404($, uri) {
+function parseBrokenLinks($, uri) {
 	var promises = [];
 	if ($('#wikiArticle a').length) {
 		$('#wikiArticle a').each(function() {
@@ -194,16 +195,13 @@ function parseBody(body, uri) {
 		});
 	}
 
-	if (parserOptions['404']) {
-		var promises = parse404($, uri);
+	if (parserOptions.brokenLinks) {
+		var promises = parseBrokenLinks($, uri);
 		Q.all(promises).then(function(responses) {
 			responses.forEach(function(res) {
-				if (res.status === 404) {
-					console.log('404', res.nodeResponse.req.path);
-					db[uri].links['404']++;
-				}
-				if (res.status === 301) {
-					console.log('301', res.nodeResponse.req.path);
+				if (res.status === 404 || res.status === 301) {
+					console.log(res.status, res.nodeResponse.req.path);
+					db[uri].links[res.status]++;
 				}
 			});
 			save();

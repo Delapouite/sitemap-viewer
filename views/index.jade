@@ -26,8 +26,8 @@ html
 						input(type='checkbox', name='parse-links', checked=parserOptions.links)
 						| Links
 					label
-						input(type='checkbox', name='parse-404', checked=parserOptions['404'])
-						| 404
+						input(type='checkbox', name='parse-brokenLinks', checked=parserOptions.brokenLinks)
+						| Broken links
 			tr
 				th Sitemap lastmod (MDN)
 				th Last updated (MDN)
@@ -78,6 +78,8 @@ html
 									span en-US: #{savedUrl.links['en-US']}
 								if savedUrl.links['404'] 
 									span.d05 404: #{savedUrl.links['404']}
+								if savedUrl.links['301'] 
+									span.d10 301: #{savedUrl.links['301']}
 						td(class=savedUrl.contentLength && savedUrl.contentLength < 500 ? 'd05' : '') #{savedUrl.contentLength}
 						td #{savedUrl.lastEditor}
 		ul#tags

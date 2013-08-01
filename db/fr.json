@@ -293,12 +293,13 @@
       "DOM"
     ],
     "lastmod": "2012-08-03",
-    "lastParsed": "2013-07-24T13:14:36.394Z",
+    "lastParsed": "2013-08-01T11:41:46.832Z",
     "contentLength": 2749,
     "locales": {
       "en-US": "DOM/About_the_Document_Object_Model"
     },
     "links": {
+      "301": 7,
       "404": 0,
       "external": 4,
       "fr": 0,
