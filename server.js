@@ -1,17 +1,16 @@
-var fs = require('fs');
-var path = require('path');
-
-var request = require('request');
 var cheerio = require('cheerio');
-var jsonfile = require('jsonfile');
-var xml2json = require('xml2json');
 var express = require('express');
+var fs = require('fs');
+var jsonfile = require('jsonfile');
 var mkdirp = require('mkdirp');
-var URI = require('URIjs');
 var moment = require('moment');
-var _ = require('lodash');
+var path = require('path');
 var Q = require('q');
 var QHTTP = require('q-io/http');
+var request = require('request');
+var URI = require('URIjs');
+var xml2json = require('xml2json');
+var _ = require('lodash');
 
 const dbFileName = './db/fr.json';
 const MDN = 'https://developer.mozilla.org';
@@ -22,7 +21,9 @@ var parserOptions = {
 	'404': true
 };
 
+// only parse db and sitemap at server launch
 var db = jsonfile.readFileSync(dbFileName);
+var sitemap = parseSitemap(fs.readFileSync('./public/sitemaps/fr.xml', 'utf-8'));
 var app = express();
 
 function sortByValue(object) {
@@ -46,7 +47,7 @@ function getTags(db) {
 }
 
 function getUrls(sitemap) {
-		// order paths and urls by alpha
+	// order paths and urls by alpha
 	var urls = {};
 	sitemap.urlset.url.forEach(function(url) {
 		var uri = new URI(url.loc);
@@ -86,6 +87,17 @@ function dump(uriPath) {
 			}
 		});
 		parseBody(body, uri);
+	});
+}
+
+function parseSitemap(XMLSitemap) {
+	return xml2json.toJson(XMLSitemap, {
+		object: true,
+		reversible: false,
+		coerce: true,
+		sanitize: false,
+		trim: true,
+		arrayNotation: false
 	});
 }
 
@@ -212,29 +224,17 @@ app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
-	fs.readFile('./public/sitemaps/fr.xml', 'utf-8', function(err, sitemap) {
-		sitemap = xml2json.toJson(sitemap, {
-			object: true,
-			reversible: false,
-			coerce: true,
-			sanitize: false,
-			trim: true,
-			arrayNotation: false
-		});
-
-		var urls = getUrls(sitemap);
-
-		res.render('index', {
-			URI: URI,
-			_ : _,
-			MDN: MDN,
-			db: db,
-			tags: getTags(db),
-			sitemap: sitemap,
-			urls: urls,
-			paths: _.sortBy(Object.keys(urls)),
-			displayDate: displayDate
-		});
+	var urls = getUrls(sitemap);
+	res.render('index', {
+		URI: URI,
+		_ : _,
+		MDN: MDN,
+		db: db,
+		tags: getTags(db),
+		sitemap: sitemap,
+		urls: urls,
+		paths: _.sortBy(Object.keys(urls)),
+		displayDate: displayDate
 	});
 });
 
@@ -248,8 +248,9 @@ app.get('/dump/sitemap', function(req, res) {
 	request({uri: uri}, function(error, response, body) {
 		fs.writeFile(__dirname + '/public/sitemaps/' + req.query.locale + '.xml', body, function(err) {
 			if (err) {
-				console.log(err);
+				return console.log(err);
 			}
+			sitemap = parseSitemap(body);
 		});
 	});
 	res.send(200);
