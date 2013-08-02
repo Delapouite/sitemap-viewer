@@ -11,15 +11,19 @@ document.body.addEventListener('click', function(evt) {
 	}
 });
 
+function sendXHR(url) {
+	var xhr = new XMLHttpRequest();
+	xhr.open('GET', url);
+	xhr.send(null);
+}
+
 function remoteAction(evt, action) {
 	if(!evt.target.classList.contains(action)) {
 		return;
 	}
 	evt.target.style.color = 'green';
 	evt.target.textContent = 'today';
-	var xhr = new XMLHttpRequest();
-	xhr.open('GET', '/' + action + '?uriPath=' + evt.target.dataset.uriPath);
-	xhr.send(null);
+	sendXHR('/' + action + '?uriPath=' + evt.target.dataset.uriPath);
 }
 
 // dump buttons
@@ -35,8 +39,6 @@ document.body.addEventListener('click', function(evt) {
 // parse checkboxes
 document.getElementById('parserOptions').addEventListener('click', function(evt) {
 	if(evt.target.tagName.toLowerCase() === 'input') {
-		var xhr = new XMLHttpRequest();
-		xhr.open('GET', '/options?option=' + evt.target.name.substr(6) + '&enabled=' + evt.target.checked);
-		xhr.send(null);
+		sendXHR('GET', '/options?option=' + evt.target.name.substr(6) + '&enabled=' + evt.target.checked);
 	}
 });
