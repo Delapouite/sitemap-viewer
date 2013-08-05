@@ -66,17 +66,17 @@ function getUrls(sitemap) {
 	return urls;
 }
 
-function dump(uriPath) {
+function dump(uriPath, next) {
 	var uri = MDN + uriPath;
 	request({uri: uri}, function(error, response, body) {
 		// local save
 		mkdirp(__dirname + '/db' + path.dirname(uriPath), function (err) {
 			if (err) {
-				console.error(err);
+				console.error('mkdirp', err);
 			} else {
 				fs.writeFile(__dirname + '/db' + uriPath + '.html', body, function(err) {
 					if (err) {
-						console.log(err);
+						console.error('dump write', err);
 					} else {
 						if (!db[uri]) {
 							db[uri] = {};
@@ -86,7 +86,7 @@ function dump(uriPath) {
 				});
 			}
 		});
-		parseBody(body, uri);
+		parseBody(body, uri, next);
 	});
 }
 
@@ -165,7 +165,7 @@ function parseBrokenLinks($, uri) {
 	return promises;
 }
 
-function parseBody(body, uri) {
+function parseBody(body, uri, next) {
 	var $ = cheerio.load(body);
 
 	// meta
@@ -175,7 +175,7 @@ function parseBody(body, uri) {
 	if (parserOptions.locales) {
 		db[uri].locales = parseLocales($);
 	}
-	
+
 	// dates
 	db[uri].lastEditor = $('#doc-contributors a').last().text();
 	db[uri].lastUpdated = $('#doc-contributors time').first().attr('datetime');
@@ -188,10 +188,11 @@ function parseBody(body, uri) {
 	if (parserOptions.links) {
 		db[uri].links = parseLinks($);
 	}
-	
-	function save() {
+
+	function save(uri) {
 		jsonfile.writeFile(dbFileName, db, function(err) {
-			if (err) console.log(err);
+			if (err) console.error('json write', err);
+			next(db[uri]);
 		});
 	}
 
@@ -204,12 +205,12 @@ function parseBody(body, uri) {
 					db[uri].links[res.status]++;
 				}
 			});
-			save();
+			save(uri);
 		}, function() {
-			console.log('Q error', arguments);
+			console.error('Q', arguments);
 		});
 	} else {
-		save();
+		save(uri);
 	}
 }
 
@@ -238,8 +239,10 @@ app.get('/', function(req, res) {
 });
 
 app.get('/dump', function(req, res) {
-	dump(path.normalize(req.query.uriPath));
-	res.send(200);
+	var next = function(saved) {
+		res.send(saved);
+	};
+	dump(path.normalize(req.query.uriPath), next);
 });
 
 app.get('/dump/sitemap', function(req, res) {
@@ -247,7 +250,7 @@ app.get('/dump/sitemap', function(req, res) {
 	request({uri: uri}, function(error, response, body) {
 		fs.writeFile(__dirname + '/public/sitemaps/' + req.query.locale + '.xml', body, function(err) {
 			if (err) {
-				return console.log(err);
+				return console.error('dump sitemap', err);
 			}
 			sitemap = parseSitemap(body);
 		});
@@ -256,18 +259,20 @@ app.get('/dump/sitemap', function(req, res) {
 });
 
 app.get('/parse', function(req, res) {
-	var uriPath = path.normalize(req.query.uriPath);
+	var uriPath = path.normalize(req.query.uriPath),
+		next = function(saved) {
+			res.send(saved);
+		}
 	fs.readFile(__dirname + '/db' + uriPath + '.html', 'utf-8', function(err, data) {
 		if (err) {
-			console.log(err);
+			console.error('parse read', err);
 			if (err.code === 'ENOENT') {
-				dump(uriPath);
+				dump(uriPath, next);
 			}
 		} else {
-			parseBody(data, MDN + uriPath);
+			parseBody(data, MDN + uriPath, next);
 		}
 	});
-	res.send(200);
 });
 
 app.get('/options', function(req, res) {

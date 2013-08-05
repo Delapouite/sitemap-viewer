@@ -11,19 +11,32 @@ document.body.addEventListener('click', function(evt) {
 	}
 });
 
-function sendXHR(url) {
+function sendXHR(url, next) {
 	var xhr = new XMLHttpRequest();
+	xhr.onload = function(evt) {
+		if (next) {
+			next(JSON.parse(this.responseText));
+		}
+	};
 	xhr.open('GET', url);
 	xhr.send(null);
 }
 
 function remoteAction(evt, action) {
-	if(!evt.target.classList.contains(action)) {
+	var target = evt.target;
+	if(!target.classList.contains(action)) {
 		return;
 	}
-	evt.target.style.color = 'green';
-	evt.target.textContent = 'today';
-	sendXHR('/' + action + '?uriPath=' + evt.target.dataset.uriPath);
+	target.style.color = 'green';
+	target.textContent = 'dumping...';
+	// update line
+	sendXHR('/' + action + '?uriPath=' + target.dataset.uriPath, function(res) {
+		var tr = target.parentNode.parentNode;
+		tr.style.backgroundColor = 'rgb(252, 247, 215)';
+		// dump button
+		target.style.color = 'green';
+		target.textContent = 'today';
+	});
 }
 
 // dump buttons
