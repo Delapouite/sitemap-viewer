@@ -40,23 +40,23 @@
     }
   },
   "https://developer.mozilla.org/fr/docs/Écriture_de_code_localisable": {
-    "lastEditor": "Goofy",
-    "lastUpdated": "2011-05-13T17:19:13-07:00",
-    "lastDump": "2013-08-02T11:26:20.896Z",
+    "lastEditor": "Delapouite",
+    "lastUpdated": "2013-08-02T04:25:52-07:00",
+    "lastDump": "2013-08-05T11:11:51.868Z",
     "tags": [
       "Localisation"
     ],
     "lastmod": "2013-08-02",
-    "lastParsed": "2013-08-02T11:26:20.892Z",
-    "contentLength": 4042,
+    "lastParsed": "2013-08-05T11:11:51.798Z",
+    "contentLength": 4090,
     "locales": {
       "en-US": "Writing_localizable_code"
     },
     "links": {
       "301": 0,
-      "404": 1,
+      "404": 0,
       "external": 1,
-      "fr": 1,
+      "fr": 0,
       "en-US": 0
     }
   },
@@ -368,12 +368,12 @@
   "https://developer.mozilla.org/fr/docs/Évènements_de_glisser-déposer": {
     "lastEditor": "Mgjbot",
     "lastUpdated": "2008-04-10T11:01:02-07:00",
-    "lastDump": "2013-08-02T11:19:36.086Z",
+    "lastDump": "2013-08-05T11:11:58.975Z",
     "tags": [
       "Firefox 3"
     ],
     "lastmod": "2012-08-04",
-    "lastParsed": "2013-08-02T11:19:36.081Z",
+    "lastParsed": "2013-08-05T11:11:58.968Z",
     "contentLength": 1011,
     "locales": {
       "en-US": "Drag_and_drop_events"
@@ -2008,13 +2008,13 @@
   "https://developer.mozilla.org/fr/docs/Caractères_internationaux_dans_du_JavaScript_XUL": {
     "lastEditor": "Elchi3",
     "lastUpdated": "2010-02-25T17:10:16-08:00",
-    "lastDump": "2013-08-05T08:16:21.867Z",
+    "lastDump": "2013-08-05T11:10:34.450Z",
     "tags": [
       "Internationalisation",
       "JavaScript"
     ],
     "lastmod": "2013-08-01",
-    "lastParsed": "2013-08-05T08:16:21.804Z",
+    "lastParsed": "2013-08-05T11:10:34.399Z",
     "contentLength": 2602,
     "locales": {
       "en-US": "International_characters_in_XUL_JavaScript"
@@ -6081,21 +6081,22 @@
     }
   },
   "https://developer.mozilla.org/fr/docs/CSS/CSS_values_syntax": {
-    "lastEditor": "tregagnon",
-    "lastUpdated": "2013-07-29T04:59:38-07:00",
-    "lastDump": "2013-07-30T10:22:20.736Z",
+    "lastEditor": "FredB",
+    "lastUpdated": "2013-08-03T08:24:52-07:00",
+    "lastDump": "2013-08-05T11:13:39.397Z",
     "tags": [
       "css",
-      "Référence_CSS"
+      "Référence CSS"
     ],
     "locales": {
       "en-US": "Web/CSS/CSS_values_syntax"
     },
     "contentLength": 28549,
     "lastmod": "2013-08-03",
-    "lastParsed": "2013-07-30T10:22:20.680Z",
+    "lastParsed": "2013-08-05T11:13:39.095Z",
     "links": {
-      "404": 0,
+      "301": 698,
+      "404": 3,
       "external": 0,
       "fr": 1081,
       "en-US": 82
@@ -7661,20 +7662,21 @@
     }
   },
   "https://developer.mozilla.org/fr/docs/CSS/@viewport": {
-    "lastEditor": "Delapouite",
-    "lastUpdated": "2013-07-29T04:24:15-07:00",
-    "lastDump": "2013-07-29T11:24:34.560Z",
+    "lastEditor": "FredB",
+    "lastUpdated": "2013-08-02T07:05:50-07:00",
+    "lastDump": "2013-08-05T11:13:32.862Z",
     "tags": [
       "css",
-      "experimental",
+      "Référence CSS",
       "responsive",
-      "Référence_CSS"
+      "experimental"
     ],
     "lastmod": "2013-08-02",
-    "lastParsed": "2013-07-29T11:24:34.517Z",
+    "lastParsed": "2013-08-05T11:13:32.858Z",
     "contentLength": 609,
     "locales": {},
     "links": {
+      "301": 0,
       "404": 0,
       "external": 1,
       "fr": 1,
@@ -15620,19 +15622,20 @@
   },
   "https://developer.mozilla.org/fr/docs/CSS/Comments": {
     "lastEditor": "FredB",
-    "lastUpdated": "2012-10-04T11:59:02-07:00",
-    "lastDump": "2013-07-30T10:22:47.948Z",
+    "lastUpdated": "2013-08-03T07:56:03-07:00",
+    "lastDump": "2013-08-05T11:13:36.835Z",
     "tags": [
       "css",
-      "Référence_CSS"
+      "Référence CSS"
     ],
     "lastmod": "2013-08-03",
-    "lastParsed": "2013-07-30T10:22:47.908Z",
+    "lastParsed": "2013-08-05T11:13:36.829Z",
     "contentLength": 1265,
     "locales": {
       "en-US": "Web/CSS/Comments"
     },
     "links": {
+      "301": 1,
       "404": 0,
       "external": 2,
       "fr": 2,
@@ -22182,25 +22185,49 @@
   "https://developer.mozilla.org/fr/docs/Web/HTML/Element/tbody": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-10T13:12:30-07:00",
-    "lastDump": "2013-07-16T16:05:18.953Z",
+    "lastDump": "2013-08-05T11:14:45.179Z",
     "tags": [
       "HTML:Élément",
       "HTML:Element",
       "HTML"
     ],
-    "lastmod": "2013-06-10"
+    "lastmod": "2013-06-10",
+    "locales": {
+      "en-US": "Web/HTML/Element/tbody"
+    },
+    "lastParsed": "2013-08-05T11:14:44.900Z",
+    "contentLength": 8331,
+    "links": {
+      "301": 4,
+      "404": 1,
+      "external": 4,
+      "fr": 79,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/Web/HTML/Element/table": {
     "lastEditor": "tregagnon",
     "lastUpdated": "2013-06-10T13:10:21-07:00",
-    "lastDump": "2013-07-16T16:05:22.206Z",
+    "lastDump": "2013-08-05T11:14:45.179Z",
     "tags": [
       "Tableau",
       "HTML:Élément",
       "HTML:Element",
       "HTML"
     ],
-    "lastmod": "2013-06-10"
+    "lastmod": "2013-06-10",
+    "locales": {
+      "en-US": "Web/HTML/Element/table"
+    },
+    "lastParsed": "2013-08-05T11:14:45.130Z",
+    "contentLength": 12890,
+    "links": {
+      "301": 0,
+      "404": 0,
+      "external": 3,
+      "fr": 110,
+      "en-US": 0
+    }
   },
   "https://developer.mozilla.org/fr/docs/XUL/Méthodes": {
     "lastEditor": "lmorchard",
@@ -27390,19 +27417,20 @@
   },
   "https://developer.mozilla.org/fr/docs/CSS/Modèle_de_boîte": {
     "lastEditor": "FredB",
-    "lastUpdated": "2013-02-13T09:31:27-08:00",
-    "lastDump": "2013-07-30T11:53:51.633Z",
+    "lastUpdated": "2013-08-02T07:19:28-07:00",
+    "lastDump": "2013-08-05T11:13:39.750Z",
     "tags": [
       "css",
-      "Référence_CSS"
+      "Référence CSS"
     ],
     "lastmod": "2013-08-02",
     "locales": {
       "en-US": "Web/CSS/box_model"
     },
-    "lastParsed": "2013-07-30T11:53:51.610Z",
+    "lastParsed": "2013-08-05T11:13:39.745Z",
     "contentLength": 1758,
     "links": {
+      "301": 1,
       "404": 0,
       "external": 3,
       "fr": 4,

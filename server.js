@@ -13,6 +13,7 @@ var xml2json = require('xml2json');
 var _ = require('lodash');
 
 const dbFileName = './db/fr.json';
+const errorsDbFileName = './db/errors.fr.json';
 const MDN = 'https://developer.mozilla.org';
 var parserOptions = {
 	tags: true,
@@ -23,6 +24,7 @@ var parserOptions = {
 
 // only parse db and sitemap at server launch
 var db = jsonfile.readFileSync(dbFileName);
+var errorsDb = jsonfile.readFileSync(errorsDbFileName);
 var sitemap = parseSitemap(fs.readFileSync('./public/sitemaps/fr.xml', 'utf-8'));
 var app = express();
 
@@ -194,15 +196,20 @@ function parseBody(body, uri, next) {
 			if (err) console.error('json write', err);
 			next(db[uri]);
 		});
+		jsonfile.writeFile(errorsDbFileName, errorsDb, function(err) {
+			if (err) console.error('json write', err);
+		});
 	}
 
 	if (parserOptions.brokenLinks) {
 		var promises = parseBrokenLinks($, uri);
 		Q.all(promises).then(function(responses) {
+			errorsDb[uri] = {404: [], 301: []};
 			responses.forEach(function(res) {
 				if (res.status === 404 || res.status === 301) {
 					console.log(res.status, res.nodeResponse.req.path);
 					db[uri].links[res.status]++;
+					errorsDb[uri][res.status].push(res.nodeResponse.req.path);
 				}
 			});
 			save(uri);
