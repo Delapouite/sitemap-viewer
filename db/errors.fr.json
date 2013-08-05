@@ -763,5 +763,444 @@
   "https://developer.mozilla.org/fr/docs/Web/HTML/Element/table": {
     "301": [],
     "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/persona/Browser_compatibility": {
+    "301": [],
+    "404": [
+      "/fr/docs/Web/API/Storage"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/persona/branding": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XULRunner/Déploiement_de_XULRunner_1.8": {
+    "301": [],
+    "404": [
+      "/fr/docs/XULRunner/fr/XULRunner"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/XULRunner/Community": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XULRunner/Ce_qu'offre_XULRunner": {
+    "301": [
+      "/fr/XULRunner",
+      "/fr/XPCOM",
+      "/fr/XBL",
+      "/fr/XUL",
+      "/fr/SVG",
+      "/fr/XSLT",
+      "/fr/XMLHttpRequest",
+      "/fr/DOMParser",
+      "/fr/Storage",
+      "/fr/JavaXPCOM",
+      "/fr/PyXPCOM"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/decrease": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/increase": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/click": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/blur": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/decreasePage": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/doCommand": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/focus": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/getElementsByAttribute": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/getRowCount": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/hasUserValue": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Méthodes/hidePopup": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Propriétés/selType": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Guide_des_popups/Panels": {
+    "301": [],
+    "404": [
+      "/fr/docs/Firefox%203%20pour%20les%20développeurs",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/Positionnement",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/Menus_contextuels",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/Ouverture_et_fermeture"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Guide_des_popups/Ouverture_et_fermeture": {
+    "301": [],
+    "404": [
+      "/fr/docs/Firefox%203%20pour%20les%20développeurs",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/%c3%89v%c3%a8nements_des_popups",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/Positionnement",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/D%c3%a9placement_et_redimensionnement",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/%c3%89v%c3%a8nements_des_popups",
+      "/fr/docs/XUL/Guide_des_popups/fr/XUL/Guide_des_popups/%c3%89v%c3%a8nements_des_popups"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/seltype": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/pageincrement": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web_Development/Mobile": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/listing": {
+    "301": [
+      "/fr/docs/DOM/HTMLElement"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/blink": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/audio": {
+    "301": [
+      "/fr/docs/HTML/HTML5",
+      "/fr/docs/HTML/Cat%C3%A9gorie_de_contenu",
+      "/fr/docs/HTML/Cat%C3%A9gorie_de_contenu",
+      "/fr/docs/HTML/Cat%C3%A9gorie_de_contenu",
+      "/fr/docs/HTML/Cat%C3%A9gorie_de_contenu",
+      "/fr/docs/DOM/HTMLAudioElement",
+      "/fr/docs/HTML/Global_attributes",
+      "/fr/docs/DOM/TimeRanges",
+      "/fr/docs/HTML/formats_media_support",
+      "/fr/docs/HTML/Element/Video",
+      "/fr/docs/Utilisation_d%27audio_et_video_dans_Firefox"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/Select": {
+    "301": [
+      "/fr/docs/HTML/HTML5"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/navigator.id": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Mon_premier_formulaire_HTML": {
+    "301": [
+      "/fr/docs/HTML/Introduction",
+      "/fr/docs/HTML/Formulaires/Comment_structurer_un_formulaire_HTML",
+      "/fr/docs/HTML/Formulaires/Les_blocs_de_formulaires_natifs",
+      "/fr/docs/HTML/Formulaires/Apparence_des_formulaires_HTML",
+      "/fr/docs/HTML/Formulaires"
+    ],
+    "404": [
+      "/fr/docs/HTML/Formulaires/Validation_de_formulaires",
+      "/fr/docs/HTML/Formulaires/Envoyer_et_extraire_les_données_des_formulaires"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/Blob": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/BatteryManager": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AudioProcessingEvent": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AudioParam": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AudioBufferSourceNode": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AudioContext": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AudioBuffer": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/API/AnimationEvent": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/User:ethertank/Test_2": {
+    "301": [
+      "/fr/docs//Web/HTML/HTML5",
+      "/fr/docs/Utilisation_d%27audio_et_video_dans_Firefox",
+      "/fr/docs//Web/HTML/Canvas",
+      "/fr/docs/HTML/HTML5/HTML5_Thematic_Classification"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/User:BenoitL/Liste_de_redirections_externes": {
+    "301": [],
+    "404": [
+      "/fr/docs/User:BenoitL/fr/W3C_DOM_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_1_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_HTML_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Core_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Style_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Events_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Traversal_and_Range_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Views_(externe)",
+      "/fr/docs/User:BenoitL/fr/Scriptable_Objects_Reference_(XULPlanet)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_1_en_fran%c3%a7ais_(XMLfr)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_HTML_en_fran%c3%a7ais_(YoYoDesign)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Core_en_fran%c3%a7ais_(YoYoDesign)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Style_en_fran%c3%a7ais_(YoYoDesign)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Events_en_fran%c3%a7ais_(YoYoDesign)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Traversal_and_Range_en_fran%c3%a7ais_(YoYoDesign)_(externe)",
+      "/fr/docs/User:BenoitL/fr/DOM_Level_2_Views_en_fran%c3%a7ais_(YoYoDesign)_(externe)"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Détails_sur_les_vues_d'arbres": {
+    "301": [
+      "/fr/Tutoriel_XUL/Styler_un_arbre"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Tutoriel_XUL/Barre_d'outils": {
+    "301": [
+      "/fr/docs/Tutoriel_XUL:Barres_de_défilement",
+      "/fr/docs/Tutoriel_XUL:Barres_de_menus_simples"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Thèmes/Communauté": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Thunderbird/Autoconfiguration": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Sécurité/HTTP_Strict_Transport_Security": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Standards_du_Web/Communauté": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/SpiderMonkey/Communauté": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Référence_de_JavaScript_1.5_Core/Objets_globaux/Date/valueOf": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/Internationalisation": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/Libraries_and_plugins": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/Considerations_de_securite": {
+    "301": [
+      "/fr/docs/Web/API/element.onclick"
+    ],
+    "404": [
+      "/fr/docs/Web/API/element.addEventListener"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/API_de_verification": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/Quick_Setup": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/Pourquoi_Persona": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Persona/vue_densemble_du_protocole": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Outils/Vue_adaptative": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/@media": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/@import": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/CSS/fr/CSS/@media"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/Sélecteurs_de_classe": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/CSS/Sélecteurs_d%27attributs"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/Sélecteurs_de_type": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/toString": {
+    "301": [
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Array/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Boolean/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Date/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Function/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/JavaArray/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Number/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/Object/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/RegExp/toString",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/String/toString"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/toSource": {
+    "301": [],
+    "404": [
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Array/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Boolean/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Date/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Function/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Number/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/Object/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/RegExp/toSource",
+      "/fr/Référence_de_JavaScript_1.5_Core/Objets_globaux/String/toSource"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Système_de_préférences": {
+    "301": [
+      "/fr/docs/fr/XUL",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/Premiers_pas",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/Exemples",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/prefwindow",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/prefpane",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/preferences",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/preference",
+      "/fr/docs/fr/Syst%c3%a8me_de_pr%c3%a9f%c3%a9rences/Nouveaux_attributs"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Nouveautés_dans_JavaScript_1.7": {
+    "301": [
+      "/fr/docs/fr/Nouveaut%c3%a9s_dans_JavaScript_1.6",
+      "/fr/docs/fr/Firefox_2",
+      "/fr/docs/fr/Introduction_au_shell_JavaScript",
+      "/fr/docs/fr/Guide_JavaScript_1.5/Instructions_de_manipulation_d%27objets",
+      "/fr/docs/fr/Guide_JavaScript_1.5/Cr%c3%a9ation_d%27objets/D%c3%a9finition_d%27accesseurs_et_de_mutateurs",
+      "/fr/docs/fr/R%c3%a9f%c3%a9rence_de_JavaScript_1.5_Core/Objets_globaux/RegExp/exec"
+    ],
+    "404": [
+      "/fr/docs/Firefox%202%20pour%20les%20développeurs"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Comment_créer_un_arbre_DOM": {
+    "301": [
+      "/fr/docs/fr/Tutoriel_XUL/Document_Object_Model",
+      "/fr/docs/fr/XMLHttpRequest",
+      "/fr/docs/fr/XSLT",
+      "/fr/docs/fr/XLink"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Compare-locales": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/RSS/Éléments": {
+    "301": [],
+    "404": [
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/author",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/category",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/channel",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/cloud",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/comments",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/copyright",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/description",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/docs",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/enclosure",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/generator",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/guid",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/image",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/item",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/language",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/link",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/rating",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/source",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/textinput",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/title",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/ttl",
+      "/fr/docs/RSS/fr/RSS/%c3%89l%c3%a9ments/url"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/Précis_CSS_2": {
+    "301": [
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Tout_en_un",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/S%c3%a9lecteurs",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Mod%c3%a8le_de_bo%c3%aete",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Mod%c3%a8le_de_formatage_visuel",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/D%c3%a9tails_de_formatage_visuel",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Effets_visuels",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Listes",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Couleurs_et_arri%c3%a8re-plans",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Polices",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Texte",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Tableaux",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Interface_utilisateur",
+      "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Unit%c3%a9s"
+    ],
+    "404": []
   }
 }

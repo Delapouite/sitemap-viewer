@@ -148,13 +148,19 @@ function parseLinks($) {
 }
 
 function parseBrokenLinks($, uri) {
-	var promises = [];
+	var promises = [],
+		hrefs = {};
 	if ($('#wikiArticle a').length) {
 		$('#wikiArticle a').each(function() {
 			var href = $(this).attr('href');
 			if (!href) {
 				return;
 			}
+			// only once
+			if (hrefs[href]) {
+				return;
+			}
+			hrefs[href] = true;
 			if (href.substring(0, 3) === '/fr') {
 				promises.push(QHTTP.request(MDN + href));
 			}
