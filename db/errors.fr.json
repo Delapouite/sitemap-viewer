@@ -1202,5 +1202,445 @@
       "/fr/docs/fr/Pr%c3%a9cis_CSS_2/Unit%c3%a9s"
     ],
     "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-alias": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-appearance": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/XUL",
+      "/fr/docs/CSS/fr/XBL"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-background-inline-policy": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/docs/CSS/-moz-background-clip"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/@document": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/Guide_JavaScript_1.5/Expressions_rationnelles",
+      "/fr/Firefox_1.5_pour_les_développeurs"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/quotes": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/docs/CSS/Valeur_initiale",
+      "/fr/docs/CSS/H%c3%a9ritage",
+      "/fr/docs/CSS/Valeur_calcul%c3%a9e"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/proprietes_css_animees": {
+    "301": [
+      "/fr/docs/CSS/length",
+      "/fr/docs/CSS/percentage",
+      "/fr/docs/CSS/color_value",
+      "/fr/docs/CSS/number",
+      "/fr/docs/CSS/integer",
+      "/fr/docs/CSS/break-before",
+      "/fr/docs/CSS/break-after",
+      "/fr/docs/CSS/overflow-wrap",
+      "/fr/docs/CSS/align-content",
+      "/fr/docs/CSS/align-items",
+      "/fr/docs/CSS/align-self",
+      "/fr/docs/CSS/flex-basis",
+      "/fr/docs/CSS/flex-direction",
+      "/fr/docs/CSS/flex-flow",
+      "/fr/docs/CSS/flex-grow",
+      "/fr/docs/CSS/flex-shrink",
+      "/fr/docs/CSS/flex-wrap",
+      "/fr/docs/CSS/justify-content",
+      "/fr/docs/CSS/order",
+      "/fr/docs/CSS/border-image-outset",
+      "/fr/docs/CSS/border-image-repeat",
+      "/fr/docs/CSS/border-image-slice",
+      "/fr/docs/CSS/box-sizing",
+      "/fr/docs/CSS/counter-reset",
+      "/fr/docs/CSS/page-break-after",
+      "/fr/docs/CSS/page-break-before",
+      "/fr/docs/CSS/page-break-inside",
+      "/fr/docs/CSS/shape"
+    ],
+    "404": [
+      "/fr/docs/CSS/break-inside",
+      "/fr/docs/CSS/text-decoration-skip",
+      "/fr/docs/CSS/box-decoration-break"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/z-index": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/docs/CSS/Valeur_initiale",
+      "/fr/docs/CSS/H%c3%a9ritage",
+      "/fr/docs/CSS/Valeur_calcul%c3%a9e",
+      "/fr/CSS/Comprendre_z-index"
+    ],
+    "404": [
+      "/fr/docs/CSS/fr/CSS/inherit",
+      "/fr/docs/CSS/fr/Gecko",
+      "/fr/docs/CSS/fr/Firefox_3_pour_les_d%c3%a9veloppeurs"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Expressions_et_opérateurs": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Expressions_rationnelles": {
+    "301": [
+      "/fr/docs/Guide_JavaScript_1.5:Expressions_et_opérateurs",
+      "/fr/docs/Guide_JavaScript_1.5:Instructions"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Fonctions": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Instructions": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Création_d'objets/Utilisation_de_this_pour_référencer_un_objet": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/Travailler_avec_les_expressions_rationnelles/Exemples_d'expressions_rationnelles": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/JavaScript_Guide/À_propos/Caractéristiques_du_langage": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Mozilla/Bugzilla": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Mozilla/Firefox_OS": {
+    "301": [
+      "/fr/docs/HTML",
+      "/fr/docs/Mobile"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/data": {
+    "301": [
+      "/fr/docs/HTML/Catégorie_de_contenu",
+      "/fr/docs/HTML/Catégorie_de_contenu",
+      "/fr/docs/HTML/Cat%C3%A9gorie_de_contenu",
+      "/fr/docs/HTML/Global_attributes"
+    ],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/Web/HTML/Element/main": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/checked": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/dir": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/increment": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/max": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/min": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/sizemode": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/sortDirection": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/windowtype": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Attributs/width": {
+    "301": [],
+    "404": [
+      "/fr/docs/XUL/Attributs/fr/XUL/treecol"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/XUL/Propriétés/defaultValue": {
+    "301": [],
+    "404": []
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-binding": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/XBL",
+      "/fr/DOM"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-border-bottom-colors": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-border-left-colors": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/CSS/-moz-border-bottom-colors"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-border-right-colors": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-border-top-colors": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-align": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/CSS/display"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-direction": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-flex": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-orient": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/horizontal",
+      "/fr/docs/CSS/vertical"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-pack": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-box-sizing": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-cell": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-context-menu": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-copy": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-grab": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-grabbing": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-image-region": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/:-moz-tree-checkbox"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-margin-end": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-margin-start": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/docs/CSS/-moz-border-radius"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-bottomleft": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-bottomright": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-topleft": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-outline-radius-topright": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-padding-end": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/CSS/padding",
+      "/fr/docs/CSS/fr/CSS/-moz-padding-start"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-padding-start": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/CSS/padding",
+      "/fr/docs/CSS/fr/CSS/-moz-padding-end"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-spinning": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/fr/Gecko"
+    ]
+  },
+  "https://developer.mozilla.org/fr/docs/CSS/-moz-user-input": {
+    "301": [
+      "/fr/docs/CSS/Référence_CSS",
+      "/fr/docs/CSS/-moz-user-focus",
+      "/fr/docs/CSS/-moz-user-modify",
+      "/fr/docs/CSS/-moz-user-select"
+    ],
+    "404": [
+      "/fr/docs/Référence_CSS/ExtensionMozilla",
+      "/fr/docs/CSS/user-input"
+    ]
   }
 }
